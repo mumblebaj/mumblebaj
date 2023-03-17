@@ -43,7 +43,7 @@ I work as a Lead Systems Analyst <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my freetime i enjoy contributing to the [MagicMirror²](https://forum.magicmirror.builders/) forum and building modules.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-mumble/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-mumble/)
 
 ---
 
