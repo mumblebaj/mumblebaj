@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Systems Analyst Lead <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-- :telescope: I’m working as a Systems Analyst Lead designing software solutions
+I work as a Lead Systems Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and am from South Africa.
+- :telescope: My day-today entails designing software solutions
 
-- :seedling: Exploring Different Techs.
+- :seedling: Love Exploring New Technologies.
 
-- :zap: In my freetime i enjoy contributing to the ![MagicMirror²](https://forum.magicmirror.builders/) forum and building modules.
+- :zap: In my freetime i enjoy contributing to the [MagicMirror²](https://forum.magicmirror.builders/) forum and building modules.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-mumble/)
 
@@ -77,9 +77,9 @@ I am a Systems Analyst Lead <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mumblebaj&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 <img src="https://github-readme-stats.vercel.app/api?username=mumblebaj&amp;hide_title=false&amp;hide_border=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;line_height=20&amp;theme=great-gatsby" style="max-width: 100%;"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumblebaj&amp;hide_title=false&amp;hide_border=false&amp;layout=compact&amp;langs_count=10&amp;&amp;theme=great-gatsby&amp;count_private=true&amp;custom_title=My%20all%20time%20Most%20Used%20Languages" style="max-width: 100%;">
+</div>
 
 ---
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</div>
