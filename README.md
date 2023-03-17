@@ -80,6 +80,8 @@ I work as a Lead Systems Analyst <img src="https://media.giphy.com/media/WUlplcM
 </div>
 
 ---
+  ## A Little More About Me.
+  I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START -->
 - [INCREDIBLE CONSTRUCTION TECHNOLOGIES THAT ARE WORTH SEEING](https://www.youtube.com/watch?v=h5oJSuF3g8c)
