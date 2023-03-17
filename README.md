@@ -82,4 +82,8 @@ I work as a Lead Systems Analyst <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [INCREDIBLE CONSTRUCTION TECHNOLOGIES THAT ARE WORTH SEEING](https://www.youtube.com/watch?v=h5oJSuF3g8c)
+- [INCREDIBLE VEHICLES THAT ARE CAPABLE OF MORE THAN IT SEEMS](https://www.youtube.com/watch?v=Gt9XdXYE63U)
+- [14 COOL TOOLS YOU SHOULD KNOW ABOUT](https://www.youtube.com/watch?v=oLU_3X9CDUw)
+- [INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT](https://www.youtube.com/watch?v=cGKTpNBs5Rk)
 <!-- BLOG-POST-LIST:END -->
