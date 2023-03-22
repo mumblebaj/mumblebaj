@@ -84,5 +84,4 @@ I work as a Lead Systems Analyst <img src="https://media.giphy.com/media/WUlplcM
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START -->
-- [12 COOL TOOLS THAT ARE REALLY WORTH BUYING](https://www.youtube.com/watch?v=IDuBDgsx9qE)
 <!-- BLOG-POST-LIST:END -->
