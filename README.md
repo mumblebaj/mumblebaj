@@ -84,8 +84,8 @@ I work as a Lead Systems Analyst <img src="https://media.giphy.com/media/WUlplcM
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START -->
+- [13 INGENIOUS FISHING INVENTIONS YOU MUST SEE](https://www.youtube.com/watch?v=7C2oE9tAj78)
 - [12 COOL TOOLS THAT ARE REALLY WORTH BUYING](https://www.youtube.com/watch?v=IDuBDgsx9qE)
 - [INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT](https://www.youtube.com/watch?v=p_HcXcFUCeg)
 - [INCREDIBLE SPY GADGETS THAT WILL SURPRISE YOU](https://www.youtube.com/watch?v=xnSCzt4jIpE)
-- [INCREDIBLE CONSTRUCTION TECHNOLOGIES THAT ARE WORTH SEEING](https://www.youtube.com/watch?v=h5oJSuF3g8c)
 <!-- BLOG-POST-LIST:END -->
