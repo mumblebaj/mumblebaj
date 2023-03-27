@@ -84,6 +84,6 @@ I work as a Lead Systems Analyst <img src="https://media.giphy.com/media/WUlplcM
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START -->
+- [INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT](https://www.youtube.com/watch?v=pSBDiCtJlKI)
 - [INCREDIBLE WEAPON TUNING YOU MUST SEE](https://www.youtube.com/watch?v=2njvCK4jvAM)
-- [12 COOL GADGETS YOU HAVEN&#39;T SEEN BEFORE](https://www.youtube.com/watch?v=dTa4h7jbiDI)
 <!-- BLOG-POST-LIST:END -->
