@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I work as a Lead Systems Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and am from South Africa.
+I enjoy different projects and interesting tech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: My day-today entails designing software solutions
 
 - :seedling: Love Exploring New Technologies.
