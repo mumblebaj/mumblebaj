@@ -84,6 +84,6 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START -->
+- [INCREDIBLE WEAPONS THAT YOU SHOULD SEE](https://www.youtube.com/watch?v=kZAc8DAWKjs)
 - [MASCULINE VEHICLES YOU SHOULD SEE](https://www.youtube.com/watch?v=fcpcuXp5K-8)
-- [12 COOL GARDEN INVENTIONS AND GADGETS YOU DIDN&#39;T KNOW ABOUT](https://www.youtube.com/watch?v=2ZnMy3mDsrY)
 <!-- BLOG-POST-LIST:END -->
