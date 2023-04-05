@@ -84,6 +84,6 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START -->
+- [SATISFYING VIDEOS THAT ARE HARD TO TAKE YOUR EYES OFF](https://www.youtube.com/watch?v=NosA2icpCiY)
 - [INGENIOUS INVENTIONS YOU SHOULD KNOW ABOUT](https://www.youtube.com/watch?v=0xqQ39FBR34)
-- [INCREDIBLE CONCEPTS TAKEN TO THE NEXT LEVEL](https://www.youtube.com/watch?v=JBVxJtN8uJE)
 <!-- BLOG-POST-LIST:END -->
