@@ -84,6 +84,6 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START -->
+- [COOLEST SKATEBOARDS YOU&#39;LL WANT TO RIDE](https://www.youtube.com/watch?v=M2whZ4ALb0s)
 - [12 COOL TOOLS YOU MUST SEE](https://www.youtube.com/watch?v=GAz3s-z9lNg)
-- [SATISFYING VIDEOS THAT ARE HARD TO TAKE YOUR EYES OFF](https://www.youtube.com/watch?v=NosA2icpCiY)
 <!-- BLOG-POST-LIST:END -->
