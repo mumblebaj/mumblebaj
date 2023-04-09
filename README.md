@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M2whZ4ALb0s"><img width="140px" src="https://i.ytimg.com/vi/M2whZ4ALb0s/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZjZhX42KEeQ"><img width="140px" src="https://i.ytimg.com/vi/ZjZhX42KEeQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZjZhX42KEeQ">50 Incredible Moments Caught on CCTV Cameras</a><br/>Apr 8, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=f84Ehof3UGI"><img width="140px" src="https://i.ytimg.com/vi/f84Ehof3UGI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=f84Ehof3UGI">CONSTRUCTION TECHNOLOGIES THAT YOU SHOULD SEE</a><br/>Apr 8, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=M2whZ4ALb0s"><img width="140px" src="https://i.ytimg.com/vi/M2whZ4ALb0s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M2whZ4ALb0s">COOLEST SKATEBOARDS YOU&#39;LL WANT TO RIDE</a><br/>Apr 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GAz3s-z9lNg"><img width="140px" src="https://i.ytimg.com/vi/GAz3s-z9lNg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GAz3s-z9lNg">12 COOL TOOLS YOU MUST SEE</a><br/>Apr 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NosA2icpCiY"><img width="140px" src="https://i.ytimg.com/vi/NosA2icpCiY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NosA2icpCiY">SATISFYING VIDEOS THAT ARE HARD TO TAKE YOUR EYES OFF</a><br/>Apr 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0xqQ39FBR34"><img width="140px" src="https://i.ytimg.com/vi/0xqQ39FBR34/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0xqQ39FBR34">INGENIOUS INVENTIONS YOU SHOULD KNOW ABOUT</a><br/>Apr 2, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
