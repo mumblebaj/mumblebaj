@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N7RnIAdGiWw"><img width="140px" src="https://i.ytimg.com/vi/N7RnIAdGiWw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OaZHw3Y1bxY"><img width="140px" src="https://i.ytimg.com/vi/OaZHw3Y1bxY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OaZHw3Y1bxY">INCREDIBLE WOODWORKING EQUIPMENT THAT YOU HAVEN&#39;T SEEN YET</a><br/>Apr 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=N7RnIAdGiWw"><img width="140px" src="https://i.ytimg.com/vi/N7RnIAdGiWw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N7RnIAdGiWw">60 Luckiest People Ever Caught on Camera</a><br/>Apr 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AowTG9N0lQU"><img width="140px" src="https://i.ytimg.com/vi/AowTG9N0lQU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AowTG9N0lQU">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Apr 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZjZhX42KEeQ"><img width="140px" src="https://i.ytimg.com/vi/ZjZhX42KEeQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZjZhX42KEeQ">50 Incredible Moments Caught on CCTV Cameras</a><br/>Apr 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=f84Ehof3UGI"><img width="140px" src="https://i.ytimg.com/vi/f84Ehof3UGI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=f84Ehof3UGI">CONSTRUCTION TECHNOLOGIES THAT YOU SHOULD SEE</a><br/>Apr 8, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
