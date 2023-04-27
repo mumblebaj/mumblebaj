@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FAmLaCPXG2M"><img width="140px" src="https://i.ytimg.com/vi/FAmLaCPXG2M/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XWa8dXYDq3o"><img width="140px" src="https://i.ytimg.com/vi/XWa8dXYDq3o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XWa8dXYDq3o">12 COOL VEHICLES YOU WILL SEE FOR THE FIRST TIME</a><br/>Apr 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FAmLaCPXG2M"><img width="140px" src="https://i.ytimg.com/vi/FAmLaCPXG2M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FAmLaCPXG2M">Incredible Moments Caught on Camera</a><br/>Apr 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=w-yW3XAouvE"><img width="140px" src="https://i.ytimg.com/vi/w-yW3XAouvE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w-yW3XAouvE">13 AMAZON ITEMS YOU CAN BUY RIGHT NOW</a><br/>Apr 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iKDu-GXpXe8"><img width="140px" src="https://i.ytimg.com/vi/iKDu-GXpXe8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iKDu-GXpXe8">She Didn&#39;t Know That a Camera Was Watching Her And Did This</a><br/>Apr 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OaZHw3Y1bxY"><img width="140px" src="https://i.ytimg.com/vi/OaZHw3Y1bxY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OaZHw3Y1bxY">INCREDIBLE WOODWORKING EQUIPMENT THAT YOU HAVEN&#39;T SEEN YET</a><br/>Apr 11, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
