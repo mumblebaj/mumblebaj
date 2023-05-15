@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KT9P-ymlkaQ"><img width="140px" src="https://i.ytimg.com/vi/KT9P-ymlkaQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cShqphlPjkw"><img width="140px" src="https://i.ytimg.com/vi/cShqphlPjkw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cShqphlPjkw">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>May 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KT9P-ymlkaQ"><img width="140px" src="https://i.ytimg.com/vi/KT9P-ymlkaQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KT9P-ymlkaQ">Moments When Things Went Wrong</a><br/>May 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3ISTtDgtpMw"><img width="140px" src="https://i.ytimg.com/vi/3ISTtDgtpMw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3ISTtDgtpMw">12 BRUTAL VEHICLES THAT EVERY MAN WILL APPRECIATE</a><br/>May 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=W4RWDPvqXVI"><img width="140px" src="https://i.ytimg.com/vi/W4RWDPvqXVI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W4RWDPvqXVI">INCREDIBLE BIKES YOU&#39;LL WANT TO RIDE</a><br/>May 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bRZCKjgey4U"><img width="140px" src="https://i.ytimg.com/vi/bRZCKjgey4U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bRZCKjgey4U">COOL TOOLS THAT WILL HELP YOU WITH YOUR WORK</a><br/>May 2, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
