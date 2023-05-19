@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XzoFT4yNaMA"><img width="140px" src="https://i.ytimg.com/vi/XzoFT4yNaMA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mgHr_zf1Z9U"><img width="140px" src="https://i.ytimg.com/vi/mgHr_zf1Z9U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mgHr_zf1Z9U">Incredible Moments Caught On Camera</a><br/>May 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=h5fd8uQ-FCc"><img width="140px" src="https://i.ytimg.com/vi/h5fd8uQ-FCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=h5fd8uQ-FCc">AMAZING CONSTRUCTION TECHNOLOGIES YOU SHOULD SEE</a><br/>May 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XzoFT4yNaMA"><img width="140px" src="https://i.ytimg.com/vi/XzoFT4yNaMA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XzoFT4yNaMA">SATISFYING VIDEOS THAT ARE HARD TO TAKE YOUR EYES OFF</a><br/>May 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g2ISS11ctc8"><img width="140px" src="https://i.ytimg.com/vi/g2ISS11ctc8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g2ISS11ctc8">12 COOL TOOLS YOU SHOULD SEE</a><br/>May 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cShqphlPjkw"><img width="140px" src="https://i.ytimg.com/vi/cShqphlPjkw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cShqphlPjkw">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>May 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KT9P-ymlkaQ"><img width="140px" src="https://i.ytimg.com/vi/KT9P-ymlkaQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KT9P-ymlkaQ">Moments When Things Went Wrong</a><br/>May 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
