@@ -85,7 +85,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6ZFjR71i7E8"><img width="140px" src="https://i.ytimg.com/vi/6ZFjR71i7E8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6ZFjR71i7E8">BICYCLE INVENTIONS THAT HAVE REACHED A NEW LEVEL</a><br/>May 25, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=6ZFjR71i7E8">10 ATTRIBUTES OF A TRUE CYCLIST</a><br/>May 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AkdrpnaOfYA"><img width="140px" src="https://i.ytimg.com/vi/AkdrpnaOfYA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AkdrpnaOfYA">INCREDIBLE TECHNOLOGIES FOR THE URBAN ENVIRONMENT</a><br/>May 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8KEQRpehOvI"><img width="140px" src="https://i.ytimg.com/vi/8KEQRpehOvI/mqdefault.jpg"></a></td>
