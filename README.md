@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-wu7Mx-XvFE"><img width="140px" src="https://i.ytimg.com/vi/-wu7Mx-XvFE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-wu7Mx-XvFE">12 GADGETS THAT WILL KILL YOUR BOREDOM</a><br/>May 30, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EjlIuY1p6Zo"><img width="140px" src="https://i.ytimg.com/vi/EjlIuY1p6Zo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EjlIuY1p6Zo">HANDYMAN TIPS AND TRICKS THAT REALLY WORK</a><br/>May 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-wu7Mx-XvFE"><img width="140px" src="https://i.ytimg.com/vi/-wu7Mx-XvFE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-wu7Mx-XvFE">MODERN DEVICES THAT WILL MAKE YOUR LIFE BRIGHTER</a><br/>May 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CkjHV7dAea8"><img width="140px" src="https://i.ytimg.com/vi/CkjHV7dAea8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CkjHV7dAea8">They Didn&#39;t Know That a Camera Was Watching Them and Did This. 200 Incredible Moments</a><br/>May 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uX6Mr1-mlO4"><img width="140px" src="https://i.ytimg.com/vi/uX6Mr1-mlO4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uX6Mr1-mlO4">INCREDIBLE INVENTIONS THAT YOU HAVEN&#39;T SEEN YET</a><br/>May 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=04GNuKCPQqY"><img width="140px" src="https://i.ytimg.com/vi/04GNuKCPQqY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=04GNuKCPQqY">SELF-DEFENSE GADGETS YOU SHOULD SEE</a><br/>May 27, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
