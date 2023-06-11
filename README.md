@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=k4V6k-B2nU0"><img width="140px" src="https://i.ytimg.com/vi/k4V6k-B2nU0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=66YQ7xp99d4"><img width="140px" src="https://i.ytimg.com/vi/66YQ7xp99d4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=66YQ7xp99d4">COOL GADGETS YOU CAN BUY ON AMAZON</a><br/>Jun 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=k4V6k-B2nU0"><img width="140px" src="https://i.ytimg.com/vi/k4V6k-B2nU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=k4V6k-B2nU0">CRAZY CONCEPTS THAT WILL DRIVE YOU INSANE</a><br/>Jun 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SxbrnPnZRvc"><img width="140px" src="https://i.ytimg.com/vi/SxbrnPnZRvc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SxbrnPnZRvc">NEXT GENERATION POLICE INVENTIONS</a><br/>Jun 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TVvPm-kr0eA"><img width="140px" src="https://i.ytimg.com/vi/TVvPm-kr0eA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TVvPm-kr0eA">13 COOL TOOLS YOU REALLY NEED TO BUY</a><br/>Jun 6, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=11ZLJyN8aRg"><img width="140px" src="https://i.ytimg.com/vi/11ZLJyN8aRg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=11ZLJyN8aRg">15 COOL INVENTIONS YOU SHOULD KNOW ABOUT</a><br/>Jun 4, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
