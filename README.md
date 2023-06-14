@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lfFTC3mn5TQ"><img width="140px" src="https://i.ytimg.com/vi/lfFTC3mn5TQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2rCyRAHIQFo"><img width="140px" src="https://i.ytimg.com/vi/2rCyRAHIQFo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2rCyRAHIQFo">These Fishermen Did Not Expect To Catch This</a><br/>Jun 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BHo57DS9Zb0"><img width="140px" src="https://i.ytimg.com/vi/BHo57DS9Zb0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BHo57DS9Zb0">AMAZING WEAPONS THAT DON&#39;T NEED GUNPOWDER</a><br/>Jun 13, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lfFTC3mn5TQ"><img width="140px" src="https://i.ytimg.com/vi/lfFTC3mn5TQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lfFTC3mn5TQ">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Jun 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=66YQ7xp99d4"><img width="140px" src="https://i.ytimg.com/vi/66YQ7xp99d4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=66YQ7xp99d4">COOL GADGETS YOU CAN BUY ON AMAZON</a><br/>Jun 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=k4V6k-B2nU0"><img width="140px" src="https://i.ytimg.com/vi/k4V6k-B2nU0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=k4V6k-B2nU0">CRAZY CONCEPTS THAT WILL DRIVE YOU INSANE</a><br/>Jun 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SxbrnPnZRvc"><img width="140px" src="https://i.ytimg.com/vi/SxbrnPnZRvc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SxbrnPnZRvc">NEXT GENERATION POLICE INVENTIONS</a><br/>Jun 7, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
