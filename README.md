@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=G1B5dyLMLoA"><img width="140px" src="https://i.ytimg.com/vi/G1B5dyLMLoA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Dh70YH0_2SE"><img width="140px" src="https://i.ytimg.com/vi/Dh70YH0_2SE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Dh70YH0_2SE">COOL INVENTIONS YOU SHOULD SEE</a><br/>Jun 25, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=G1B5dyLMLoA"><img width="140px" src="https://i.ytimg.com/vi/G1B5dyLMLoA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G1B5dyLMLoA">16 GADGETS THAT ARE AT ANOTHER LEVEL</a><br/>Jun 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AwY6IMXupFA"><img width="140px" src="https://i.ytimg.com/vi/AwY6IMXupFA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AwY6IMXupFA">Incredible Moments Caught on Camera</a><br/>Jun 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=d9MWOuOlyFQ"><img width="140px" src="https://i.ytimg.com/vi/d9MWOuOlyFQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=d9MWOuOlyFQ">INCREDIBLE ROAD INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Jun 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=x856_RXzNk4"><img width="140px" src="https://i.ytimg.com/vi/x856_RXzNk4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=x856_RXzNk4">INCREDIBLE INVENTIONS FOR THE ROOF OF YOUR HOUSE</a><br/>Jun 21, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
