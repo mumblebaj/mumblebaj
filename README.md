@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VfJhln6FT88"><img width="140px" src="https://i.ytimg.com/vi/VfJhln6FT88/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VfJhln6FT88">Incredible Moments Caught on Camera</a><br/>Jun 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ekUIlpTgVYU"><img width="140px" src="https://i.ytimg.com/vi/ekUIlpTgVYU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ekUIlpTgVYU">COOL GADGETS FOR SURVIVAL IN THE FOREST</a><br/>Jun 29, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=ekUIlpTgVYU">15 SURVIVAL GADGETS EVERY MAN SHOULD HAVE</a><br/>Jun 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0_1FcL8Lr6g"><img width="140px" src="https://i.ytimg.com/vi/0_1FcL8Lr6g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0_1FcL8Lr6g">HANDYMAN TIPS AND TRICKS THAT REALLY WORK</a><br/>Jun 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JGHPFglAcXw"><img width="140px" src="https://i.ytimg.com/vi/JGHPFglAcXw/mqdefault.jpg"></a></td>
