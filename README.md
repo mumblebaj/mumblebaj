@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7dcCjqJ9MoE"><img width="140px" src="https://i.ytimg.com/vi/7dcCjqJ9MoE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LZX-_eGFAEE"><img width="140px" src="https://i.ytimg.com/vi/LZX-_eGFAEE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LZX-_eGFAEE">Drone&#39;s Camera Caught Something Incredible</a><br/>Jul 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_aBWdIA15R8"><img width="140px" src="https://i.ytimg.com/vi/_aBWdIA15R8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_aBWdIA15R8">GARDEN EQUIPMENT THAT YOU WILL WANT TO BUY</a><br/>Jul 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7dcCjqJ9MoE"><img width="140px" src="https://i.ytimg.com/vi/7dcCjqJ9MoE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7dcCjqJ9MoE">COOL INVENTIONS YOU SHOULD SEE</a><br/>Jul 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Hb9fNcdRST4"><img width="140px" src="https://i.ytimg.com/vi/Hb9fNcdRST4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Hb9fNcdRST4">COOL INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Jul 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Fz1gn-PpcsI"><img width="140px" src="https://i.ytimg.com/vi/Fz1gn-PpcsI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Fz1gn-PpcsI">BRUTAL VEHICLES THAT EVERY MAN WILL APPRECIATE</a><br/>Jul 6, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GnTgLI0_N6k"><img width="140px" src="https://i.ytimg.com/vi/GnTgLI0_N6k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GnTgLI0_N6k">SATISFYING VIDEOS OF WORKERS THAT WILL HELP YOU RELAX</a><br/>Jul 5, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
