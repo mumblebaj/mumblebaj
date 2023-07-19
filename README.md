@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ghRW3wN-rSI"><img width="140px" src="https://i.ytimg.com/vi/ghRW3wN-rSI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=B2CQAOhh8xs"><img width="140px" src="https://i.ytimg.com/vi/B2CQAOhh8xs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B2CQAOhh8xs">55 Things You Will See for the First Time in Your Life</a><br/>Jul 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_xKNhYBZQw0"><img width="140px" src="https://i.ytimg.com/vi/_xKNhYBZQw0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_xKNhYBZQw0">15 TOOLS THAT ARE WORTH YOUR ATTENTION</a><br/>Jul 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ghRW3wN-rSI"><img width="140px" src="https://i.ytimg.com/vi/ghRW3wN-rSI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ghRW3wN-rSI">MOBILE HOMES YOU HAVEN&#39;T SEEN BEFORE</a><br/>Jul 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DRpOIQfZ59Q"><img width="140px" src="https://i.ytimg.com/vi/DRpOIQfZ59Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DRpOIQfZ59Q">COOL GADGETS YOU CAN BUY ON AMAZON</a><br/>Jul 15, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0iEVzUgQieM"><img width="140px" src="https://i.ytimg.com/vi/0iEVzUgQieM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0iEVzUgQieM">15 BRILLIANT HOMEMADE PROJECTS THAT ARE WORTH YOUR ATTENTION</a><br/>Jul 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GkA9OBOfLkI"><img width="140px" src="https://i.ytimg.com/vi/GkA9OBOfLkI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GkA9OBOfLkI">INCREDIBLE INVENTIONS FOR YOUR SLEEP</a><br/>Jul 12, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
