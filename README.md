@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NVIbV_gHfW0"><img width="140px" src="https://i.ytimg.com/vi/NVIbV_gHfW0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kWYgtlCsQro"><img width="140px" src="https://i.ytimg.com/vi/kWYgtlCsQro/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kWYgtlCsQro">19 INVENTIONS ON A WHOLE NEW LEVEL</a><br/>Jul 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jv_5Q-U0Xp4"><img width="140px" src="https://i.ytimg.com/vi/jv_5Q-U0Xp4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jv_5Q-U0Xp4">Incredible Moments Caught on Camera</a><br/>Jul 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NVIbV_gHfW0"><img width="140px" src="https://i.ytimg.com/vi/NVIbV_gHfW0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NVIbV_gHfW0">INCREDIBLE CONCEPTS THAT WILL BLOW YOUR MIND</a><br/>Jul 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tX6NlMOXJIE"><img width="140px" src="https://i.ytimg.com/vi/tX6NlMOXJIE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tX6NlMOXJIE">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jul 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=y_KxMog_Io8"><img width="140px" src="https://i.ytimg.com/vi/y_KxMog_Io8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y_KxMog_Io8">Drone&#39;s Camera Caught Something Incredible</a><br/>Jul 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YwFXiuxaqCo"><img width="140px" src="https://i.ytimg.com/vi/YwFXiuxaqCo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YwFXiuxaqCo">CAMPING INVENTIONS THAT ARE AT THE NEXT LEVEL</a><br/>Jul 19, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
