@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jzJ6tRVaMSU"><img width="140px" src="https://i.ytimg.com/vi/jzJ6tRVaMSU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HgPI23L1ux8"><img width="140px" src="https://i.ytimg.com/vi/HgPI23L1ux8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HgPI23L1ux8">INCREDIBLE SHOES THAT WILL AMAZE YOU</a><br/>Jul 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jzJ6tRVaMSU"><img width="140px" src="https://i.ytimg.com/vi/jzJ6tRVaMSU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jzJ6tRVaMSU">18 COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Jul 25, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kWYgtlCsQro"><img width="140px" src="https://i.ytimg.com/vi/kWYgtlCsQro/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kWYgtlCsQro">19 INVENTIONS ON A WHOLE NEW LEVEL</a><br/>Jul 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jv_5Q-U0Xp4"><img width="140px" src="https://i.ytimg.com/vi/jv_5Q-U0Xp4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jv_5Q-U0Xp4">Incredible Moments Caught on Camera</a><br/>Jul 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NVIbV_gHfW0"><img width="140px" src="https://i.ytimg.com/vi/NVIbV_gHfW0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NVIbV_gHfW0">INCREDIBLE CONCEPTS THAT WILL BLOW YOUR MIND</a><br/>Jul 22, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
