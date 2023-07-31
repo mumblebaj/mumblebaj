@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PxbkAoY-xXU"><img width="140px" src="https://i.ytimg.com/vi/PxbkAoY-xXU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nuwbIHfMjlg"><img width="140px" src="https://i.ytimg.com/vi/nuwbIHfMjlg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nuwbIHfMjlg">70 INVENTIONS ON A WHOLE NEW LEVEL</a><br/>Jul 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SISwdg1HKyU"><img width="140px" src="https://i.ytimg.com/vi/SISwdg1HKyU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SISwdg1HKyU">They Didn&#39;t Know That a Camera Was Watching Them and Did This. 200 Incredible Moments</a><br/>Jul 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PxbkAoY-xXU"><img width="140px" src="https://i.ytimg.com/vi/PxbkAoY-xXU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PxbkAoY-xXU">15 COOL GADGETS YOU DIDN&#39;T KNOW ABOUT BEFORE</a><br/>Jul 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-WnMCW90XhE"><img width="140px" src="https://i.ytimg.com/vi/-WnMCW90XhE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-WnMCW90XhE">CAR INVENTIONS THAT HAVE REACHED A NEW LEVEL</a><br/>Jul 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HgPI23L1ux8"><img width="140px" src="https://i.ytimg.com/vi/HgPI23L1ux8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HgPI23L1ux8">INCREDIBLE SHOES THAT WILL AMAZE YOU</a><br/>Jul 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jzJ6tRVaMSU"><img width="140px" src="https://i.ytimg.com/vi/jzJ6tRVaMSU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jzJ6tRVaMSU">18 COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Jul 25, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
