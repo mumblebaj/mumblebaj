@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jLy84OxKGdk"><img width="140px" src="https://i.ytimg.com/vi/jLy84OxKGdk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jLy84OxKGdk">INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Aug 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1h-t3WRmKds"><img width="140px" src="https://i.ytimg.com/vi/1h-t3WRmKds/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1h-t3WRmKds">GADGETS THAT ARE AT ANOTHER LEVEL</a><br/>Aug 5, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=1h-t3WRmKds">10 COOLEST GADGETS EVERY MAN WILL APPRECIATE</a><br/>Aug 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bXQdf9Mjn6Q"><img width="140px" src="https://i.ytimg.com/vi/bXQdf9Mjn6Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bXQdf9Mjn6Q">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Aug 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pkkU3b97DN0"><img width="140px" src="https://i.ytimg.com/vi/pkkU3b97DN0/mqdefault.jpg"></a></td>
