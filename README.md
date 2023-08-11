@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=J7jOIke6Phs"><img width="140px" src="https://i.ytimg.com/vi/J7jOIke6Phs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YnG2c-J8JMQ"><img width="140px" src="https://i.ytimg.com/vi/YnG2c-J8JMQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YnG2c-J8JMQ">HOME IMPROVEMENTS THAT YOU CAN MAKE WITH YOUR OWN HANDS</a><br/>Aug 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=J7jOIke6Phs"><img width="140px" src="https://i.ytimg.com/vi/J7jOIke6Phs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=J7jOIke6Phs">UNUSUAL IDEAS FOR HOME AND FURNITURE THAT SAVES SPACE</a><br/>Aug 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xaCs70INJB4"><img width="140px" src="https://i.ytimg.com/vi/xaCs70INJB4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xaCs70INJB4">MILWAUKEE TOOLS YOU NEED TO SEE</a><br/>Aug 8, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=xaCs70INJB4">COOL TOOLS YOU&#39;LL WANT TO BUY</a><br/>Aug 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jLy84OxKGdk"><img width="140px" src="https://i.ytimg.com/vi/jLy84OxKGdk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jLy84OxKGdk">INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Aug 6, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1h-t3WRmKds"><img width="140px" src="https://i.ytimg.com/vi/1h-t3WRmKds/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1h-t3WRmKds">10 COOLEST GADGETS EVERY MAN WILL APPRECIATE</a><br/>Aug 5, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
