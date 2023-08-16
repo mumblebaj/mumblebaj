@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=txfzB-bE8LM"><img width="140px" src="https://i.ytimg.com/vi/txfzB-bE8LM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I1N9xLM6VXo"><img width="140px" src="https://i.ytimg.com/vi/I1N9xLM6VXo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I1N9xLM6VXo">15 MOST USEFUL GADGETS FOR YOUR GARDEN</a><br/>Aug 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=txfzB-bE8LM"><img width="140px" src="https://i.ytimg.com/vi/txfzB-bE8LM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=txfzB-bE8LM">FANTASTIC INVENTIONS YOU SHOULD LEARN ABOUT</a><br/>Aug 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kZjGYHhkA98"><img width="140px" src="https://i.ytimg.com/vi/kZjGYHhkA98/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kZjGYHhkA98">SMART CAMPING INVENTIONS THAT ARE ON THE NEXT LEVEL</a><br/>Aug 12, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YnG2c-J8JMQ"><img width="140px" src="https://i.ytimg.com/vi/YnG2c-J8JMQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YnG2c-J8JMQ">HOME IMPROVEMENTS THAT YOU CAN MAKE WITH YOUR OWN HANDS</a><br/>Aug 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=J7jOIke6Phs"><img width="140px" src="https://i.ytimg.com/vi/J7jOIke6Phs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=J7jOIke6Phs">UNUSUAL IDEAS FOR HOME AND FURNITURE THAT SAVES SPACE</a><br/>Aug 9, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
