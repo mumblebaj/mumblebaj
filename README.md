@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WxghWHI3qg4"><img width="140px" src="https://i.ytimg.com/vi/WxghWHI3qg4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KcswwENfMIU"><img width="140px" src="https://i.ytimg.com/vi/KcswwENfMIU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KcswwENfMIU">Incredible Moments Caught On Camera</a><br/>Aug 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=g3NDAK5X1nA"><img width="140px" src="https://i.ytimg.com/vi/g3NDAK5X1nA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g3NDAK5X1nA">YOU WON&#39;T BELIEVE WHAT THESE MACHINES CAN DO</a><br/>Aug 20, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WxghWHI3qg4"><img width="140px" src="https://i.ytimg.com/vi/WxghWHI3qg4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WxghWHI3qg4">15 COOLEST CONSTRUCTION GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Aug 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=l0ncDd7jAr0"><img width="140px" src="https://i.ytimg.com/vi/l0ncDd7jAr0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=l0ncDd7jAr0">Incredible Synchronicity That Looks Like a Glitch in the Matrix</a><br/>Aug 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9UAoNlNmvXM"><img width="140px" src="https://i.ytimg.com/vi/9UAoNlNmvXM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9UAoNlNmvXM">That Was Really Filmed on Camera</a><br/>Aug 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-JWJ3ZOLwAo"><img width="140px" src="https://i.ytimg.com/vi/-JWJ3ZOLwAo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-JWJ3ZOLwAo">MIND BLOWING MILITARY TECHNOLOGIES THAT WILL SURPRISE YOU</a><br/>Aug 17, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
