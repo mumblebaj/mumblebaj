@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KcswwENfMIU"><img width="140px" src="https://i.ytimg.com/vi/KcswwENfMIU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KcswwENfMIU">Incredible Moments Caught On Camera</a><br/>Aug 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g3NDAK5X1nA"><img width="140px" src="https://i.ytimg.com/vi/g3NDAK5X1nA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g3NDAK5X1nA">YOU WON&#39;T BELIEVE WHAT THESE MACHINES CAN DO</a><br/>Aug 20, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=g3NDAK5X1nA">INCREDIBLE VEHICLES THAT ARE CAPABLE OF MORE THAN IT SEEMS</a><br/>Aug 20, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WxghWHI3qg4"><img width="140px" src="https://i.ytimg.com/vi/WxghWHI3qg4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WxghWHI3qg4">15 COOLEST CONSTRUCTION GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Aug 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=l0ncDd7jAr0"><img width="140px" src="https://i.ytimg.com/vi/l0ncDd7jAr0/mqdefault.jpg"></a></td>
