@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PBFnmGp1Euo"><img width="140px" src="https://i.ytimg.com/vi/PBFnmGp1Euo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1CiuHLlpEyg"><img width="140px" src="https://i.ytimg.com/vi/1CiuHLlpEyg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1CiuHLlpEyg">One in a Billion Moments in Nature</a><br/>Aug 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=15wAW5r2Xkw"><img width="140px" src="https://i.ytimg.com/vi/15wAW5r2Xkw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=15wAW5r2Xkw">SATISFYING VIDEOS OF WORKERS DOING THEIR JOB PERFECTLY</a><br/>Aug 23, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PBFnmGp1Euo"><img width="140px" src="https://i.ytimg.com/vi/PBFnmGp1Euo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PBFnmGp1Euo">Ingenious Construction Workers That Are on Another Level</a><br/>Aug 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t04XoyxPyRU"><img width="140px" src="https://i.ytimg.com/vi/t04XoyxPyRU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t04XoyxPyRU">16 COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Aug 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KcswwENfMIU"><img width="140px" src="https://i.ytimg.com/vi/KcswwENfMIU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KcswwENfMIU">Incredible Moments Caught On Camera</a><br/>Aug 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=g3NDAK5X1nA"><img width="140px" src="https://i.ytimg.com/vi/g3NDAK5X1nA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g3NDAK5X1nA">INCREDIBLE VEHICLES THAT ARE CAPABLE OF MORE THAN IT SEEMS</a><br/>Aug 20, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
