@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zeJvpXZX_j4"><img width="140px" src="https://i.ytimg.com/vi/zeJvpXZX_j4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LUfydgjFd_U"><img width="140px" src="https://i.ytimg.com/vi/LUfydgjFd_U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LUfydgjFd_U">Idiots on Wheels Caught On Camera</a><br/>Aug 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QdS3WrgrSSg"><img width="140px" src="https://i.ytimg.com/vi/QdS3WrgrSSg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QdS3WrgrSSg">15 COOL TOOLS FOR YOUR AUTO REPAIR SHOP</a><br/>Aug 26, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zeJvpXZX_j4"><img width="140px" src="https://i.ytimg.com/vi/zeJvpXZX_j4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zeJvpXZX_j4">That Was Really Filmed on Camera</a><br/>Aug 24, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5RMVhrzzVN4"><img width="140px" src="https://i.ytimg.com/vi/5RMVhrzzVN4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5RMVhrzzVN4">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Aug 24, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1CiuHLlpEyg"><img width="140px" src="https://i.ytimg.com/vi/1CiuHLlpEyg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1CiuHLlpEyg">One in a Billion Moments in Nature</a><br/>Aug 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=15wAW5r2Xkw"><img width="140px" src="https://i.ytimg.com/vi/15wAW5r2Xkw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=15wAW5r2Xkw">SATISFYING VIDEOS OF WORKERS DOING THEIR JOB PERFECTLY</a><br/>Aug 23, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
