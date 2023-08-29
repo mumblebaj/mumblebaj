@@ -91,5 +91,5 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=LUfydgjFd_U"><img width="140px" src="https://i.ytimg.com/vi/LUfydgjFd_U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LUfydgjFd_U">Idiots on Wheels Caught On Camera</a><br/>Aug 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QdS3WrgrSSg"><img width="140px" src="https://i.ytimg.com/vi/QdS3WrgrSSg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QdS3WrgrSSg">15 COOL TOOLS FOR YOUR AUTO REPAIR SHOP</a><br/>Aug 26, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=QdS3WrgrSSg">15 BEST INVENTIONS FOR YOUR GARAGE</a><br/>Aug 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
