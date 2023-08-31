@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OMRUTjw0RU0"><img width="140px" src="https://i.ytimg.com/vi/OMRUTjw0RU0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yyqV5KgL89E"><img width="140px" src="https://i.ytimg.com/vi/yyqV5KgL89E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yyqV5KgL89E">Moments When Water Went Out of Control</a><br/>Aug 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OgPWKYKeOc8"><img width="140px" src="https://i.ytimg.com/vi/OgPWKYKeOc8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OgPWKYKeOc8">HANDYMAN TIPS AND TRICKS THAT REALLY WORK</a><br/>Aug 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OMRUTjw0RU0"><img width="140px" src="https://i.ytimg.com/vi/OMRUTjw0RU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OMRUTjw0RU0">45 Things You Will See for the First Time in Your Life</a><br/>Aug 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GHqgKrMSVl8"><img width="140px" src="https://i.ytimg.com/vi/GHqgKrMSVl8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GHqgKrMSVl8">BRILLIANT HOMEMADE PROJECTS THAT HAVE GONE TO THE NEXT LEVEL</a><br/>Aug 29, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6owuwc8wlW4"><img width="140px" src="https://i.ytimg.com/vi/6owuwc8wlW4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6owuwc8wlW4">CAMPING INVENTIONS THAT ARE ON THE NEXT LEVEL</a><br/>Aug 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PW3i4CYUSPc"><img width="140px" src="https://i.ytimg.com/vi/PW3i4CYUSPc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PW3i4CYUSPc">She Didn&#39;t Know That a Camera Was Watching Her</a><br/>Aug 27, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
