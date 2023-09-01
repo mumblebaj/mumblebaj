@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yyqV5KgL89E"><img width="140px" src="https://i.ytimg.com/vi/yyqV5KgL89E/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nbzeM7jCZec"><img width="140px" src="https://i.ytimg.com/vi/nbzeM7jCZec/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nbzeM7jCZec">That Was Really Filmed on Camera</a><br/>Aug 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VxMtR24BNSo"><img width="140px" src="https://i.ytimg.com/vi/VxMtR24BNSo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VxMtR24BNSo">15 CAR GADGETS YOU&#39;LL WANT TO BUY</a><br/>Aug 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yyqV5KgL89E"><img width="140px" src="https://i.ytimg.com/vi/yyqV5KgL89E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yyqV5KgL89E">Moments When Water Went Out of Control</a><br/>Aug 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OgPWKYKeOc8"><img width="140px" src="https://i.ytimg.com/vi/OgPWKYKeOc8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OgPWKYKeOc8">HANDYMAN TIPS AND TRICKS THAT REALLY WORK</a><br/>Aug 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OMRUTjw0RU0"><img width="140px" src="https://i.ytimg.com/vi/OMRUTjw0RU0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OMRUTjw0RU0">45 Things You Will See for the First Time in Your Life</a><br/>Aug 29, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GHqgKrMSVl8"><img width="140px" src="https://i.ytimg.com/vi/GHqgKrMSVl8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GHqgKrMSVl8">BRILLIANT HOMEMADE PROJECTS THAT HAVE GONE TO THE NEXT LEVEL</a><br/>Aug 29, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
