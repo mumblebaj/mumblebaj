@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2rVJYMIbSnY"><img width="140px" src="https://i.ytimg.com/vi/2rVJYMIbSnY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S4Rt-MlqBqs"><img width="140px" src="https://i.ytimg.com/vi/S4Rt-MlqBqs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=S4Rt-MlqBqs">They Didn&#39;t Know That a Camera Was Watching Them and Did This. 200 Incredible Moments</a><br/>Sep 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ySiMEbvC80Q"><img width="140px" src="https://i.ytimg.com/vi/ySiMEbvC80Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ySiMEbvC80Q">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Sep 3, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2rVJYMIbSnY"><img width="140px" src="https://i.ytimg.com/vi/2rVJYMIbSnY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2rVJYMIbSnY">70 Incredible Moments Caught on CCTV Camera</a><br/>Sep 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gRMZOeA0AH4"><img width="140px" src="https://i.ytimg.com/vi/gRMZOeA0AH4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gRMZOeA0AH4">CRAZY TRANSPORT THAT EVERYONE WILL LIKE</a><br/>Sep 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nbzeM7jCZec"><img width="140px" src="https://i.ytimg.com/vi/nbzeM7jCZec/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nbzeM7jCZec">That Was Really Filmed on Camera</a><br/>Aug 31, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VxMtR24BNSo"><img width="140px" src="https://i.ytimg.com/vi/VxMtR24BNSo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VxMtR24BNSo">15 CAR GADGETS YOU&#39;LL WANT TO BUY</a><br/>Aug 31, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
