@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hQqrlY3aCG8"><img width="140px" src="https://i.ytimg.com/vi/hQqrlY3aCG8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XmEwiSPl-KA"><img width="140px" src="https://i.ytimg.com/vi/XmEwiSPl-KA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XmEwiSPl-KA">Incredible Moments Caught on Camera</a><br/>Sep 7, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=r3_dfE8oyqs"><img width="140px" src="https://i.ytimg.com/vi/r3_dfE8oyqs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=r3_dfE8oyqs">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Sep 7, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hQqrlY3aCG8"><img width="140px" src="https://i.ytimg.com/vi/hQqrlY3aCG8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hQqrlY3aCG8">14 COOL INVENTIONS FOR YOUR HOME</a><br/>Sep 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6t3ccaKKBSY"><img width="140px" src="https://i.ytimg.com/vi/6t3ccaKKBSY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6t3ccaKKBSY">One In a Billion Moments in Nature</a><br/>Sep 6, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ke3FXePWXxU"><img width="140px" src="https://i.ytimg.com/vi/Ke3FXePWXxU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ke3FXePWXxU">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Sep 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yiQz95tgynU"><img width="140px" src="https://i.ytimg.com/vi/yiQz95tgynU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yiQz95tgynU">AMAZING TOOLS THAT ARE ON ANOTHER LEVEL</a><br/>Sep 5, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
