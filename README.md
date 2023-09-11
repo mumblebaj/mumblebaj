@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0XGSO-eREDY"><img width="140px" src="https://i.ytimg.com/vi/0XGSO-eREDY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0XGSO-eREDY">INCREDIBLE INVENTIONS THAT WILL HELP YOU RELAX</a><br/>Sep 9, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-XXtVIVNN9w"><img width="140px" src="https://i.ytimg.com/vi/-XXtVIVNN9w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-XXtVIVNN9w">13 HOME SECURITY GADGETS YOU SHOULD SEE</a><br/>Sep 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NN--RqOcNU0"><img width="140px" src="https://i.ytimg.com/vi/NN--RqOcNU0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NN--RqOcNU0">Incredible Sports Moments Caught on Camera</a><br/>Sep 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0XGSO-eREDY"><img width="140px" src="https://i.ytimg.com/vi/0XGSO-eREDY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0XGSO-eREDY">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Sep 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dN4zdm95Sjk"><img width="140px" src="https://i.ytimg.com/vi/dN4zdm95Sjk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dN4zdm95Sjk">Luckiest People Ever Caught on Camera</a><br/>Sep 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XmEwiSPl-KA"><img width="140px" src="https://i.ytimg.com/vi/XmEwiSPl-KA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XmEwiSPl-KA">Incredible Moments Caught on Camera</a><br/>Sep 7, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=r3_dfE8oyqs"><img width="140px" src="https://i.ytimg.com/vi/r3_dfE8oyqs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=r3_dfE8oyqs">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Sep 7, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
