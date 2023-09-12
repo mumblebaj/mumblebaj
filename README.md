@@ -75,7 +75,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
  ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mumblebaj&theme=dark&background=000000)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mumblebaj)](https://git.io/streak-stats) <br>
 <img src="https://readmestats.999857.xyz/api?username=mumblebaj&amp;hide_title=false&amp;hide_border=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;line_height=20&amp;theme=great-gatsby" style="max-width: 100%;"><br>
 <img src="https://readmestats.999857.xyz/api/top-langs/?username=mumblebaj&amp;hide_title=false&amp;hide_border=false&amp;layout=compact&amp;langs_count=10&amp;&amp;theme=great-gatsby&amp;count_private=true&amp;custom_title=My%20all%20time%20Most%20Used%20Languages" style="max-width:100%;">
 </div>
