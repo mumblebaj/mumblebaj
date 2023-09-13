@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-XXtVIVNN9w"><img width="140px" src="https://i.ytimg.com/vi/-XXtVIVNN9w/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PqObp0EiCa0"><img width="140px" src="https://i.ytimg.com/vi/PqObp0EiCa0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PqObp0EiCa0">God Level Drivers Who Do Unreal Things</a><br/>Sep 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zni4Wa7A_z8"><img width="140px" src="https://i.ytimg.com/vi/zni4Wa7A_z8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zni4Wa7A_z8">16 SURVIVAL GADGETS EVERY MAN SHOULD HAVE</a><br/>Sep 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-XXtVIVNN9w"><img width="140px" src="https://i.ytimg.com/vi/-XXtVIVNN9w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-XXtVIVNN9w">13 HOME SECURITY GADGETS YOU SHOULD SEE</a><br/>Sep 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NN--RqOcNU0"><img width="140px" src="https://i.ytimg.com/vi/NN--RqOcNU0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NN--RqOcNU0">Incredible Sports Moments Caught on Camera</a><br/>Sep 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0XGSO-eREDY"><img width="140px" src="https://i.ytimg.com/vi/0XGSO-eREDY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0XGSO-eREDY">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Sep 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dN4zdm95Sjk"><img width="140px" src="https://i.ytimg.com/vi/dN4zdm95Sjk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dN4zdm95Sjk">Luckiest People Ever Caught on Camera</a><br/>Sep 9, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
