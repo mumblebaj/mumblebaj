@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1j71uzCCpWs"><img width="140px" src="https://i.ytimg.com/vi/1j71uzCCpWs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pIeqZ8mIvNE"><img width="140px" src="https://i.ytimg.com/vi/pIeqZ8mIvNE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pIeqZ8mIvNE">This Attraction Should Not Exist</a><br/>Sep 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WdMfvOCbs5c"><img width="140px" src="https://i.ytimg.com/vi/WdMfvOCbs5c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WdMfvOCbs5c">15 MOST USEFUL GADGETS FOR YOUR GARDEN</a><br/>Sep 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1j71uzCCpWs"><img width="140px" src="https://i.ytimg.com/vi/1j71uzCCpWs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1j71uzCCpWs">Incredible Road Moments Caught on Camera</a><br/>Sep 17, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=z1s3F_5IHsw"><img width="140px" src="https://i.ytimg.com/vi/z1s3F_5IHsw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z1s3F_5IHsw">15 COOLEST MOBILE HOMES YOU SHOULD SEE</a><br/>Sep 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=u_ysfpS91kA"><img width="140px" src="https://i.ytimg.com/vi/u_ysfpS91kA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=u_ysfpS91kA">Incredible Moments Caught on Camera</a><br/>Sep 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=14Tcj-6oMaE"><img width="140px" src="https://i.ytimg.com/vi/14Tcj-6oMaE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=14Tcj-6oMaE">CAR INVENTIONS THAT HAVE REACHED A NEW LEVEL</a><br/>Sep 16, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
