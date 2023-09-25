@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ch7Bq1deLy4"><img width="140px" src="https://i.ytimg.com/vi/ch7Bq1deLy4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KN0vqoOi6ek"><img width="140px" src="https://i.ytimg.com/vi/KN0vqoOi6ek/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KN0vqoOi6ek">COOL INVENTIONS YOU SHOULD SEE</a><br/>Sep 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AJ8i-OTkTic"><img width="140px" src="https://i.ytimg.com/vi/AJ8i-OTkTic/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AJ8i-OTkTic">They Didn&#39;t Know That a Camera Was Watching Them and Did This</a><br/>Sep 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ch7Bq1deLy4"><img width="140px" src="https://i.ytimg.com/vi/ch7Bq1deLy4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ch7Bq1deLy4">50 Unbelievable Aviation Moments Caught on Camera</a><br/>Sep 23, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CCN5c_OW_g8"><img width="140px" src="https://i.ytimg.com/vi/CCN5c_OW_g8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CCN5c_OW_g8">12 QUICK-BUILD SOLUTIONS THAT ARE REALLY IMPRESSIVE</a><br/>Sep 23, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BWnF2meKA2M"><img width="140px" src="https://i.ytimg.com/vi/BWnF2meKA2M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BWnF2meKA2M">Camera Caught a Moment That Can Not Go Unnoticed</a><br/>Sep 21, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AWJzCER7pPc"><img width="140px" src="https://i.ytimg.com/vi/AWJzCER7pPc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AWJzCER7pPc">CAMPING INVENTIONS THAT ARE ON THE NEXT LEVEL</a><br/>Sep 21, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
