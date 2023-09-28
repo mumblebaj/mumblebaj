@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9Qe6uA4iyEQ"><img width="140px" src="https://i.ytimg.com/vi/9Qe6uA4iyEQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VgQjr6P7zP4"><img width="140px" src="https://i.ytimg.com/vi/VgQjr6P7zP4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VgQjr6P7zP4">Incredible Cooking Skills That Are on Another Level</a><br/>Sep 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yxKnelFKHWg"><img width="140px" src="https://i.ytimg.com/vi/yxKnelFKHWg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yxKnelFKHWg">16 COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Sep 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9Qe6uA4iyEQ"><img width="140px" src="https://i.ytimg.com/vi/9Qe6uA4iyEQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9Qe6uA4iyEQ">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Sep 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tszheuD6ywU"><img width="140px" src="https://i.ytimg.com/vi/tszheuD6ywU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tszheuD6ywU">SMART INVENTIONS FOR YOUR HOME</a><br/>Sep 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KN0vqoOi6ek"><img width="140px" src="https://i.ytimg.com/vi/KN0vqoOi6ek/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KN0vqoOi6ek">COOL INVENTIONS YOU SHOULD SEE</a><br/>Sep 24, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AJ8i-OTkTic"><img width="140px" src="https://i.ytimg.com/vi/AJ8i-OTkTic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AJ8i-OTkTic">They Didn&#39;t Know That a Camera Was Watching Them and Did This</a><br/>Sep 24, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
