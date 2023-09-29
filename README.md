@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VgQjr6P7zP4"><img width="140px" src="https://i.ytimg.com/vi/VgQjr6P7zP4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-BLZLngTzaU"><img width="140px" src="https://i.ytimg.com/vi/-BLZLngTzaU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-BLZLngTzaU">INCREDIBLE MOMENTS</a><br/>Sep 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mHzHhFpph3o"><img width="140px" src="https://i.ytimg.com/vi/mHzHhFpph3o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mHzHhFpph3o">SATISFYING VIDEOS OF WORKERS DOING THEIR JOB PERFECTLY</a><br/>Sep 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VgQjr6P7zP4"><img width="140px" src="https://i.ytimg.com/vi/VgQjr6P7zP4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VgQjr6P7zP4">Incredible Cooking Skills That Are on Another Level</a><br/>Sep 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yxKnelFKHWg"><img width="140px" src="https://i.ytimg.com/vi/yxKnelFKHWg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yxKnelFKHWg">16 COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Sep 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9Qe6uA4iyEQ"><img width="140px" src="https://i.ytimg.com/vi/9Qe6uA4iyEQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9Qe6uA4iyEQ">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Sep 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tszheuD6ywU"><img width="140px" src="https://i.ytimg.com/vi/tszheuD6ywU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tszheuD6ywU">SMART INVENTIONS FOR YOUR HOME</a><br/>Sep 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
