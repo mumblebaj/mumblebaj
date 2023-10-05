@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7q170W6CZS0"><img width="140px" src="https://i.ytimg.com/vi/7q170W6CZS0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=umjGCewf_VQ"><img width="140px" src="https://i.ytimg.com/vi/umjGCewf_VQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=umjGCewf_VQ">NINJA GADGETS THAT WILL MAKE YOU AN ASSASSIN</a><br/>Oct 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZoS1q8Om1DQ"><img width="140px" src="https://i.ytimg.com/vi/ZoS1q8Om1DQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZoS1q8Om1DQ">Drone&#39;s Camera Caught Something Incredible</a><br/>Oct 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7q170W6CZS0"><img width="140px" src="https://i.ytimg.com/vi/7q170W6CZS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7q170W6CZS0">Total Idiots At Work Caught On Camera</a><br/>Oct 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=n93GubYBONk"><img width="140px" src="https://i.ytimg.com/vi/n93GubYBONk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n93GubYBONk">20 CHINA&#39;S MEGA PROJECTS THAT WILL CHANGE THE WORLD</a><br/>Oct 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FY4CHockPio"><img width="140px" src="https://i.ytimg.com/vi/FY4CHockPio/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FY4CHockPio">COOL INVENTIONS YOU SHOULD SEE</a><br/>Oct 1, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ro19wdg7d5I"><img width="140px" src="https://i.ytimg.com/vi/Ro19wdg7d5I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ro19wdg7d5I">They Didn&#39;t Know That a Camera Was Watching Them and Did This. 200 Incredible Moments</a><br/>Oct 1, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
