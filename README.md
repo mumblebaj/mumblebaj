@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oUcr4VPNDro"><img width="140px" src="https://i.ytimg.com/vi/oUcr4VPNDro/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8qAwNrbhIBU"><img width="140px" src="https://i.ytimg.com/vi/8qAwNrbhIBU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8qAwNrbhIBU">Incredible Moments Caught on Camera</a><br/>Oct 7, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=t3FdKnXSR4k"><img width="140px" src="https://i.ytimg.com/vi/t3FdKnXSR4k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t3FdKnXSR4k">INCREDIBLE HUMAN POWERED INVENTIONS</a><br/>Oct 7, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oUcr4VPNDro"><img width="140px" src="https://i.ytimg.com/vi/oUcr4VPNDro/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oUcr4VPNDro">CAR INVENTIONS THAT HAVE REACHED A NEW LEVEL</a><br/>Oct 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4oMPqHHdUek"><img width="140px" src="https://i.ytimg.com/vi/4oMPqHHdUek/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4oMPqHHdUek">45 Things You Will See for the First Time in Your Life</a><br/>Oct 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=umjGCewf_VQ"><img width="140px" src="https://i.ytimg.com/vi/umjGCewf_VQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=umjGCewf_VQ">NINJA GADGETS THAT WILL MAKE YOU AN ASSASSIN</a><br/>Oct 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZoS1q8Om1DQ"><img width="140px" src="https://i.ytimg.com/vi/ZoS1q8Om1DQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZoS1q8Om1DQ">Drone&#39;s Camera Caught Something Incredible</a><br/>Oct 4, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
