@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vRSfmqjcb_0"><img width="140px" src="https://i.ytimg.com/vi/vRSfmqjcb_0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8KCfq9Mf6bQ"><img width="140px" src="https://i.ytimg.com/vi/8KCfq9Mf6bQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8KCfq9Mf6bQ">Most Powerful Heavy Machines Of The World</a><br/>Oct 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7fSqaWePE5s"><img width="140px" src="https://i.ytimg.com/vi/7fSqaWePE5s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7fSqaWePE5s">INVISIBLE JAMES BOND-STYLE PARKING LOTS</a><br/>Oct 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vRSfmqjcb_0"><img width="140px" src="https://i.ytimg.com/vi/vRSfmqjcb_0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vRSfmqjcb_0">COOL INVENTIONS YOU SHOULD SEE</a><br/>Oct 8, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-sTjodLX9AI"><img width="140px" src="https://i.ytimg.com/vi/-sTjodLX9AI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-sTjodLX9AI">Most Ridiculous Moments Caught on Camera</a><br/>Oct 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8qAwNrbhIBU"><img width="140px" src="https://i.ytimg.com/vi/8qAwNrbhIBU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8qAwNrbhIBU">Incredible Moments Caught on Camera</a><br/>Oct 7, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=t3FdKnXSR4k"><img width="140px" src="https://i.ytimg.com/vi/t3FdKnXSR4k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t3FdKnXSR4k">INCREDIBLE HUMAN POWERED INVENTIONS</a><br/>Oct 7, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
