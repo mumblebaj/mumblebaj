@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4d8p5Ywacx4"><img width="140px" src="https://i.ytimg.com/vi/4d8p5Ywacx4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AIm5jOOUkDc"><img width="140px" src="https://i.ytimg.com/vi/AIm5jOOUkDc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AIm5jOOUkDc">Incredible Moments Caught on Camera</a><br/>Oct 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=96KUMBS9Ij0"><img width="140px" src="https://i.ytimg.com/vi/96KUMBS9Ij0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=96KUMBS9Ij0">15 BUILDINGS MADE OF SEA CONTAINERS THAT YOU SHOULD SEE</a><br/>Oct 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4d8p5Ywacx4"><img width="140px" src="https://i.ytimg.com/vi/4d8p5Ywacx4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4d8p5Ywacx4">THESE INVENTIONS WON&#39;T LET YOU GET STUCK IN THE MUD</a><br/>Oct 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HtGy3iSb5d4"><img width="140px" src="https://i.ytimg.com/vi/HtGy3iSb5d4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HtGy3iSb5d4">People Who Are at Another Level. Most Amazing Skills and Talent</a><br/>Oct 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8KCfq9Mf6bQ"><img width="140px" src="https://i.ytimg.com/vi/8KCfq9Mf6bQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8KCfq9Mf6bQ">Most Powerful Heavy Machines Of The World</a><br/>Oct 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7fSqaWePE5s"><img width="140px" src="https://i.ytimg.com/vi/7fSqaWePE5s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7fSqaWePE5s">INVISIBLE JAMES BOND-STYLE PARKING LOTS</a><br/>Oct 10, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
