@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vecDrsaHqt0"><img width="140px" src="https://i.ytimg.com/vi/vecDrsaHqt0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-l-UYwfx3a0"><img width="140px" src="https://i.ytimg.com/vi/-l-UYwfx3a0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-l-UYwfx3a0">15 ENERGY EFFICIENT INVENTIONS FOR YOUR HOME</a><br/>Oct 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Yxe8d8N97aE"><img width="140px" src="https://i.ytimg.com/vi/Yxe8d8N97aE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Yxe8d8N97aE">They Didn&#39;t Know That a Camera Was Watching Them and Did This</a><br/>Oct 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vecDrsaHqt0"><img width="140px" src="https://i.ytimg.com/vi/vecDrsaHqt0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vecDrsaHqt0">Idiots on Wheels Caught On Camera</a><br/>Oct 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0JOI9Hjz5XA"><img width="140px" src="https://i.ytimg.com/vi/0JOI9Hjz5XA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0JOI9Hjz5XA">16 SURVIVAL GADGETS EVERY MAN SHOULD HAVE</a><br/>Oct 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AIm5jOOUkDc"><img width="140px" src="https://i.ytimg.com/vi/AIm5jOOUkDc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AIm5jOOUkDc">Incredible Moments Caught on Camera</a><br/>Oct 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=96KUMBS9Ij0"><img width="140px" src="https://i.ytimg.com/vi/96KUMBS9Ij0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=96KUMBS9Ij0">15 BUILDINGS MADE OF SEA CONTAINERS THAT YOU SHOULD SEE</a><br/>Oct 12, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
