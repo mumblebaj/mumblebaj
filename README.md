@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ISzm9h5S8to"><img width="140px" src="https://i.ytimg.com/vi/ISzm9h5S8to/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yUwYmJfMJhU"><img width="140px" src="https://i.ytimg.com/vi/yUwYmJfMJhU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yUwYmJfMJhU">80 Moments of Instant Regret Caught on Camera</a><br/>Oct 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BPpMiUB0Z00"><img width="140px" src="https://i.ytimg.com/vi/BPpMiUB0Z00/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BPpMiUB0Z00">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Oct 19, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ISzm9h5S8to"><img width="140px" src="https://i.ytimg.com/vi/ISzm9h5S8to/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ISzm9h5S8to">15 COOL INVENTIONS FOR A PICKUP TRUCK</a><br/>Oct 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZsrpOlgaatk"><img width="140px" src="https://i.ytimg.com/vi/ZsrpOlgaatk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZsrpOlgaatk">Drone&#39;s Camera Caught Something Incredible</a><br/>Oct 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DXaKE-9yYkc"><img width="140px" src="https://i.ytimg.com/vi/DXaKE-9yYkc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DXaKE-9yYkc">Police Find Tunnel Inside KFC, Stop Cold When They Realize Who’s on the Other Side</a><br/>Oct 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WkHCfDyDqKI"><img width="140px" src="https://i.ytimg.com/vi/WkHCfDyDqKI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WkHCfDyDqKI">25 COOLEST GADGETS YOU MUST SEE</a><br/>Oct 17, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
