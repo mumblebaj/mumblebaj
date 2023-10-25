@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Lkohj0mmy_E"><img width="140px" src="https://i.ytimg.com/vi/Lkohj0mmy_E/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N-xCThOFeQk"><img width="140px" src="https://i.ytimg.com/vi/N-xCThOFeQk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N-xCThOFeQk">People Laughed at His House, Until They Went Inside</a><br/>Oct 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BxSRXV17L5g"><img width="140px" src="https://i.ytimg.com/vi/BxSRXV17L5g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BxSRXV17L5g">25 COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Oct 24, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Lkohj0mmy_E"><img width="140px" src="https://i.ytimg.com/vi/Lkohj0mmy_E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lkohj0mmy_E">INVENTIONS THAT WILL SAVE YOUR LIFE</a><br/>Oct 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=w0Tk-MeiNms"><img width="140px" src="https://i.ytimg.com/vi/w0Tk-MeiNms/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w0Tk-MeiNms">Luckiest People Ever Caught on Camera</a><br/>Oct 22, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_VLBLVvZnMs"><img width="140px" src="https://i.ytimg.com/vi/_VLBLVvZnMs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_VLBLVvZnMs">Incredible Moments Caught on Camera</a><br/>Oct 21, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JSbrv3-vUQQ"><img width="140px" src="https://i.ytimg.com/vi/JSbrv3-vUQQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JSbrv3-vUQQ">24 COOL CAMPING INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Oct 21, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
