@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=t3LAMPD00yU"><img width="140px" src="https://i.ytimg.com/vi/t3LAMPD00yU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IJYx2OUUArg"><img width="140px" src="https://i.ytimg.com/vi/IJYx2OUUArg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IJYx2OUUArg">15 INVENTIONS YOU MUST USE AT LEAST ONCE IN YOUR LIFE</a><br/>Oct 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=s1p6mClrsmc"><img width="140px" src="https://i.ytimg.com/vi/s1p6mClrsmc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=s1p6mClrsmc">Funniest Party Moments When Everything Goes Wrong</a><br/>Oct 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=t3LAMPD00yU"><img width="140px" src="https://i.ytimg.com/vi/t3LAMPD00yU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t3LAMPD00yU">One in a Billion Moments in Nature</a><br/>Oct 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SbFpu2EKjSc"><img width="140px" src="https://i.ytimg.com/vi/SbFpu2EKjSc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SbFpu2EKjSc">HOMEMADE INVENTIONS THAT HAVE REACHED A NEW LEVEL</a><br/>Oct 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Mg57ph4Yh2Q"><img width="140px" src="https://i.ytimg.com/vi/Mg57ph4Yh2Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Mg57ph4Yh2Q">16 COOL INVENTIONS FOR YOUR AUTO REPAIR SHOP</a><br/>Oct 25, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=w024wyVIkEo"><img width="140px" src="https://i.ytimg.com/vi/w024wyVIkEo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=w024wyVIkEo">That Was Really Filmed on Camera</a><br/>Oct 25, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
