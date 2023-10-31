@@ -89,7 +89,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=dbTnAudpE-M"><img width="140px" src="https://i.ytimg.com/vi/dbTnAudpE-M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dbTnAudpE-M">They Didn&#39;t Know That a Camera Was Watching Them and Did This</a><br/>Oct 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IJYx2OUUArg"><img width="140px" src="https://i.ytimg.com/vi/IJYx2OUUArg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IJYx2OUUArg">15 INVENTIONS YOU MUST USE AT LEAST ONCE IN YOUR LIFE</a><br/>Oct 28, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=IJYx2OUUArg">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Oct 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=s1p6mClrsmc"><img width="140px" src="https://i.ytimg.com/vi/s1p6mClrsmc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s1p6mClrsmc">Funniest Party Moments When Everything Goes Wrong</a><br/>Oct 28, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
