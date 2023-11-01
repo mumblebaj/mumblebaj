@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=u3gJJNTXcdQ"><img width="140px" src="https://i.ytimg.com/vi/u3gJJNTXcdQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=87i2tUdEqkM"><img width="140px" src="https://i.ytimg.com/vi/87i2tUdEqkM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=87i2tUdEqkM">Total Idiots At Work Caught On Camera</a><br/>Oct 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=QG1YkfSL1NM"><img width="140px" src="https://i.ytimg.com/vi/QG1YkfSL1NM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QG1YkfSL1NM">COOL TOOLS AND EQUIPMENT YOU SHOULD KNOW ABOUT</a><br/>Oct 31, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=u3gJJNTXcdQ"><img width="140px" src="https://i.ytimg.com/vi/u3gJJNTXcdQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u3gJJNTXcdQ">MILITARY TECHNOLOGIES THAT ARE ON ANOTHER LEVEL</a><br/>Oct 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dbTnAudpE-M"><img width="140px" src="https://i.ytimg.com/vi/dbTnAudpE-M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dbTnAudpE-M">They Didn&#39;t Know That a Camera Was Watching Them and Did This</a><br/>Oct 29, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IJYx2OUUArg"><img width="140px" src="https://i.ytimg.com/vi/IJYx2OUUArg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IJYx2OUUArg">INCREDIBLE INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Oct 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=s1p6mClrsmc"><img width="140px" src="https://i.ytimg.com/vi/s1p6mClrsmc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=s1p6mClrsmc">Funniest Party Moments When Everything Goes Wrong</a><br/>Oct 28, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
