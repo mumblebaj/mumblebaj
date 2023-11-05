@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rB9L6mRgeeA"><img width="140px" src="https://i.ytimg.com/vi/rB9L6mRgeeA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YjZO5pzscKs"><img width="140px" src="https://i.ytimg.com/vi/YjZO5pzscKs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YjZO5pzscKs">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Nov 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MzYd1pCfB_M"><img width="140px" src="https://i.ytimg.com/vi/MzYd1pCfB_M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MzYd1pCfB_M">45 Unbelievable Aviation Moments Caught on Camera</a><br/>Nov 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rB9L6mRgeeA"><img width="140px" src="https://i.ytimg.com/vi/rB9L6mRgeeA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rB9L6mRgeeA">22 GADGETS THAT CAN PROTECT YOU</a><br/>Nov 2, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=02xaH3iNYYw"><img width="140px" src="https://i.ytimg.com/vi/02xaH3iNYYw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=02xaH3iNYYw">Incredible Moments Caught on Camera</a><br/>Nov 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lfCzHCY6hfM"><img width="140px" src="https://i.ytimg.com/vi/lfCzHCY6hfM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lfCzHCY6hfM">18 COOL TOWBAR GADGETS YOU MUST SEE</a><br/>Nov 1, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Pww0-Xo1uPw"><img width="140px" src="https://i.ytimg.com/vi/Pww0-Xo1uPw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Pww0-Xo1uPw">People Go on an Amusement Ride and Instantly Regret It</a><br/>Nov 1, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
