@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hcguN-ReUZk"><img width="140px" src="https://i.ytimg.com/vi/hcguN-ReUZk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=b_pxy9JuH4M"><img width="140px" src="https://i.ytimg.com/vi/b_pxy9JuH4M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b_pxy9JuH4M">24 COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Nov 7, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fCxOLcT9PJY"><img width="140px" src="https://i.ytimg.com/vi/fCxOLcT9PJY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fCxOLcT9PJY">50 Things You Will See for the First Time in Your Life</a><br/>Nov 7, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hcguN-ReUZk"><img width="140px" src="https://i.ytimg.com/vi/hcguN-ReUZk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hcguN-ReUZk">COOL INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Nov 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=W451TzTf6iQ"><img width="140px" src="https://i.ytimg.com/vi/W451TzTf6iQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W451TzTf6iQ">Incredible Road Moments Caught on Camera</a><br/>Nov 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YjZO5pzscKs"><img width="140px" src="https://i.ytimg.com/vi/YjZO5pzscKs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YjZO5pzscKs">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Nov 4, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MzYd1pCfB_M"><img width="140px" src="https://i.ytimg.com/vi/MzYd1pCfB_M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MzYd1pCfB_M">45 Unbelievable Aviation Moments Caught on Camera</a><br/>Nov 4, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
