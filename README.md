@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AzYYflXJ1LE"><img width="140px" src="https://i.ytimg.com/vi/AzYYflXJ1LE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oy4rVvqrKno"><img width="140px" src="https://i.ytimg.com/vi/oy4rVvqrKno/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oy4rVvqrKno">Idiot Truck Drivers Who Totally Failed</a><br/>Nov 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iUNnDVEMUQk"><img width="140px" src="https://i.ytimg.com/vi/iUNnDVEMUQk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iUNnDVEMUQk">INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Nov 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AzYYflXJ1LE"><img width="140px" src="https://i.ytimg.com/vi/AzYYflXJ1LE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AzYYflXJ1LE">15 INGENIOUS INVENTIONS FOR YOUR HOME</a><br/>Nov 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CixlXmHNSLU"><img width="140px" src="https://i.ytimg.com/vi/CixlXmHNSLU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CixlXmHNSLU">People Vs Nature. Crazy Weather Moments Caught on Camera</a><br/>Nov 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xXwbs8Wm_6Q"><img width="140px" src="https://i.ytimg.com/vi/xXwbs8Wm_6Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xXwbs8Wm_6Q">Camera Caught a Moment That Can’t Go Unnoticed</a><br/>Nov 8, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i_LX3rxxyQM"><img width="140px" src="https://i.ytimg.com/vi/i_LX3rxxyQM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i_LX3rxxyQM">HANDYMAN TIPS AND TRICKS THAT REALLY WORK</a><br/>Nov 8, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
