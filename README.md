@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oy4rVvqrKno"><img width="140px" src="https://i.ytimg.com/vi/oy4rVvqrKno/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=p1NLToZ0RTk"><img width="140px" src="https://i.ytimg.com/vi/p1NLToZ0RTk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p1NLToZ0RTk">INGENIOUS INVENTIONS THAT YOU SHOULD KNOW ABOUT</a><br/>Nov 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BG096Ankwyc"><img width="140px" src="https://i.ytimg.com/vi/BG096Ankwyc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BG096Ankwyc">They Didn’t Know That a Camera Was Watching Them</a><br/>Nov 12, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oy4rVvqrKno"><img width="140px" src="https://i.ytimg.com/vi/oy4rVvqrKno/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oy4rVvqrKno">Idiot Truck Drivers Who Totally Failed</a><br/>Nov 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iUNnDVEMUQk"><img width="140px" src="https://i.ytimg.com/vi/iUNnDVEMUQk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iUNnDVEMUQk">INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Nov 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AzYYflXJ1LE"><img width="140px" src="https://i.ytimg.com/vi/AzYYflXJ1LE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AzYYflXJ1LE">15 INGENIOUS INVENTIONS FOR YOUR HOME</a><br/>Nov 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CixlXmHNSLU"><img width="140px" src="https://i.ytimg.com/vi/CixlXmHNSLU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CixlXmHNSLU">People Vs Nature. Crazy Weather Moments Caught on Camera</a><br/>Nov 9, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
