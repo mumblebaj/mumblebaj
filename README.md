@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rIQsulMt94A"><img width="140px" src="https://i.ytimg.com/vi/rIQsulMt94A/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KXbE7X_LCJc"><img width="140px" src="https://i.ytimg.com/vi/KXbE7X_LCJc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KXbE7X_LCJc">Drone&#39;s Camera Caught Something Incredible</a><br/>Nov 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=nKEqVFmlxp8"><img width="140px" src="https://i.ytimg.com/vi/nKEqVFmlxp8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nKEqVFmlxp8">TRULY BRUTAL CARS THAT EVERY MAN WILL APPRECIATE</a><br/>Nov 15, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rIQsulMt94A"><img width="140px" src="https://i.ytimg.com/vi/rIQsulMt94A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rIQsulMt94A">HERE&#39;S HOW M&amp;M&#39;S CANDIES ARE ACTUALLY MADE</a><br/>Nov 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o5Ps31XDngo"><img width="140px" src="https://i.ytimg.com/vi/o5Ps31XDngo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o5Ps31XDngo">Biggest Animals Ever Caught On Camera</a><br/>Nov 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=p1NLToZ0RTk"><img width="140px" src="https://i.ytimg.com/vi/p1NLToZ0RTk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=p1NLToZ0RTk">INGENIOUS INVENTIONS THAT YOU SHOULD KNOW ABOUT</a><br/>Nov 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BG096Ankwyc"><img width="140px" src="https://i.ytimg.com/vi/BG096Ankwyc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BG096Ankwyc">They Didn’t Know That a Camera Was Watching Them</a><br/>Nov 12, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
