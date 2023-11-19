@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Wxk4e_Bzqiw"><img width="140px" src="https://i.ytimg.com/vi/Wxk4e_Bzqiw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YQQextJ4Dzw"><img width="140px" src="https://i.ytimg.com/vi/YQQextJ4Dzw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YQQextJ4Dzw">SMART CAMPING INVENTIONS THAT ARE ON THE NEXT LEVEL</a><br/>Nov 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wV505hAhBIg"><img width="140px" src="https://i.ytimg.com/vi/wV505hAhBIg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wV505hAhBIg">Incredible Moments Caught on Camera</a><br/>Nov 18, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Wxk4e_Bzqiw"><img width="140px" src="https://i.ytimg.com/vi/Wxk4e_Bzqiw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Wxk4e_Bzqiw">WOOD CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Nov 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NIAHe04NYPk"><img width="140px" src="https://i.ytimg.com/vi/NIAHe04NYPk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NIAHe04NYPk">999 IQ Moments</a><br/>Nov 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KXbE7X_LCJc"><img width="140px" src="https://i.ytimg.com/vi/KXbE7X_LCJc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KXbE7X_LCJc">Drone&#39;s Camera Caught Something Incredible</a><br/>Nov 15, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nKEqVFmlxp8"><img width="140px" src="https://i.ytimg.com/vi/nKEqVFmlxp8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nKEqVFmlxp8">TRULY BRUTAL CARS THAT EVERY MAN WILL APPRECIATE</a><br/>Nov 15, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
