@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aLdvuhVMH_M"><img width="140px" src="https://i.ytimg.com/vi/aLdvuhVMH_M/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0gsyF_cZUww"><img width="140px" src="https://i.ytimg.com/vi/0gsyF_cZUww/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0gsyF_cZUww">It May Be Hard to Believe, but People Actually Live in These Houses</a><br/>Nov 21, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xsNNxw_W8hE"><img width="140px" src="https://i.ytimg.com/vi/xsNNxw_W8hE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xsNNxw_W8hE">COOL TOOLS YOU SHOULD SEE</a><br/>Nov 21, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aLdvuhVMH_M"><img width="140px" src="https://i.ytimg.com/vi/aLdvuhVMH_M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aLdvuhVMH_M">21 SURVIVAL GADGETS EVERY MAN SHOULD HAVE</a><br/>Nov 19, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NUpoip4_8O8"><img width="140px" src="https://i.ytimg.com/vi/NUpoip4_8O8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NUpoip4_8O8">Incredible Road Moments Caught on Camera</a><br/>Nov 19, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YQQextJ4Dzw"><img width="140px" src="https://i.ytimg.com/vi/YQQextJ4Dzw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YQQextJ4Dzw">SMART CAMPING INVENTIONS THAT ARE ON THE NEXT LEVEL</a><br/>Nov 18, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wV505hAhBIg"><img width="140px" src="https://i.ytimg.com/vi/wV505hAhBIg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wV505hAhBIg">Incredible Moments Caught on Camera</a><br/>Nov 18, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
