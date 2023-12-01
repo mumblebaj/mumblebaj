@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XKhFrb3pzgs"><img width="140px" src="https://i.ytimg.com/vi/XKhFrb3pzgs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n3Z4v32tAKM"><img width="140px" src="https://i.ytimg.com/vi/n3Z4v32tAKM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=n3Z4v32tAKM">UNCOMPROMISING SECURITY SYSTEMS THAT LEAVE NO CHANCE FOR INTRUDERS</a><br/>Nov 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hus6CU2yhL4"><img width="140px" src="https://i.ytimg.com/vi/hus6CU2yhL4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hus6CU2yhL4">Mind Boggling Demolition Caught On Camera</a><br/>Nov 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XKhFrb3pzgs"><img width="140px" src="https://i.ytimg.com/vi/XKhFrb3pzgs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XKhFrb3pzgs">INVENTIONS FOR A PICKUP TRUCK THAT YOU SHOULD KNOW ABOUT</a><br/>Nov 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KC2oTybojUk"><img width="140px" src="https://i.ytimg.com/vi/KC2oTybojUk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KC2oTybojUk">Real Life Superheroes Caught on Camera</a><br/>Nov 29, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WL2-pL9BK9w"><img width="140px" src="https://i.ytimg.com/vi/WL2-pL9BK9w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WL2-pL9BK9w">AMAZING MACHINES OPERATING AT AN INSANE LEVEL</a><br/>Nov 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Lus_QvjLMVw"><img width="140px" src="https://i.ytimg.com/vi/Lus_QvjLMVw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Lus_QvjLMVw">Luckiest People Ever Caught on Camera. Best Moments of 2023</a><br/>Nov 28, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
