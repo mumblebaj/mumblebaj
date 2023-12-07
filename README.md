@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mWKq1x-zM_Q"><img width="140px" src="https://i.ytimg.com/vi/mWKq1x-zM_Q/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TCJYY5JLb5o"><img width="140px" src="https://i.ytimg.com/vi/TCJYY5JLb5o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TCJYY5JLb5o">15 INCREDIBLE URBAN TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Dec 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KHLTGaOakrI"><img width="140px" src="https://i.ytimg.com/vi/KHLTGaOakrI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KHLTGaOakrI">Incredible Animal Moments You Wouldn&#39;t Believe if Not Filmed</a><br/>Dec 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mWKq1x-zM_Q"><img width="140px" src="https://i.ytimg.com/vi/mWKq1x-zM_Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mWKq1x-zM_Q">COOL TOOLS YOU SHOULD SEE</a><br/>Dec 5, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pWas-mhNA38"><img width="140px" src="https://i.ytimg.com/vi/pWas-mhNA38/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pWas-mhNA38">Total Idiots At Work Caught On Camera</a><br/>Dec 5, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=G3wUCk6QASo"><img width="140px" src="https://i.ytimg.com/vi/G3wUCk6QASo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=G3wUCk6QASo">25 COOL GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Dec 3, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KuPgs4V03f0"><img width="140px" src="https://i.ytimg.com/vi/KuPgs4V03f0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KuPgs4V03f0">She Didn&#39;t Know That a Camera Was Watching Her and Did This. Best of Month</a><br/>Dec 3, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
