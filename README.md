@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kVRcUQOvHEA"><img width="140px" src="https://i.ytimg.com/vi/kVRcUQOvHEA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=U7hjeSgS5IA"><img width="140px" src="https://i.ytimg.com/vi/U7hjeSgS5IA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=U7hjeSgS5IA">INGENIOUS INVENTIONS THAT YOU SHOULD KNOW ABOUT</a><br/>Dec 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HwDmY9Dcvv4"><img width="140px" src="https://i.ytimg.com/vi/HwDmY9Dcvv4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HwDmY9Dcvv4">Epic Moments Caught on Doorbell Camera</a><br/>Dec 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kVRcUQOvHEA"><img width="140px" src="https://i.ytimg.com/vi/kVRcUQOvHEA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kVRcUQOvHEA">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Dec 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DjovqveJdEE"><img width="140px" src="https://i.ytimg.com/vi/DjovqveJdEE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DjovqveJdEE">Most Ridiculous Moments Caught on Camera. Best of 2023</a><br/>Dec 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GtoAy4ggIM8"><img width="140px" src="https://i.ytimg.com/vi/GtoAy4ggIM8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GtoAy4ggIM8">CAR LIGHTS THAT TAKE YOUR VEHICLE TO THE NEXT LEVEL</a><br/>Dec 7, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MT41RHboS7s"><img width="140px" src="https://i.ytimg.com/vi/MT41RHboS7s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MT41RHboS7s">Camera Caught a Moment That Can’t Go Unnoticed</a><br/>Dec 7, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
