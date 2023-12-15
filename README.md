@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H5uD6klZRN8"><img width="140px" src="https://i.ytimg.com/vi/H5uD6klZRN8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6IXL64N4r6w"><img width="140px" src="https://i.ytimg.com/vi/6IXL64N4r6w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6IXL64N4r6w">15 COOL INVENTIONS FOR ROOF OF YOUR HOME</a><br/>Dec 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fYrMiYTdt1U"><img width="140px" src="https://i.ytimg.com/vi/fYrMiYTdt1U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fYrMiYTdt1U">Incredible Moments of Truck Driving Caught on Camera</a><br/>Dec 14, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=H5uD6klZRN8"><img width="140px" src="https://i.ytimg.com/vi/H5uD6klZRN8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H5uD6klZRN8">AMAZING CONCEPTS THAT YOU SHOULD SEE</a><br/>Dec 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xUOlJCvledA"><img width="140px" src="https://i.ytimg.com/vi/xUOlJCvledA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xUOlJCvledA">Drone&#39;s Camera Caught Something Incredible</a><br/>Dec 13, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ii2Y4MA3SuY"><img width="140px" src="https://i.ytimg.com/vi/Ii2Y4MA3SuY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ii2Y4MA3SuY">15 QUICK-BUILD SOLUTIONS THAT ARE REALLY IMPRESSIVE</a><br/>Dec 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OgiOa1M_x1E"><img width="140px" src="https://i.ytimg.com/vi/OgiOa1M_x1E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OgiOa1M_x1E">45 Things You Will See for the First Time in Your Life</a><br/>Dec 12, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
