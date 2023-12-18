@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UG7_hKPcSQE"><img width="140px" src="https://i.ytimg.com/vi/UG7_hKPcSQE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bByth3gQOO0"><img width="140px" src="https://i.ytimg.com/vi/bByth3gQOO0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bByth3gQOO0">INGENIOUS INVENTIONS THAT YOU SHOULD KNOW ABOUT. BEST OF 2023</a><br/>Dec 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=p3sFx5VskHY"><img width="140px" src="https://i.ytimg.com/vi/p3sFx5VskHY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p3sFx5VskHY">Incredible Moments Caught on Camera</a><br/>Dec 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UG7_hKPcSQE"><img width="140px" src="https://i.ytimg.com/vi/UG7_hKPcSQE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UG7_hKPcSQE">Incredible Road Moments Caught on Camera. Best of 2023</a><br/>Dec 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5RN2_GmWXZk"><img width="140px" src="https://i.ytimg.com/vi/5RN2_GmWXZk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5RN2_GmWXZk">21 COOL GADGETS THAT WILL PROTECT YOUR CAR</a><br/>Dec 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6IXL64N4r6w"><img width="140px" src="https://i.ytimg.com/vi/6IXL64N4r6w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6IXL64N4r6w">15 COOL INVENTIONS FOR ROOF OF YOUR HOME</a><br/>Dec 14, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fYrMiYTdt1U"><img width="140px" src="https://i.ytimg.com/vi/fYrMiYTdt1U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fYrMiYTdt1U">Incredible Moments of Truck Driving Caught on Camera</a><br/>Dec 14, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
