@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lAOih-YQ-Zc"><img width="140px" src="https://i.ytimg.com/vi/lAOih-YQ-Zc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=p7dQ0FKuITE"><img width="140px" src="https://i.ytimg.com/vi/p7dQ0FKuITE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p7dQ0FKuITE">INVENTIONS FOR HUNTING THAT ARE AT ANOTHER LEVEL</a><br/>Dec 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Lgj-iNxioi4"><img width="140px" src="https://i.ytimg.com/vi/Lgj-iNxioi4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Lgj-iNxioi4">Incredible Moments Caught on Camera</a><br/>Dec 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lAOih-YQ-Zc"><img width="140px" src="https://i.ytimg.com/vi/lAOih-YQ-Zc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lAOih-YQ-Zc">25 COOL TOOLS YOU DIDN&#39;T KNOW ABOUT</a><br/>Dec 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=if-skuPH8DE"><img width="140px" src="https://i.ytimg.com/vi/if-skuPH8DE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=if-skuPH8DE">That Was Really Filmed on Camera</a><br/>Dec 26, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Z1TyMeOtm8c"><img width="140px" src="https://i.ytimg.com/vi/Z1TyMeOtm8c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Z1TyMeOtm8c">90 COOLEST GADGETS FROM AMAZON YOU CAN BUY RIGHT NOW. BEST OF 2023</a><br/>Dec 24, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xOf0Jq9oToI"><img width="140px" src="https://i.ytimg.com/vi/xOf0Jq9oToI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xOf0Jq9oToI">They Didn&#39;t Know That a Camera Was Watching Them and Did This</a><br/>Dec 24, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
