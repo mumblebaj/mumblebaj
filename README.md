@@ -90,6 +90,6 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <td><a href="https://www.youtube.com/watch?v=yuUkngQu7KI">Most Insane Dashcam Moments Ever Filmed</a><br/>Dec 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=p7dQ0FKuITE"><img width="140px" src="https://i.ytimg.com/vi/p7dQ0FKuITE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p7dQ0FKuITE">INVENTIONS FOR HUNTING THAT ARE AT ANOTHER LEVEL</a><br/>Dec 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Lgj-iNxioi4"><img width="140px" src="https://i.ytimg.com/vi/Lgj-iNxioi4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Lgj-iNxioi4">Incredible Moments Caught on Camera</a><br/>Dec 27, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lAOih-YQ-Zc"><img width="140px" src="https://i.ytimg.com/vi/lAOih-YQ-Zc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lAOih-YQ-Zc">25 COOL TOOLS YOU DIDN&#39;T KNOW ABOUT</a><br/>Dec 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
