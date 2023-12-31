@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Te9rHO9Ygr0"><img width="140px" src="https://i.ytimg.com/vi/Te9rHO9Ygr0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=A3bwHx_e3A4"><img width="140px" src="https://i.ytimg.com/vi/A3bwHx_e3A4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=A3bwHx_e3A4">Luckiest People Ever Caught on Camera</a><br/>Dec 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=B0Xa8qGiieM"><img width="140px" src="https://i.ytimg.com/vi/B0Xa8qGiieM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B0Xa8qGiieM">COOL INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Dec 30, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Te9rHO9Ygr0"><img width="140px" src="https://i.ytimg.com/vi/Te9rHO9Ygr0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Te9rHO9Ygr0">15 INCREDIBLE INVENTIONS FOR TRUCKS</a><br/>Dec 28, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yuUkngQu7KI"><img width="140px" src="https://i.ytimg.com/vi/yuUkngQu7KI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yuUkngQu7KI">Most Insane Dashcam Moments Ever Filmed</a><br/>Dec 28, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=p7dQ0FKuITE"><img width="140px" src="https://i.ytimg.com/vi/p7dQ0FKuITE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=p7dQ0FKuITE">INVENTIONS FOR HUNTING THAT ARE AT ANOTHER LEVEL</a><br/>Dec 27, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lAOih-YQ-Zc"><img width="140px" src="https://i.ytimg.com/vi/lAOih-YQ-Zc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lAOih-YQ-Zc">25 COOL TOOLS YOU DIDN&#39;T KNOW ABOUT</a><br/>Dec 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
