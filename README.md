@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kFawJjmH6iQ"><img width="140px" src="https://i.ytimg.com/vi/kFawJjmH6iQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uWeKet22SgM"><img width="140px" src="https://i.ytimg.com/vi/uWeKet22SgM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uWeKet22SgM">Most Ridiculous Workers’ Mistakes Caught On Camera</a><br/>Jan 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SJpPpYz9gr4"><img width="140px" src="https://i.ytimg.com/vi/SJpPpYz9gr4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SJpPpYz9gr4">20 COOL INVENTIONS FOR YOUR GARAGE</a><br/>Jan 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kFawJjmH6iQ"><img width="140px" src="https://i.ytimg.com/vi/kFawJjmH6iQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kFawJjmH6iQ">INGENIOUS INVENTIONS THAT YOU SHOULD KNOW ABOUT</a><br/>Dec 31, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=g1xYrrkf3lc"><img width="140px" src="https://i.ytimg.com/vi/g1xYrrkf3lc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=g1xYrrkf3lc">Mind Boggling Moments Caught On Camera. Best Of Month</a><br/>Dec 31, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=A3bwHx_e3A4"><img width="140px" src="https://i.ytimg.com/vi/A3bwHx_e3A4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=A3bwHx_e3A4">Luckiest People Ever Caught on Camera</a><br/>Dec 30, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=B0Xa8qGiieM"><img width="140px" src="https://i.ytimg.com/vi/B0Xa8qGiieM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=B0Xa8qGiieM">COOL INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Dec 30, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
