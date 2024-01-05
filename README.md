@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2XBomlIBtJ4"><img width="140px" src="https://i.ytimg.com/vi/2XBomlIBtJ4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YkVEda5YP1M"><img width="140px" src="https://i.ytimg.com/vi/YkVEda5YP1M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YkVEda5YP1M">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jan 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=36ZqjngnLPs"><img width="140px" src="https://i.ytimg.com/vi/36ZqjngnLPs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=36ZqjngnLPs">One in a Billion Moments in Nature</a><br/>Jan 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2XBomlIBtJ4"><img width="140px" src="https://i.ytimg.com/vi/2XBomlIBtJ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2XBomlIBtJ4">DOUBLE-DECKER VEHICLES THAT ARE AT THE NEXT LEVEL</a><br/>Jan 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MEOYyvDEbhc"><img width="140px" src="https://i.ytimg.com/vi/MEOYyvDEbhc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MEOYyvDEbhc">Camera Caught a Moment That Can’t Go Unnoticed</a><br/>Jan 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uWeKet22SgM"><img width="140px" src="https://i.ytimg.com/vi/uWeKet22SgM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uWeKet22SgM">Most Ridiculous Workers’ Mistakes Caught On Camera</a><br/>Jan 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SJpPpYz9gr4"><img width="140px" src="https://i.ytimg.com/vi/SJpPpYz9gr4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SJpPpYz9gr4">20 COOL INVENTIONS FOR YOUR GARAGE</a><br/>Jan 2, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
