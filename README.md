@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YkVEda5YP1M"><img width="140px" src="https://i.ytimg.com/vi/YkVEda5YP1M/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ldm4zBz3RKE"><img width="140px" src="https://i.ytimg.com/vi/Ldm4zBz3RKE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ldm4zBz3RKE">15 INGENIOUS INVENTIONS THAT ARE WORTHY OF YOUR ATTENTION</a><br/>Jan 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ilD4xahur0Y"><img width="140px" src="https://i.ytimg.com/vi/ilD4xahur0Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ilD4xahur0Y">60 Incredible Moments Caught on CCTV Camera</a><br/>Jan 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=YkVEda5YP1M"><img width="140px" src="https://i.ytimg.com/vi/YkVEda5YP1M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YkVEda5YP1M">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jan 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=36ZqjngnLPs"><img width="140px" src="https://i.ytimg.com/vi/36ZqjngnLPs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=36ZqjngnLPs">One in a Billion Moments in Nature</a><br/>Jan 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2XBomlIBtJ4"><img width="140px" src="https://i.ytimg.com/vi/2XBomlIBtJ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2XBomlIBtJ4">DOUBLE-DECKER VEHICLES THAT ARE AT THE NEXT LEVEL</a><br/>Jan 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MEOYyvDEbhc"><img width="140px" src="https://i.ytimg.com/vi/MEOYyvDEbhc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MEOYyvDEbhc">Camera Caught a Moment That Can’t Go Unnoticed</a><br/>Jan 3, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
