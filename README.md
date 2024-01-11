@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=z0vPQEVaDW8"><img width="140px" src="https://i.ytimg.com/vi/z0vPQEVaDW8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=d_o0gjjehW8"><img width="140px" src="https://i.ytimg.com/vi/d_o0gjjehW8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=d_o0gjjehW8">COOL ROAD INVENTIONS THAT WILL SURPRISE YOU</a><br/>Jan 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OpZbYKTzssI"><img width="140px" src="https://i.ytimg.com/vi/OpZbYKTzssI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OpZbYKTzssI">Drone&#39;s Camera Caught Something Incredible</a><br/>Jan 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=z0vPQEVaDW8"><img width="140px" src="https://i.ytimg.com/vi/z0vPQEVaDW8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z0vPQEVaDW8">15 COOL ALL-TERRAIN VEHICLES THAT HAVE REACHED A NEW LEVEL</a><br/>Jan 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xjmJBaeyqP8"><img width="140px" src="https://i.ytimg.com/vi/xjmJBaeyqP8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xjmJBaeyqP8">People You Will Regret Messing With</a><br/>Jan 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8T3Dmd1C0Wc"><img width="140px" src="https://i.ytimg.com/vi/8T3Dmd1C0Wc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8T3Dmd1C0Wc">25 AMAZING GADGETS FOR HOME THAT YOU CAN BUY ON AMAZON</a><br/>Jan 7, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Zn5qMMtWbsQ"><img width="140px" src="https://i.ytimg.com/vi/Zn5qMMtWbsQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zn5qMMtWbsQ">Incredible Moments You Must See To Believe</a><br/>Jan 7, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
