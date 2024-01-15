@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qyzUOyv5Do8"><img width="140px" src="https://i.ytimg.com/vi/qyzUOyv5Do8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rXIGZzw3uo4"><img width="140px" src="https://i.ytimg.com/vi/rXIGZzw3uo4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rXIGZzw3uo4">25 GADGETS THAT ARE AT ANOTHER LEVEL</a><br/>Jan 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3zMpDQ2VIAA"><img width="140px" src="https://i.ytimg.com/vi/3zMpDQ2VIAA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3zMpDQ2VIAA">Incredible Moments Caught on Camera</a><br/>Jan 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qyzUOyv5Do8"><img width="140px" src="https://i.ytimg.com/vi/qyzUOyv5Do8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qyzUOyv5Do8">Incredible Road Moments Caught on Camera</a><br/>Jan 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_EaOZnOxqs0"><img width="140px" src="https://i.ytimg.com/vi/_EaOZnOxqs0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_EaOZnOxqs0">INVENTIONS FOR A PICKUP TRUCK THAT YOU SHOULD KNOW ABOUT</a><br/>Jan 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=y0jsCQ7gWRg"><img width="140px" src="https://i.ytimg.com/vi/y0jsCQ7gWRg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y0jsCQ7gWRg">AMAZING SURVIVAL SHELTERS YOU SHOULD KNOW ABOUT</a><br/>Jan 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Heqn2cy5emI"><img width="140px" src="https://i.ytimg.com/vi/Heqn2cy5emI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Heqn2cy5emI">Real Life Superheroes Caught on Camera</a><br/>Jan 11, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
