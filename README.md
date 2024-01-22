@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZogLGHFnzDE"><img width="140px" src="https://i.ytimg.com/vi/ZogLGHFnzDE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VxMUr1Dsfcw"><img width="140px" src="https://i.ytimg.com/vi/VxMUr1Dsfcw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VxMUr1Dsfcw">AMAZING INVENTIONS THAT HAVE REACHED A NEW LEVEL</a><br/>Jan 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xx7q2qWL2YE"><img width="140px" src="https://i.ytimg.com/vi/xx7q2qWL2YE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xx7q2qWL2YE">That Was Really Filmed on Camera</a><br/>Jan 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZogLGHFnzDE"><img width="140px" src="https://i.ytimg.com/vi/ZogLGHFnzDE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZogLGHFnzDE">INCREDIBLE INVENTIONS THAT CAN SAVE YOUR LIFE</a><br/>Jan 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dsztUlg9DMc"><img width="140px" src="https://i.ytimg.com/vi/dsztUlg9DMc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dsztUlg9DMc">One in a Billion Moments in Nature</a><br/>Jan 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BlcbOswqeTE"><img width="140px" src="https://i.ytimg.com/vi/BlcbOswqeTE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BlcbOswqeTE">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jan 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_-R-bz_N4lc"><img width="140px" src="https://i.ytimg.com/vi/_-R-bz_N4lc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_-R-bz_N4lc">Moments When Things Went Wrong</a><br/>Jan 18, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
