@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qriX0ftTPYs"><img width="140px" src="https://i.ytimg.com/vi/qriX0ftTPYs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Us6D6qA7ys0"><img width="140px" src="https://i.ytimg.com/vi/Us6D6qA7ys0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Us6D6qA7ys0">PERSONAL TRANSPORT THAT HAS REACHED A NEW LEVEL</a><br/>Jan 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HQdvPDgBI2M"><img width="140px" src="https://i.ytimg.com/vi/HQdvPDgBI2M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HQdvPDgBI2M">Idiots on Wheels Caught on Camera</a><br/>Jan 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qriX0ftTPYs"><img width="140px" src="https://i.ytimg.com/vi/qriX0ftTPYs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qriX0ftTPYs">20 COOL GADGETS FOR REAL GEEKS</a><br/>Jan 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=akzQmXgsfcw"><img width="140px" src="https://i.ytimg.com/vi/akzQmXgsfcw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=akzQmXgsfcw">Incredible Moments Caught on Camera</a><br/>Jan 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tYVggGLfTvM"><img width="140px" src="https://i.ytimg.com/vi/tYVggGLfTvM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tYVggGLfTvM">15 INGENIOUS INVENTIONS FOR WINTER CAMPING</a><br/>Jan 23, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YDIXkk8ZZfA"><img width="140px" src="https://i.ytimg.com/vi/YDIXkk8ZZfA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YDIXkk8ZZfA">30 Cruise Ships Caught in Monster Waves</a><br/>Jan 23, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
