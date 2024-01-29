@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HOd7tzYYK-Y"><img width="140px" src="https://i.ytimg.com/vi/HOd7tzYYK-Y/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rmZd43B61KU"><img width="140px" src="https://i.ytimg.com/vi/rmZd43B61KU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rmZd43B61KU">COOL INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Jan 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VRwntaFmLxY"><img width="140px" src="https://i.ytimg.com/vi/VRwntaFmLxY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VRwntaFmLxY">They Didn’t Realize They Got on Camera</a><br/>Jan 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HOd7tzYYK-Y"><img width="140px" src="https://i.ytimg.com/vi/HOd7tzYYK-Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HOd7tzYYK-Y">15 CAR INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Jan 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o5OAFUfgPHw"><img width="140px" src="https://i.ytimg.com/vi/o5OAFUfgPHw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o5OAFUfgPHw">People Go on an Amusement Ride and Instantly Regret It</a><br/>Jan 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Us6D6qA7ys0"><img width="140px" src="https://i.ytimg.com/vi/Us6D6qA7ys0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Us6D6qA7ys0">PERSONAL TRANSPORT THAT HAS REACHED A NEW LEVEL</a><br/>Jan 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HQdvPDgBI2M"><img width="140px" src="https://i.ytimg.com/vi/HQdvPDgBI2M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HQdvPDgBI2M">Idiots on Wheels Caught on Camera</a><br/>Jan 25, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
