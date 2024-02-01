@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Cbdokq1KFlw"><img width="140px" src="https://i.ytimg.com/vi/Cbdokq1KFlw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9Z4DObtOh0k"><img width="140px" src="https://i.ytimg.com/vi/9Z4DObtOh0k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9Z4DObtOh0k">Incredible Moments Caught on Camera</a><br/>Jan 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SXnYjoSFyOU"><img width="140px" src="https://i.ytimg.com/vi/SXnYjoSFyOU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SXnYjoSFyOU">COOL TRAILERS YOU HAVEN&#39;T SEEN BEFORE</a><br/>Jan 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Cbdokq1KFlw"><img width="140px" src="https://i.ytimg.com/vi/Cbdokq1KFlw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Cbdokq1KFlw">20 BRILLIANT TOOLS YOU SHOULD KNOW ABOUT</a><br/>Jan 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Xg69I4XEMGI"><img width="140px" src="https://i.ytimg.com/vi/Xg69I4XEMGI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Xg69I4XEMGI">People Laughed at His House, Until They Went Inside</a><br/>Jan 30, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rmZd43B61KU"><img width="140px" src="https://i.ytimg.com/vi/rmZd43B61KU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rmZd43B61KU">COOL INVENTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Jan 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VRwntaFmLxY"><img width="140px" src="https://i.ytimg.com/vi/VRwntaFmLxY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VRwntaFmLxY">They Didn’t Realize They Got on Camera</a><br/>Jan 28, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
