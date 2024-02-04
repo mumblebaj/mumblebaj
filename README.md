@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hHU48ar6wLU"><img width="140px" src="https://i.ytimg.com/vi/hHU48ar6wLU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nG7_G76HS54"><img width="140px" src="https://i.ytimg.com/vi/nG7_G76HS54/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nG7_G76HS54">20 COOL GADGETS THAT WILL EXCITE YOU</a><br/>Feb 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=q4sECUlyNmk"><img width="140px" src="https://i.ytimg.com/vi/q4sECUlyNmk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=q4sECUlyNmk">Luckiest People Ever Caught on Camera</a><br/>Feb 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hHU48ar6wLU"><img width="140px" src="https://i.ytimg.com/vi/hHU48ar6wLU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hHU48ar6wLU">They Didn’t Realize They Got Caught on Camera</a><br/>Feb 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ne9mGu6QJjo"><img width="140px" src="https://i.ytimg.com/vi/ne9mGu6QJjo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ne9mGu6QJjo">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Feb 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9Z4DObtOh0k"><img width="140px" src="https://i.ytimg.com/vi/9Z4DObtOh0k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9Z4DObtOh0k">Incredible Moments Caught on Camera</a><br/>Jan 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SXnYjoSFyOU"><img width="140px" src="https://i.ytimg.com/vi/SXnYjoSFyOU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SXnYjoSFyOU">COOL TRAILERS YOU HAVEN&#39;T SEEN BEFORE</a><br/>Jan 31, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
