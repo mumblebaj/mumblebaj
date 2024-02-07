@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pJdtSahKxWo"><img width="140px" src="https://i.ytimg.com/vi/pJdtSahKxWo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Jmoi4Pt4-QQ"><img width="140px" src="https://i.ytimg.com/vi/Jmoi4Pt4-QQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Jmoi4Pt4-QQ">SATISFYING VIDEOS OF WORKERS WHO DO THEIR JOB PERFECTLY</a><br/>Feb 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cARjAYRf7Og"><img width="140px" src="https://i.ytimg.com/vi/cARjAYRf7Og/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cARjAYRf7Og">What Dog Found in the Backyard Left His Owner Speechless</a><br/>Feb 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pJdtSahKxWo"><img width="140px" src="https://i.ytimg.com/vi/pJdtSahKxWo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pJdtSahKxWo">25 COOL SURVIVAL GADGETS YOU SHOULD KNOW ABOUT</a><br/>Feb 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ftj-6H82tbw"><img width="140px" src="https://i.ytimg.com/vi/ftj-6H82tbw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ftj-6H82tbw">200 Incredible Things Caught on Camera. Best of the Month</a><br/>Feb 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nG7_G76HS54"><img width="140px" src="https://i.ytimg.com/vi/nG7_G76HS54/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nG7_G76HS54">20 COOL GADGETS THAT WILL EXCITE YOU</a><br/>Feb 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=q4sECUlyNmk"><img width="140px" src="https://i.ytimg.com/vi/q4sECUlyNmk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=q4sECUlyNmk">Luckiest People Ever Caught on Camera</a><br/>Feb 3, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
