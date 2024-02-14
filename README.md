@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FHpWaNZ7nM4"><img width="140px" src="https://i.ytimg.com/vi/FHpWaNZ7nM4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zh2A0qf04hU"><img width="140px" src="https://i.ytimg.com/vi/zh2A0qf04hU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zh2A0qf04hU">20 AMAZING GADGETS FOR TOOL FANS</a><br/>Feb 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=j9AXBROJwdk"><img width="140px" src="https://i.ytimg.com/vi/j9AXBROJwdk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=j9AXBROJwdk">When You Have a Dog With 200 IQ</a><br/>Feb 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FHpWaNZ7nM4"><img width="140px" src="https://i.ytimg.com/vi/FHpWaNZ7nM4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FHpWaNZ7nM4">MILITARY INVENTIONS THAT YOU SHOULD SEE</a><br/>Feb 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Al3lvXNHhGo"><img width="140px" src="https://i.ytimg.com/vi/Al3lvXNHhGo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Al3lvXNHhGo">That Was Really Filmed On Camera</a><br/>Feb 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=t5lXX6Myv1A"><img width="140px" src="https://i.ytimg.com/vi/t5lXX6Myv1A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t5lXX6Myv1A">Most Ridiculous Workers’ Mistakes Caught On Camera</a><br/>Feb 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gYUt48ah-1E"><img width="140px" src="https://i.ytimg.com/vi/gYUt48ah-1E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gYUt48ah-1E">INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Feb 10, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
