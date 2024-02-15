@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zh2A0qf04hU"><img width="140px" src="https://i.ytimg.com/vi/zh2A0qf04hU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZMZ2RYT_DU8"><img width="140px" src="https://i.ytimg.com/vi/ZMZ2RYT_DU8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZMZ2RYT_DU8">HERE&#39;S HOW PROFESSIONALS DEEP CLEAN THINGS</a><br/>Feb 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=r-sPPWRDmPs"><img width="140px" src="https://i.ytimg.com/vi/r-sPPWRDmPs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=r-sPPWRDmPs">Incredible Moments Caught on Camera</a><br/>Feb 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zh2A0qf04hU"><img width="140px" src="https://i.ytimg.com/vi/zh2A0qf04hU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zh2A0qf04hU">20 AMAZING GADGETS FOR TOOL FANS</a><br/>Feb 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=j9AXBROJwdk"><img width="140px" src="https://i.ytimg.com/vi/j9AXBROJwdk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=j9AXBROJwdk">When You Have a Dog With 200 IQ</a><br/>Feb 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FHpWaNZ7nM4"><img width="140px" src="https://i.ytimg.com/vi/FHpWaNZ7nM4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FHpWaNZ7nM4">MILITARY INVENTIONS THAT YOU SHOULD SEE</a><br/>Feb 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Al3lvXNHhGo"><img width="140px" src="https://i.ytimg.com/vi/Al3lvXNHhGo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Al3lvXNHhGo">That Was Really Filmed On Camera</a><br/>Feb 11, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
