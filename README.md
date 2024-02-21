@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=a_xGojzF4WI"><img width="140px" src="https://i.ytimg.com/vi/a_xGojzF4WI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=87PUOhuuXN0"><img width="140px" src="https://i.ytimg.com/vi/87PUOhuuXN0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=87PUOhuuXN0">FARMING TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Feb 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qepyBNANjCc"><img width="140px" src="https://i.ytimg.com/vi/qepyBNANjCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qepyBNANjCc">40 Scariest Lightning Strikes Caught on Camera</a><br/>Feb 20, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=a_xGojzF4WI"><img width="140px" src="https://i.ytimg.com/vi/a_xGojzF4WI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a_xGojzF4WI">INCREDIBLE INVENTIONS FOR FREE ENERGY IN YOUR HOME</a><br/>Feb 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TSrChDivLiA"><img width="140px" src="https://i.ytimg.com/vi/TSrChDivLiA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TSrChDivLiA">Unbelievable Police Moments Caught on Camera</a><br/>Feb 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=w-rJKkejxCg"><img width="140px" src="https://i.ytimg.com/vi/w-rJKkejxCg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=w-rJKkejxCg">15 COOL INVENTIONS FOR A PICKUP TRUCK</a><br/>Feb 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uW9XkeYcyK4"><img width="140px" src="https://i.ytimg.com/vi/uW9XkeYcyK4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uW9XkeYcyK4">55 Unbelievable Aviation Moments Caught on Camera</a><br/>Feb 17, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
