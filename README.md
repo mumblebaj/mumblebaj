@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VP_psPbeCPU"><img width="140px" src="https://i.ytimg.com/vi/VP_psPbeCPU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=t4re2THPg30"><img width="140px" src="https://i.ytimg.com/vi/t4re2THPg30/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t4re2THPg30">WOOD CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Feb 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6LWEL7LKkzw"><img width="140px" src="https://i.ytimg.com/vi/6LWEL7LKkzw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6LWEL7LKkzw">Winter Fails! Best and Worst Snow Moments</a><br/>Feb 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VP_psPbeCPU"><img width="140px" src="https://i.ytimg.com/vi/VP_psPbeCPU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VP_psPbeCPU">Idiots on Wheels Caught on Camera</a><br/>Feb 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GRgSEOvltFI"><img width="140px" src="https://i.ytimg.com/vi/GRgSEOvltFI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GRgSEOvltFI">COOL INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Feb 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=87PUOhuuXN0"><img width="140px" src="https://i.ytimg.com/vi/87PUOhuuXN0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=87PUOhuuXN0">FARMING TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Feb 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qepyBNANjCc"><img width="140px" src="https://i.ytimg.com/vi/qepyBNANjCc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qepyBNANjCc">40 Scariest Lightning Strikes Caught on Camera</a><br/>Feb 20, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
