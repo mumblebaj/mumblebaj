@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3u2Y4426Quk"><img width="140px" src="https://i.ytimg.com/vi/3u2Y4426Quk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PpWsPINIihw"><img width="140px" src="https://i.ytimg.com/vi/PpWsPINIihw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PpWsPINIihw">COOL INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Mar 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LgMKAGTlKW4"><img width="140px" src="https://i.ytimg.com/vi/LgMKAGTlKW4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LgMKAGTlKW4">100 Incredible Things Caught on Camera. Best of the Month</a><br/>Mar 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3u2Y4426Quk"><img width="140px" src="https://i.ytimg.com/vi/3u2Y4426Quk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3u2Y4426Quk">70 Incredible Moments Caught on CCTV Camera</a><br/>Mar 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-aib_1f7BFA"><img width="140px" src="https://i.ytimg.com/vi/-aib_1f7BFA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-aib_1f7BFA">20 COOL GADGETS THAT YOU CAN BUY ON AMAZON</a><br/>Mar 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7aD6ls0-YeY"><img width="140px" src="https://i.ytimg.com/vi/7aD6ls0-YeY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7aD6ls0-YeY">15 BRILLIANT CAMPING GADGETS EVERYONE SHOULD HAVE</a><br/>Feb 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7pmDrMXuOM4"><img width="140px" src="https://i.ytimg.com/vi/7pmDrMXuOM4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7pmDrMXuOM4">Unbelievable Vehicles That Are at Another Level</a><br/>Feb 29, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
