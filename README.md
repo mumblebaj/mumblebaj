@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NXoHzmh-PGg"><img width="140px" src="https://i.ytimg.com/vi/NXoHzmh-PGg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DAyxkUTYvOg"><img width="140px" src="https://i.ytimg.com/vi/DAyxkUTYvOg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DAyxkUTYvOg">15 SPY GADGETS THAT WILL AMAZE YOU</a><br/>Mar 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yY-DfSML2co"><img width="140px" src="https://i.ytimg.com/vi/yY-DfSML2co/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yY-DfSML2co">One in a Billion Moments in Nature</a><br/>Mar 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NXoHzmh-PGg"><img width="140px" src="https://i.ytimg.com/vi/NXoHzmh-PGg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NXoHzmh-PGg">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Mar 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lBb03hShN-g"><img width="140px" src="https://i.ytimg.com/vi/lBb03hShN-g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lBb03hShN-g">Idiot Truck Drivers Who Totally Failed</a><br/>Mar 7, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8Yua6Mepm34"><img width="140px" src="https://i.ytimg.com/vi/8Yua6Mepm34/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8Yua6Mepm34">Drone&#39;s Camera Caught Something Incredible</a><br/>Mar 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OCsFB6A64UY"><img width="140px" src="https://i.ytimg.com/vi/OCsFB6A64UY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OCsFB6A64UY">15 GADGETS AND INVENTIONS THAT WILL WORK EVEN IN FULL BLACKOUT</a><br/>Mar 6, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
