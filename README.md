@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jdRnwHT9jnY"><img width="140px" src="https://i.ytimg.com/vi/jdRnwHT9jnY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KoGRZ4e6D3E"><img width="140px" src="https://i.ytimg.com/vi/KoGRZ4e6D3E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KoGRZ4e6D3E">Mass Production Processes and Modern Manufacturing Machines</a><br/>Mar 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=b4YEUAytWTo"><img width="140px" src="https://i.ytimg.com/vi/b4YEUAytWTo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b4YEUAytWTo">COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Mar 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jdRnwHT9jnY"><img width="140px" src="https://i.ytimg.com/vi/jdRnwHT9jnY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jdRnwHT9jnY">20 INGENIOUS GADGETS THAT HAVE REACHED A NEW LEVEL</a><br/>Mar 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RsLmyn85scs"><img width="140px" src="https://i.ytimg.com/vi/RsLmyn85scs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RsLmyn85scs">Incredible Moments Caught on Camera</a><br/>Mar 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zJcxfK5qO_o"><img width="140px" src="https://i.ytimg.com/vi/zJcxfK5qO_o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zJcxfK5qO_o">Idiots in Boats Caught on Camera</a><br/>Mar 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BDkSIFwqSRs"><img width="140px" src="https://i.ytimg.com/vi/BDkSIFwqSRs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BDkSIFwqSRs">INVENTIONS THAT WILL SOON CHANGE THE WORLD</a><br/>Mar 16, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
