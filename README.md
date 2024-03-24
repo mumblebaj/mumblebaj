@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pvg9M_Fi4Ks"><img width="140px" src="https://i.ytimg.com/vi/pvg9M_Fi4Ks/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=11aybXl2cSA"><img width="140px" src="https://i.ytimg.com/vi/11aybXl2cSA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=11aybXl2cSA">CAR INVENTIONS THAT YOU NEED TO SEE</a><br/>Mar 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rW45O3AitIE"><img width="140px" src="https://i.ytimg.com/vi/rW45O3AitIE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rW45O3AitIE">Total Idiots At Work Caught On Camera</a><br/>Mar 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pvg9M_Fi4Ks"><img width="140px" src="https://i.ytimg.com/vi/pvg9M_Fi4Ks/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pvg9M_Fi4Ks">50 Most Disturbing Moments Caught on Camera</a><br/>Mar 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o_HTfsgG-rU"><img width="140px" src="https://i.ytimg.com/vi/o_HTfsgG-rU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o_HTfsgG-rU">AMAZING CAMPING INVENTIONS THAT YOU SHOULD SEE</a><br/>Mar 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SQtJGR60Juo"><img width="140px" src="https://i.ytimg.com/vi/SQtJGR60Juo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SQtJGR60Juo">AMAZING ROAD INVENTIONS AND TECHNOLOGIES THAT WILL SURPRISE YOU</a><br/>Mar 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RA3zIQb9HDM"><img width="140px" src="https://i.ytimg.com/vi/RA3zIQb9HDM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RA3zIQb9HDM">That Was Really Filmed on Camera</a><br/>Mar 20, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
