@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_K9yCRFE2Sw"><img width="140px" src="https://i.ytimg.com/vi/_K9yCRFE2Sw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SdW3bzUyebs"><img width="140px" src="https://i.ytimg.com/vi/SdW3bzUyebs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SdW3bzUyebs">30 COOL GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Mar 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=WU7hgLmYXOI"><img width="140px" src="https://i.ytimg.com/vi/WU7hgLmYXOI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WU7hgLmYXOI">Incredible Moments Caught on Camera</a><br/>Mar 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_K9yCRFE2Sw"><img width="140px" src="https://i.ytimg.com/vi/_K9yCRFE2Sw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_K9yCRFE2Sw">15 COOL ALL-TERRAIN VEHICLES THAT HAVE REACHED A NEW LEVEL</a><br/>Mar 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gdDtuVCQZrU"><img width="140px" src="https://i.ytimg.com/vi/gdDtuVCQZrU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gdDtuVCQZrU">Idiots on Wheels Caught on Camera</a><br/>Mar 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=b9I-nc3t9GA"><img width="140px" src="https://i.ytimg.com/vi/b9I-nc3t9GA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=b9I-nc3t9GA">COOL GARDEN INVENTIONS AND GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Mar 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sR9Z1mGZDrA"><img width="140px" src="https://i.ytimg.com/vi/sR9Z1mGZDrA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sR9Z1mGZDrA">35 Times Mother Nature Got Angry on Camera</a><br/>Mar 26, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
