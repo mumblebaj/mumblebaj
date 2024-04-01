@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qLCXW0MH-oo"><img width="140px" src="https://i.ytimg.com/vi/qLCXW0MH-oo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rK5udMVzTig"><img width="140px" src="https://i.ytimg.com/vi/rK5udMVzTig/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rK5udMVzTig">SATISFYING WOOD WORKING MACHINES THAT YOU SHOULD SEE</a><br/>Mar 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fsWXfXrLG6w"><img width="140px" src="https://i.ytimg.com/vi/fsWXfXrLG6w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fsWXfXrLG6w">Moments You Must See to Believe</a><br/>Mar 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qLCXW0MH-oo"><img width="140px" src="https://i.ytimg.com/vi/qLCXW0MH-oo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qLCXW0MH-oo">20 Minutes of Dumb Decisions!</a><br/>Mar 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_dQ1cjXuDEI"><img width="140px" src="https://i.ytimg.com/vi/_dQ1cjXuDEI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_dQ1cjXuDEI">INGENIOUS INVENTIONS THAT YOU SHOULD SEE</a><br/>Mar 30, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=SdW3bzUyebs"><img width="140px" src="https://i.ytimg.com/vi/SdW3bzUyebs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SdW3bzUyebs">30 COOL GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Mar 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WU7hgLmYXOI"><img width="140px" src="https://i.ytimg.com/vi/WU7hgLmYXOI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WU7hgLmYXOI">Incredible Moments Caught on Camera</a><br/>Mar 28, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
