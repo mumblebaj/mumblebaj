@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9PiPHrE2Ubo"><img width="140px" src="https://i.ytimg.com/vi/9PiPHrE2Ubo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UpquTN1wmvU"><img width="140px" src="https://i.ytimg.com/vi/UpquTN1wmvU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UpquTN1wmvU">Drone&#39;s Camera Caught Something Incredible</a><br/>Apr 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Dkx6MJxQPCI"><img width="140px" src="https://i.ytimg.com/vi/Dkx6MJxQPCI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Dkx6MJxQPCI">20 COOL VEHICLES YOU WILL SEE FOR THE FIRST TIME</a><br/>Apr 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9PiPHrE2Ubo"><img width="140px" src="https://i.ytimg.com/vi/9PiPHrE2Ubo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9PiPHrE2Ubo">It May Be Hard to Believe, but People Actually Live in These Houses</a><br/>Apr 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DYDk-S2ezOE"><img width="140px" src="https://i.ytimg.com/vi/DYDk-S2ezOE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DYDk-S2ezOE">COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Apr 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rK5udMVzTig"><img width="140px" src="https://i.ytimg.com/vi/rK5udMVzTig/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rK5udMVzTig">SATISFYING WOOD WORKING MACHINES THAT YOU SHOULD SEE</a><br/>Mar 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fsWXfXrLG6w"><img width="140px" src="https://i.ytimg.com/vi/fsWXfXrLG6w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fsWXfXrLG6w">Moments You Must See to Believe</a><br/>Mar 31, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
