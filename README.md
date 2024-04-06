@@ -84,12 +84,9 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hI8uK-_wOx0"><img width="140px" src="https://i.ytimg.com/vi/hI8uK-_wOx0/mqdefault.jpg?autoplay=1&mute=1"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hI8uK-_wOx0">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Apr 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EO_97Htb0dg"><img width="140px" src="https://i.ytimg.com/vi/EO_97Htb0dg/mqdefault.jpg?autoplay=1&mute=1"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EO_97Htb0dg">Ingenious Construction Workers That Are on Another Level</a><br/>Apr 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UpquTN1wmvU"><img width="140px" src="https://i.ytimg.com/vi/UpquTN1wmvU/mqdefault.jpg?autoplay=1&mute=1"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UpquTN1wmvU">Drone&#39;s Camera Caught Something Incredible</a><br/>Apr 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Dkx6MJxQPCI"><img width="140px" src="https://i.ytimg.com/vi/Dkx6MJxQPCI/mqdefault.jpg?autoplay=1&mute=1"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Dkx6MJxQPCI">20 COOL VEHICLES YOU WILL SEE FOR THE FIRST TIME</a><br/>Apr 3, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL](https://www.youtube.com/watch?v=hI8uK-_wOx0)
+- [Ingenious Construction Workers That Are on Another Level](https://www.youtube.com/watch?v=EO_97Htb0dg)
+- [Drone&#39;s Camera Caught Something Incredible](https://www.youtube.com/watch?v=UpquTN1wmvU)
+- [20 COOL VEHICLES YOU WILL SEE FOR THE FIRST TIME](https://www.youtube.com/watch?v=Dkx6MJxQPCI)
 <!-- BLOG-POST-LIST:END -->
