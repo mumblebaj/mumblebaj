@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-OyVw9t2dh0"><img width="140px" src="https://i.ytimg.com/vi/-OyVw9t2dh0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JEeTQ0Zz5RY"><img width="140px" src="https://i.ytimg.com/vi/JEeTQ0Zz5RY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JEeTQ0Zz5RY">INGENIOUS СAR INVENTIONS</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vqJsarmXrjw"><img width="140px" src="https://i.ytimg.com/vi/vqJsarmXrjw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vqJsarmXrjw">Animals That Asked People for Help and Kindness Caught on Camera</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-OyVw9t2dh0"><img width="140px" src="https://i.ytimg.com/vi/-OyVw9t2dh0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-OyVw9t2dh0">INVENTIONS THAT ALLOW YOU TO LIVE UNDERWATER</a><br/>Apr 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QaYEe_ooplg"><img width="140px" src="https://i.ytimg.com/vi/QaYEe_ooplg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QaYEe_ooplg">Incredible Road Moments Caught on Camera</a><br/>Apr 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Byr6n5HuxvI"><img width="140px" src="https://i.ytimg.com/vi/Byr6n5HuxvI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Byr6n5HuxvI">15 HOME SECURITY GADGETS YOU SHOULD SEE</a><br/>Apr 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qZ8fbKvNqiU"><img width="140px" src="https://i.ytimg.com/vi/qZ8fbKvNqiU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qZ8fbKvNqiU">Biggest Ship Collisions and Mistakes Caught On Camera</a><br/>Apr 9, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
