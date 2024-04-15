@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eeOdPLB2exo"><img width="140px" src="https://i.ytimg.com/vi/eeOdPLB2exo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AAKzSB5DvAM"><img width="140px" src="https://i.ytimg.com/vi/AAKzSB5DvAM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AAKzSB5DvAM">30 COOL GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Apr 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v3XbeQPNOqg"><img width="140px" src="https://i.ytimg.com/vi/v3XbeQPNOqg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v3XbeQPNOqg">Moments You Must See to Believe</a><br/>Apr 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eeOdPLB2exo"><img width="140px" src="https://i.ytimg.com/vi/eeOdPLB2exo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eeOdPLB2exo">Unbelievable Beach Moments Caught on Camera</a><br/>Apr 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gWCi_bEAZ6w"><img width="140px" src="https://i.ytimg.com/vi/gWCi_bEAZ6w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gWCi_bEAZ6w">INCREDIBLE INVENTIONS THAT CAN SAVE YOUR LIFE</a><br/>Apr 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JEeTQ0Zz5RY"><img width="140px" src="https://i.ytimg.com/vi/JEeTQ0Zz5RY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JEeTQ0Zz5RY">INGENIOUS СAR INVENTIONS</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vqJsarmXrjw"><img width="140px" src="https://i.ytimg.com/vi/vqJsarmXrjw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vqJsarmXrjw">Animals That Asked People for Help and Kindness Caught on Camera</a><br/>Apr 11, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
