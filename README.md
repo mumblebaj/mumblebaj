@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c8os44Xa_Go"><img width="140px" src="https://i.ytimg.com/vi/c8os44Xa_Go/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vnou5uDe7Y8"><img width="140px" src="https://i.ytimg.com/vi/vnou5uDe7Y8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vnou5uDe7Y8">People Who Are at Another Level. Most Amazing Skills and Talent</a><br/>Apr 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GguiBqpzx7E"><img width="140px" src="https://i.ytimg.com/vi/GguiBqpzx7E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GguiBqpzx7E">15 INGENIOUS INVENTIONS YOU MUST SEE</a><br/>Apr 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=c8os44Xa_Go"><img width="140px" src="https://i.ytimg.com/vi/c8os44Xa_Go/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c8os44Xa_Go">15 INGENIOUS INVENTIONS AND GADGETS FOR YOUR BACKYARD</a><br/>Apr 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=n97d0TvBEn8"><img width="140px" src="https://i.ytimg.com/vi/n97d0TvBEn8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n97d0TvBEn8">Most Expensive Fails Ever Caught on Camera</a><br/>Apr 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AAKzSB5DvAM"><img width="140px" src="https://i.ytimg.com/vi/AAKzSB5DvAM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AAKzSB5DvAM">30 COOL GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Apr 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=v3XbeQPNOqg"><img width="140px" src="https://i.ytimg.com/vi/v3XbeQPNOqg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v3XbeQPNOqg">Moments You Must See to Believe</a><br/>Apr 14, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
