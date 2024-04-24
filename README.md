@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MskfUlwSczw"><img width="140px" src="https://i.ytimg.com/vi/MskfUlwSczw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ng5FbOiASJw"><img width="140px" src="https://i.ytimg.com/vi/Ng5FbOiASJw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ng5FbOiASJw">Incredible Mobile Homes You Haven&#39;t Seen Before</a><br/>Apr 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4GOGSqFkpEw"><img width="140px" src="https://i.ytimg.com/vi/4GOGSqFkpEw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4GOGSqFkpEw">20 COOL TOOLS THAT YOU CAN USE</a><br/>Apr 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MskfUlwSczw"><img width="140px" src="https://i.ytimg.com/vi/MskfUlwSczw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MskfUlwSczw">Incredible Moments Caught on Camera</a><br/>Apr 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XBxN1SwqJ1c"><img width="140px" src="https://i.ytimg.com/vi/XBxN1SwqJ1c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XBxN1SwqJ1c">SMART CAMPING INVENTIONS THAT ARE ON THE NEXT LEVEL</a><br/>Apr 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=70RINgTVVtw"><img width="140px" src="https://i.ytimg.com/vi/70RINgTVVtw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=70RINgTVVtw">INCREDIBLE BARRIERS THAT CAN STOP ANYTHING</a><br/>Apr 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hueCaYFHrFU"><img width="140px" src="https://i.ytimg.com/vi/hueCaYFHrFU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hueCaYFHrFU">One in a Billion Moments in Nature</a><br/>Apr 20, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
