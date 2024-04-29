@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H8sx3XNDrtI"><img width="140px" src="https://i.ytimg.com/vi/H8sx3XNDrtI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KJDIxlvqVQk"><img width="140px" src="https://i.ytimg.com/vi/KJDIxlvqVQk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KJDIxlvqVQk">25 COOLEST GADGETS YOU SHOULD SEE</a><br/>Apr 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7RbkxUPhIQQ"><img width="140px" src="https://i.ytimg.com/vi/7RbkxUPhIQQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7RbkxUPhIQQ">200 Incredible Things Caught on Camera. Best of the Month</a><br/>Apr 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=H8sx3XNDrtI"><img width="140px" src="https://i.ytimg.com/vi/H8sx3XNDrtI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H8sx3XNDrtI">СAR INVENTIONS THAT YOU SHOULD SEE</a><br/>Apr 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6jYIPQTD32c"><img width="140px" src="https://i.ytimg.com/vi/6jYIPQTD32c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6jYIPQTD32c">Incredible Moments Caught on Camera</a><br/>Apr 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eRT5LaJ01Nk"><img width="140px" src="https://i.ytimg.com/vi/eRT5LaJ01Nk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eRT5LaJ01Nk">Idiots In Boats Caught On Camera</a><br/>Apr 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=q0Dlxj9WNqg"><img width="140px" src="https://i.ytimg.com/vi/q0Dlxj9WNqg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=q0Dlxj9WNqg">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Apr 25, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
