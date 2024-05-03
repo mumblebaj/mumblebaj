@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RngwH1ghFVM"><img width="140px" src="https://i.ytimg.com/vi/RngwH1ghFVM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dJuwtLWb5qc"><img width="140px" src="https://i.ytimg.com/vi/dJuwtLWb5qc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dJuwtLWb5qc">POLICE INVENTIONS THAT YOU HAVEN&#39;T SEEN YET</a><br/>May 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4uKzIhRQw1Y"><img width="140px" src="https://i.ytimg.com/vi/4uKzIhRQw1Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4uKzIhRQw1Y">Most Ridiculous Workers&#39; Mistakes Caught on Camera</a><br/>May 2, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RngwH1ghFVM"><img width="140px" src="https://i.ytimg.com/vi/RngwH1ghFVM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RngwH1ghFVM">Incredible Woodworking Techniques and Wood Carving Machines</a><br/>May 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vQJ6XLTthog"><img width="140px" src="https://i.ytimg.com/vi/vQJ6XLTthog/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vQJ6XLTthog">AMAZING TOOLS YOU SHOULD KNOW ABOUT</a><br/>May 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zA1xl1zSFwc"><img width="140px" src="https://i.ytimg.com/vi/zA1xl1zSFwc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zA1xl1zSFwc">15 COOL INVENTIONS AND GADGETS FOR STORAGE</a><br/>Apr 30, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KXqEjjWHQC4"><img width="140px" src="https://i.ytimg.com/vi/KXqEjjWHQC4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KXqEjjWHQC4">Most Incredible Flash Floods Caught on Camera</a><br/>Apr 30, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
