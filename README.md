@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=caMKMyLlfSM"><img width="140px" src="https://i.ytimg.com/vi/caMKMyLlfSM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3f6f-gWTG4c"><img width="140px" src="https://i.ytimg.com/vi/3f6f-gWTG4c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3f6f-gWTG4c">15 INGENIOUS INVENTIONS FOR AN AUTO REPAIR SHOP</a><br/>May 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zJa0P5pvISU"><img width="140px" src="https://i.ytimg.com/vi/zJa0P5pvISU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zJa0P5pvISU">Marble Mining and Manufacturing From a $1 Billion Quarry</a><br/>May 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=caMKMyLlfSM"><img width="140px" src="https://i.ytimg.com/vi/caMKMyLlfSM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=caMKMyLlfSM">INGENIOUS INVENTIONS THAT HAVE REACHED A NEW LEVEL</a><br/>May 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NG-QD1ttuj8"><img width="140px" src="https://i.ytimg.com/vi/NG-QD1ttuj8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NG-QD1ttuj8">Incredible Moments Caught on Camera</a><br/>May 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4WVJQF2MF5k"><img width="140px" src="https://i.ytimg.com/vi/4WVJQF2MF5k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4WVJQF2MF5k">AMAZING INVENTIONS THAT WILL SAVE YOUR LIFE</a><br/>May 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gch_bxV2lRY"><img width="140px" src="https://i.ytimg.com/vi/gch_bxV2lRY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gch_bxV2lRY">One in a Billion Moments in Nature</a><br/>May 4, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
