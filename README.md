@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4evtOrSqwz0"><img width="140px" src="https://i.ytimg.com/vi/4evtOrSqwz0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DvkcsaMH40o"><img width="140px" src="https://i.ytimg.com/vi/DvkcsaMH40o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DvkcsaMH40o">SATISFYING VIDEOS OF WORKERS WHO DO THEIR JOB PERFECTLY</a><br/>May 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=x0cy0X9sq8w"><img width="140px" src="https://i.ytimg.com/vi/x0cy0X9sq8w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=x0cy0X9sq8w">Incredible Synchronicity That Looks Like a Glitch in the Matrix</a><br/>May 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4evtOrSqwz0"><img width="140px" src="https://i.ytimg.com/vi/4evtOrSqwz0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4evtOrSqwz0">CAMPING INVENTIONS THAT ARE AT THE NEXT LEVEL</a><br/>May 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0kktIksTmvw"><img width="140px" src="https://i.ytimg.com/vi/0kktIksTmvw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0kktIksTmvw">Drone&#39;s Camera Caught Something Incredible</a><br/>May 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3f6f-gWTG4c"><img width="140px" src="https://i.ytimg.com/vi/3f6f-gWTG4c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3f6f-gWTG4c">15 INGENIOUS INVENTIONS FOR AN AUTO REPAIR SHOP</a><br/>May 7, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zJa0P5pvISU"><img width="140px" src="https://i.ytimg.com/vi/zJa0P5pvISU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zJa0P5pvISU">Marble Mining and Manufacturing From a $1 Billion Quarry</a><br/>May 7, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
