@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=coxZE9KPUlw"><img width="140px" src="https://i.ytimg.com/vi/coxZE9KPUlw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LZ7dE_LLtJQ"><img width="140px" src="https://i.ytimg.com/vi/LZ7dE_LLtJQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LZ7dE_LLtJQ">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>May 16, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Uq8PCOhVkq8"><img width="140px" src="https://i.ytimg.com/vi/Uq8PCOhVkq8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Uq8PCOhVkq8">Incredible Road Technologies That Are Insanely Cool</a><br/>May 16, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=coxZE9KPUlw"><img width="140px" src="https://i.ytimg.com/vi/coxZE9KPUlw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=coxZE9KPUlw">15 EXTREME INVENTIONS THAT WILL SURPRISE YOU</a><br/>May 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GehWbpvaQiQ"><img width="140px" src="https://i.ytimg.com/vi/GehWbpvaQiQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GehWbpvaQiQ">Most Brutal Crash Tests That Went Too Far</a><br/>May 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GVVZ_kKZHbQ"><img width="140px" src="https://i.ytimg.com/vi/GVVZ_kKZHbQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GVVZ_kKZHbQ">People Laughed at His House, Until They Went Inside</a><br/>May 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wKAI2CQtvJU"><img width="140px" src="https://i.ytimg.com/vi/wKAI2CQtvJU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wKAI2CQtvJU">15 TOOLS YOU DIDN&#39;T KNOW ABOUT</a><br/>May 14, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
