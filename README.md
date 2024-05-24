@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AeT6JeD9dY4"><img width="140px" src="https://i.ytimg.com/vi/AeT6JeD9dY4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TjaTS8Nh1kM"><img width="140px" src="https://i.ytimg.com/vi/TjaTS8Nh1kM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TjaTS8Nh1kM">20 COOL INVENTIONS FOR A PICKUP TRUCK</a><br/>May 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=X_XMAC_ufb4"><img width="140px" src="https://i.ytimg.com/vi/X_XMAC_ufb4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=X_XMAC_ufb4">Man Helps A Starving Polar Bear. You Won&#39;t Believe What Happens Next</a><br/>May 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AeT6JeD9dY4"><img width="140px" src="https://i.ytimg.com/vi/AeT6JeD9dY4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AeT6JeD9dY4">Idiot Truck Drivers Who Totally Failed</a><br/>May 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hsGJKzymSEA"><img width="140px" src="https://i.ytimg.com/vi/hsGJKzymSEA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hsGJKzymSEA">20 INCREDIBLE BIKES THAT HAVE REACHED A NEW LEVEL</a><br/>May 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DTG3dDWjtBc"><img width="140px" src="https://i.ytimg.com/vi/DTG3dDWjtBc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DTG3dDWjtBc">20 INGENIOUS HOME INVENTIONS</a><br/>May 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kJhAToj6S5U"><img width="140px" src="https://i.ytimg.com/vi/kJhAToj6S5U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kJhAToj6S5U">60 Times Mother Nature Got Angry on Camera</a><br/>May 21, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
