@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=24DvfYoqUxQ"><img width="140px" src="https://i.ytimg.com/vi/24DvfYoqUxQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Pt8fZcEWi5k"><img width="140px" src="https://i.ytimg.com/vi/Pt8fZcEWi5k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Pt8fZcEWi5k">20 INVENTIONS THAT YOU DIDN&#39;T KNOW ABOUT</a><br/>May 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8bZr4y56Vfk"><img width="140px" src="https://i.ytimg.com/vi/8bZr4y56Vfk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8bZr4y56Vfk">Incredible Moments Caught on Camera</a><br/>May 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=24DvfYoqUxQ"><img width="140px" src="https://i.ytimg.com/vi/24DvfYoqUxQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=24DvfYoqUxQ">INCREDIBLE GADGETS THAT CAN PROTECT YOU</a><br/>May 25, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=z9G22e-bUjM"><img width="140px" src="https://i.ytimg.com/vi/z9G22e-bUjM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z9G22e-bUjM">Incredible Ways Police Stops Suspects</a><br/>May 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TjaTS8Nh1kM"><img width="140px" src="https://i.ytimg.com/vi/TjaTS8Nh1kM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TjaTS8Nh1kM">20 COOL INVENTIONS FOR A PICKUP TRUCK</a><br/>May 23, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=X_XMAC_ufb4"><img width="140px" src="https://i.ytimg.com/vi/X_XMAC_ufb4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X_XMAC_ufb4">Man Helps A Starving Polar Bear. You Won&#39;t Believe What Happens Next</a><br/>May 23, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
