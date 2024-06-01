@@ -89,7 +89,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=SedFO3X5VEc"><img width="140px" src="https://i.ytimg.com/vi/SedFO3X5VEc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SedFO3X5VEc">Luckiest People Ever Caught on Camera</a><br/>May 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6SYmPyHVNVE"><img width="140px" src="https://i.ytimg.com/vi/6SYmPyHVNVE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6SYmPyHVNVE">MAN BUILT A SUPER POWERFUL SLINGSHOT WITH HIS OWN HANDS</a><br/>May 29, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=6SYmPyHVNVE">HOW TO MAKE HUMANOID WALKING MECHANISM</a><br/>May 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9l7lumVJqs0"><img width="140px" src="https://i.ytimg.com/vi/9l7lumVJqs0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9l7lumVJqs0">Moments When Things Went Wrong</a><br/>May 29, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
