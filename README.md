@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JDIKYxn8FH8"><img width="140px" src="https://i.ytimg.com/vi/JDIKYxn8FH8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QaV56FXOUHA"><img width="140px" src="https://i.ytimg.com/vi/QaV56FXOUHA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QaV56FXOUHA">Incredible Moments Caught on Camera</a><br/>Jun 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0E1nso2zPvo"><img width="140px" src="https://i.ytimg.com/vi/0E1nso2zPvo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0E1nso2zPvo">AMAZING INVENTIONS THAT YOU SHOULD SEE</a><br/>Jun 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JDIKYxn8FH8"><img width="140px" src="https://i.ytimg.com/vi/JDIKYxn8FH8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JDIKYxn8FH8">INCREDIBLE CRASH TESTS THAT WILL AMAZE YOU</a><br/>May 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SedFO3X5VEc"><img width="140px" src="https://i.ytimg.com/vi/SedFO3X5VEc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SedFO3X5VEc">Luckiest People Ever Caught on Camera</a><br/>May 30, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6SYmPyHVNVE"><img width="140px" src="https://i.ytimg.com/vi/6SYmPyHVNVE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6SYmPyHVNVE">HOW TO MAKE HUMANOID WALKING MECHANISM</a><br/>May 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9l7lumVJqs0"><img width="140px" src="https://i.ytimg.com/vi/9l7lumVJqs0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9l7lumVJqs0">Moments When Things Went Wrong</a><br/>May 29, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
