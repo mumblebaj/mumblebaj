@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pahSmCa7v8o"><img width="140px" src="https://i.ytimg.com/vi/pahSmCa7v8o/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fekX3uinuJI"><img width="140px" src="https://i.ytimg.com/vi/fekX3uinuJI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fekX3uinuJI">CARGO TRANSPORTATION PROJECTS OF THE FUTURE THAT ARE WORTH SEEING</a><br/>Jun 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FLv_SWQ24HM"><img width="140px" src="https://i.ytimg.com/vi/FLv_SWQ24HM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FLv_SWQ24HM">Total Idiots At Work Caught on Camera</a><br/>Jun 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pahSmCa7v8o"><img width="140px" src="https://i.ytimg.com/vi/pahSmCa7v8o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pahSmCa7v8o">INCREDIBLE ROAD TECHNOLOGIES THAT ARE INSANELY COOL</a><br/>Jun 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=C_PMIjUUJ8A"><img width="140px" src="https://i.ytimg.com/vi/C_PMIjUUJ8A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C_PMIjUUJ8A">200 Incredible Things Caught on Camera. Best of the Month</a><br/>Jun 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QaV56FXOUHA"><img width="140px" src="https://i.ytimg.com/vi/QaV56FXOUHA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QaV56FXOUHA">Incredible Moments Caught on Camera</a><br/>Jun 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0E1nso2zPvo"><img width="140px" src="https://i.ytimg.com/vi/0E1nso2zPvo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0E1nso2zPvo">AMAZING INVENTIONS THAT YOU SHOULD SEE</a><br/>Jun 1, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
