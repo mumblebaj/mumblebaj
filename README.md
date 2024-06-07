@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1A9cw2oXmww"><img width="140px" src="https://i.ytimg.com/vi/1A9cw2oXmww/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sZ05str4bvE"><img width="140px" src="https://i.ytimg.com/vi/sZ05str4bvE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sZ05str4bvE">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jun 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BKzSPwJ2Xdk"><img width="140px" src="https://i.ytimg.com/vi/BKzSPwJ2Xdk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BKzSPwJ2Xdk">Real Life Superheroes Caught On Camera</a><br/>Jun 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1A9cw2oXmww"><img width="140px" src="https://i.ytimg.com/vi/1A9cw2oXmww/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1A9cw2oXmww">Incredible Farms You Haven&#39;t Seen Before</a><br/>Jun 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ShLlmNV3snk"><img width="140px" src="https://i.ytimg.com/vi/ShLlmNV3snk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ShLlmNV3snk">INCREDIBLE ROBOT ANIMALS THAT AMAZE THE IMAGINATION</a><br/>Jun 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fekX3uinuJI"><img width="140px" src="https://i.ytimg.com/vi/fekX3uinuJI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fekX3uinuJI">CARGO TRANSPORTATION PROJECTS OF THE FUTURE THAT ARE WORTH SEEING</a><br/>Jun 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FLv_SWQ24HM"><img width="140px" src="https://i.ytimg.com/vi/FLv_SWQ24HM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FLv_SWQ24HM">Total Idiots At Work Caught on Camera</a><br/>Jun 4, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
