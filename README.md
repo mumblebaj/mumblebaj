@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bmAgiWSeM38"><img width="140px" src="https://i.ytimg.com/vi/bmAgiWSeM38/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MwQnXIzJCHU"><img width="140px" src="https://i.ytimg.com/vi/MwQnXIzJCHU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MwQnXIzJCHU">Most Dangerous Jobs in The World</a><br/>Jun 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4iTkayXHENE"><img width="140px" src="https://i.ytimg.com/vi/4iTkayXHENE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4iTkayXHENE">INVENTIONS FOR THE TOWBAR THAT WILL EXPAND THE CAPABILITIES OF YOUR CAR</a><br/>Jun 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bmAgiWSeM38"><img width="140px" src="https://i.ytimg.com/vi/bmAgiWSeM38/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bmAgiWSeM38">MILITARY TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jun 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2xkZdAFQa4o"><img width="140px" src="https://i.ytimg.com/vi/2xkZdAFQa4o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2xkZdAFQa4o">Incredible Moments Caught on Camera</a><br/>Jun 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0Mf_GGHTnNQ"><img width="140px" src="https://i.ytimg.com/vi/0Mf_GGHTnNQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0Mf_GGHTnNQ">INCREDIBLE CAMPING INVENTIONS THAT EVERYONE WILL APPRECIATE</a><br/>Jun 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Kkva6quTF3k"><img width="140px" src="https://i.ytimg.com/vi/Kkva6quTF3k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Kkva6quTF3k">Most Powerful Storm Moments Ever Caught On Camera</a><br/>Jun 8, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
