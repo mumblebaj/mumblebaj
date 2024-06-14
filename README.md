@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=U7vpObx484w"><img width="140px" src="https://i.ytimg.com/vi/U7vpObx484w/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bIuyI8NW-Po"><img width="140px" src="https://i.ytimg.com/vi/bIuyI8NW-Po/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bIuyI8NW-Po">INGENIOUS INVENTIONS FOR HOMEOWNERS THAT WILL TAKE THEIR HOMES TO ANOTHER LEVEL</a><br/>Jun 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dL4MpGJ6eDw"><img width="140px" src="https://i.ytimg.com/vi/dL4MpGJ6eDw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dL4MpGJ6eDw">Best Bad Parking Revenges Caught On Camera</a><br/>Jun 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=U7vpObx484w"><img width="140px" src="https://i.ytimg.com/vi/U7vpObx484w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U7vpObx484w">CHEAP AND COOL GADGETS UNDER $50</a><br/>Jun 12, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NapZcS-kS_Y"><img width="140px" src="https://i.ytimg.com/vi/NapZcS-kS_Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NapZcS-kS_Y">Incredible Road Moments Caught on Camera</a><br/>Jun 12, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MwQnXIzJCHU"><img width="140px" src="https://i.ytimg.com/vi/MwQnXIzJCHU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MwQnXIzJCHU">Most Dangerous Jobs in The World</a><br/>Jun 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4iTkayXHENE"><img width="140px" src="https://i.ytimg.com/vi/4iTkayXHENE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4iTkayXHENE">INVENTIONS FOR THE TOWBAR THAT WILL EXPAND THE CAPABILITIES OF YOUR CAR</a><br/>Jun 11, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
