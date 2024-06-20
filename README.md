@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Uh8hijzA_FI"><img width="140px" src="https://i.ytimg.com/vi/Uh8hijzA_FI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7R_UYVK5Cas"><img width="140px" src="https://i.ytimg.com/vi/7R_UYVK5Cas/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7R_UYVK5Cas">20 GARDEN INVENTIONS AND GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Jun 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ef_GMNmgBiE"><img width="140px" src="https://i.ytimg.com/vi/Ef_GMNmgBiE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ef_GMNmgBiE">Drone&#39;s Camera Caught Something Incredible</a><br/>Jun 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Uh8hijzA_FI"><img width="140px" src="https://i.ytimg.com/vi/Uh8hijzA_FI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Uh8hijzA_FI">People VS Mother Nature</a><br/>Jun 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DHVD-2VdPvs"><img width="140px" src="https://i.ytimg.com/vi/DHVD-2VdPvs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DHVD-2VdPvs">20 INCREDIBLE ARMORED VEHICLES THAT WILL SURPRISE YOU</a><br/>Jun 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-CfI3xkAtNU"><img width="140px" src="https://i.ytimg.com/vi/-CfI3xkAtNU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-CfI3xkAtNU">Incredible Moments Caught on Camera</a><br/>Jun 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=A4aUvgxw_rc"><img width="140px" src="https://i.ytimg.com/vi/A4aUvgxw_rc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=A4aUvgxw_rc">25 CAR INVENTIONS THAT HAVE GONE TO THE NEXT LEVEL</a><br/>Jun 16, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
