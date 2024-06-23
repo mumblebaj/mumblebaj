@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kvEG0k4mrME"><img width="140px" src="https://i.ytimg.com/vi/kvEG0k4mrME/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vr1C1CXS9F0"><img width="140px" src="https://i.ytimg.com/vi/vr1C1CXS9F0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vr1C1CXS9F0">BEACH INVENTIONS THAT WON&#39;T LET YOU GET BORED ON VACATION</a><br/>Jun 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7RVfKXqhGKo"><img width="140px" src="https://i.ytimg.com/vi/7RVfKXqhGKo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7RVfKXqhGKo">100 Incredible Moments Caught on CCTV Camera</a><br/>Jun 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kvEG0k4mrME"><img width="140px" src="https://i.ytimg.com/vi/kvEG0k4mrME/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kvEG0k4mrME">75 Incredible Lightning Strikes Caught on Camera</a><br/>Jun 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JHwHclKmF8o"><img width="140px" src="https://i.ytimg.com/vi/JHwHclKmF8o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JHwHclKmF8o">SMART GADGETS THAT WILL MAKE YOUR LIFE EASIER</a><br/>Jun 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7R_UYVK5Cas"><img width="140px" src="https://i.ytimg.com/vi/7R_UYVK5Cas/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7R_UYVK5Cas">20 GARDEN INVENTIONS AND GADGETS YOU DIDN&#39;T KNOW ABOUT</a><br/>Jun 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ef_GMNmgBiE"><img width="140px" src="https://i.ytimg.com/vi/Ef_GMNmgBiE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ef_GMNmgBiE">Drone&#39;s Camera Caught Something Incredible</a><br/>Jun 19, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
