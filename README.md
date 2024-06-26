@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Asx9KDlSGPE"><img width="140px" src="https://i.ytimg.com/vi/Asx9KDlSGPE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZghOLdRD444"><img width="140px" src="https://i.ytimg.com/vi/ZghOLdRD444/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZghOLdRD444">AMAZING TOOLS YOU SHOULD KNOW ABOUT</a><br/>Jun 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4Tdg1xJDhlc"><img width="140px" src="https://i.ytimg.com/vi/4Tdg1xJDhlc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4Tdg1xJDhlc">Most Expensive Fails Ever Caught On Camera</a><br/>Jun 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Asx9KDlSGPE"><img width="140px" src="https://i.ytimg.com/vi/Asx9KDlSGPE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Asx9KDlSGPE">COOL INVENTIONS YOU SHOULD SEE</a><br/>Jun 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IOZjkEcNHIE"><img width="140px" src="https://i.ytimg.com/vi/IOZjkEcNHIE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IOZjkEcNHIE">Incredible Moments Caught on Camera</a><br/>Jun 23, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vr1C1CXS9F0"><img width="140px" src="https://i.ytimg.com/vi/vr1C1CXS9F0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vr1C1CXS9F0">BEACH INVENTIONS THAT WON&#39;T LET YOU GET BORED ON VACATION</a><br/>Jun 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7RVfKXqhGKo"><img width="140px" src="https://i.ytimg.com/vi/7RVfKXqhGKo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7RVfKXqhGKo">100 Incredible Moments Caught on CCTV Camera</a><br/>Jun 22, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
