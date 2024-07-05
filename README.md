@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3rG5DzaeKOs"><img width="140px" src="https://i.ytimg.com/vi/3rG5DzaeKOs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9iTIXg3fWoQ"><img width="140px" src="https://i.ytimg.com/vi/9iTIXg3fWoQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9iTIXg3fWoQ">TRAVEL INVENTIONS AND GADGETS THAT YOU SHOULD SEE</a><br/>Jul 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=t5s7cu2eB60"><img width="140px" src="https://i.ytimg.com/vi/t5s7cu2eB60/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t5s7cu2eB60">The Only Challenge That Cannot Be Beat...</a><br/>Jul 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3rG5DzaeKOs"><img width="140px" src="https://i.ytimg.com/vi/3rG5DzaeKOs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3rG5DzaeKOs">SATISFYING VIDEOS OF WORKERS WHO DO THEIR JOB PERFECTLY</a><br/>Jul 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sXn5F4KBOnY"><img width="140px" src="https://i.ytimg.com/vi/sXn5F4KBOnY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sXn5F4KBOnY">Incredible Road Moments Caught on Camera</a><br/>Jul 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cQiys4XMvcM"><img width="140px" src="https://i.ytimg.com/vi/cQiys4XMvcM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cQiys4XMvcM">55 Massive Rockfalls Caught on Camera</a><br/>Jul 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EWOZw4OLR2o"><img width="140px" src="https://i.ytimg.com/vi/EWOZw4OLR2o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EWOZw4OLR2o">CRAZY WATER VEHICLES THAT WILL AMAZE YOU</a><br/>Jul 2, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
