@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9iTIXg3fWoQ"><img width="140px" src="https://i.ytimg.com/vi/9iTIXg3fWoQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lzYB6bZI9ds"><img width="140px" src="https://i.ytimg.com/vi/lzYB6bZI9ds/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lzYB6bZI9ds">COOL SURVIVAL GADGETS YOU SHOULD KNOW ABOUT</a><br/>Jul 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XlO5jKLjQJs"><img width="140px" src="https://i.ytimg.com/vi/XlO5jKLjQJs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XlO5jKLjQJs">One In a Billion Moments In Nature</a><br/>Jul 6, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9iTIXg3fWoQ"><img width="140px" src="https://i.ytimg.com/vi/9iTIXg3fWoQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9iTIXg3fWoQ">TRAVEL INVENTIONS AND GADGETS THAT YOU SHOULD SEE</a><br/>Jul 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=t5s7cu2eB60"><img width="140px" src="https://i.ytimg.com/vi/t5s7cu2eB60/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t5s7cu2eB60">The Only Challenge That Cannot Be Beat...</a><br/>Jul 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3rG5DzaeKOs"><img width="140px" src="https://i.ytimg.com/vi/3rG5DzaeKOs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3rG5DzaeKOs">SATISFYING VIDEOS OF WORKERS WHO DO THEIR JOB PERFECTLY</a><br/>Jul 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sXn5F4KBOnY"><img width="140px" src="https://i.ytimg.com/vi/sXn5F4KBOnY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sXn5F4KBOnY">Incredible Road Moments Caught on Camera</a><br/>Jul 3, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
