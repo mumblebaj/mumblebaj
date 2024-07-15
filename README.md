@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vGP1Sm8HfNc"><img width="140px" src="https://i.ytimg.com/vi/vGP1Sm8HfNc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HYsgjvlTJqA"><img width="140px" src="https://i.ytimg.com/vi/HYsgjvlTJqA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HYsgjvlTJqA">Incredible Moments Caught on Camera</a><br/>Jul 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=dxWb1Vd9aq8"><img width="140px" src="https://i.ytimg.com/vi/dxWb1Vd9aq8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dxWb1Vd9aq8">20 INVENTIONS THAT WILL CHANGE THE WORLD</a><br/>Jul 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vGP1Sm8HfNc"><img width="140px" src="https://i.ytimg.com/vi/vGP1Sm8HfNc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vGP1Sm8HfNc">Moments When Things Went Wrong</a><br/>Jul 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=n2IuEEnuNvY"><img width="140px" src="https://i.ytimg.com/vi/n2IuEEnuNvY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n2IuEEnuNvY">ULTIMATE EXPEDITION OFF-ROAD VEHICLES YOU SHOULD SEE</a><br/>Jul 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZIIMzrFehD8"><img width="140px" src="https://i.ytimg.com/vi/ZIIMzrFehD8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZIIMzrFehD8">YOUNG COUPLE TURN VAN INTO AMAZING CAMPER | START TO FINISH</a><br/>Jul 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=W__i5b7T1Uo"><img width="140px" src="https://i.ytimg.com/vi/W__i5b7T1Uo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W__i5b7T1Uo">60 Most Emotional Moments Ever Caught on Camera</a><br/>Jul 11, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
