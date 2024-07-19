@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oO9hDY02wHA"><img width="140px" src="https://i.ytimg.com/vi/oO9hDY02wHA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T24fXm7szqY"><img width="140px" src="https://i.ytimg.com/vi/T24fXm7szqY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=T24fXm7szqY">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jul 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zEt983vl3k0"><img width="140px" src="https://i.ytimg.com/vi/zEt983vl3k0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zEt983vl3k0">75 Unbelievable Aviation Moments Caught on Camera</a><br/>Jul 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oO9hDY02wHA"><img width="140px" src="https://i.ytimg.com/vi/oO9hDY02wHA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oO9hDY02wHA">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Jul 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Qx0FgRH3YDM"><img width="140px" src="https://i.ytimg.com/vi/Qx0FgRH3YDM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Qx0FgRH3YDM">CAPSULE RELAXATION THAT GOES TO THE NEXT LEVEL</a><br/>Jul 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6zmCYtQy8G4"><img width="140px" src="https://i.ytimg.com/vi/6zmCYtQy8G4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6zmCYtQy8G4">INGENIOUS TOOLS THAT ARE ON ANOTHER LEVEL</a><br/>Jul 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pg6Hqb2u44w"><img width="140px" src="https://i.ytimg.com/vi/pg6Hqb2u44w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pg6Hqb2u44w">Incredible Volcano Eruptions Caught On Camera</a><br/>Jul 16, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
