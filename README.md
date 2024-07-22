@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RFvPqC17gYY"><img width="140px" src="https://i.ytimg.com/vi/RFvPqC17gYY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=URrnrzJo-Cs"><img width="140px" src="https://i.ytimg.com/vi/URrnrzJo-Cs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=URrnrzJo-Cs">Biggest Train Collisions and Mistakes Caught On Camera</a><br/>Jul 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3esOvmla7P4"><img width="140px" src="https://i.ytimg.com/vi/3esOvmla7P4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3esOvmla7P4">20 CAMPING INVENTIONS THAT GO TO THE NEXT LEVEL</a><br/>Jul 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RFvPqC17gYY"><img width="140px" src="https://i.ytimg.com/vi/RFvPqC17gYY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RFvPqC17gYY">INGENIOUS INVENTIONS EVERY HOMEOWNER WOULD LIKE TO HAVE</a><br/>Jul 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=a-cOuCeKpvo"><img width="140px" src="https://i.ytimg.com/vi/a-cOuCeKpvo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a-cOuCeKpvo">Incredible Moments Caught on Camera</a><br/>Jul 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=T24fXm7szqY"><img width="140px" src="https://i.ytimg.com/vi/T24fXm7szqY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=T24fXm7szqY">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jul 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zEt983vl3k0"><img width="140px" src="https://i.ytimg.com/vi/zEt983vl3k0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zEt983vl3k0">75 Unbelievable Aviation Moments Caught on Camera</a><br/>Jul 18, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
