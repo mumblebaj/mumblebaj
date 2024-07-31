@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GLMFsdxTPR0"><img width="140px" src="https://i.ytimg.com/vi/GLMFsdxTPR0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fJ60OgAmWz0"><img width="140px" src="https://i.ytimg.com/vi/fJ60OgAmWz0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fJ60OgAmWz0">QUICK-BUILD HOMES THAT HAVE REACHED A NEW LEVEL</a><br/>Jul 30, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=p2cXzT0bxQw"><img width="140px" src="https://i.ytimg.com/vi/p2cXzT0bxQw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p2cXzT0bxQw">Rocket Launches That Went Horribly Wrong</a><br/>Jul 30, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GLMFsdxTPR0"><img width="140px" src="https://i.ytimg.com/vi/GLMFsdxTPR0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GLMFsdxTPR0">Incredible Moments Caught on Camera</a><br/>Jul 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9kss1GWLBYQ"><img width="140px" src="https://i.ytimg.com/vi/9kss1GWLBYQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9kss1GWLBYQ">INSANE TRUCKS THAT YOU NEED TO SEE</a><br/>Jul 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6erQpPfDi7w"><img width="140px" src="https://i.ytimg.com/vi/6erQpPfDi7w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6erQpPfDi7w">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jul 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=a_9g3k0p0lM"><img width="140px" src="https://i.ytimg.com/vi/a_9g3k0p0lM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=a_9g3k0p0lM">40 Sinkholes That Appeared Out of Nowhere</a><br/>Jul 27, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
