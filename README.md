@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zbEonaQXFYM"><img width="140px" src="https://i.ytimg.com/vi/zbEonaQXFYM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rTM0oWK3oNA"><img width="140px" src="https://i.ytimg.com/vi/rTM0oWK3oNA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rTM0oWK3oNA">INCREDIBLE INVENTIONS THAT YOU HAVEN&#39;T SEEN BEFORE</a><br/>Aug 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FiFEb0WRk0g"><img width="140px" src="https://i.ytimg.com/vi/FiFEb0WRk0g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FiFEb0WRk0g">Total Idiots At Work Caught On Camera</a><br/>Aug 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zbEonaQXFYM"><img width="140px" src="https://i.ytimg.com/vi/zbEonaQXFYM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zbEonaQXFYM">20 COOL INVENTIONS FOR A PICKUP TRUCK</a><br/>Aug 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dXtVUivvS68"><img width="140px" src="https://i.ytimg.com/vi/dXtVUivvS68/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dXtVUivvS68">Construction Tips and Hacks That Can Save Your Career</a><br/>Aug 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KdZx5VHFQEk"><img width="140px" src="https://i.ytimg.com/vi/KdZx5VHFQEk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KdZx5VHFQEk">HIDDEN INVENTIONS THAT WILL TAKE YOUR HOME TO ANOTHER LEVEL</a><br/>Jul 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KWg4nMsRi5Y"><img width="140px" src="https://i.ytimg.com/vi/KWg4nMsRi5Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KWg4nMsRi5Y">Drone&#39;s Camera Caught Something Incredible</a><br/>Jul 31, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
