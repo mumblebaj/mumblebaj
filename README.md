@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rTM0oWK3oNA"><img width="140px" src="https://i.ytimg.com/vi/rTM0oWK3oNA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AoutRxhVOcg"><img width="140px" src="https://i.ytimg.com/vi/AoutRxhVOcg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AoutRxhVOcg">INGENIOUS INVENTIONS FOR THE ROOF OF YOUR HOUSE</a><br/>Aug 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4f8ca_nUXp0"><img width="140px" src="https://i.ytimg.com/vi/4f8ca_nUXp0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4f8ca_nUXp0">Incredible Moments Caught on Camera</a><br/>Aug 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rTM0oWK3oNA"><img width="140px" src="https://i.ytimg.com/vi/rTM0oWK3oNA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rTM0oWK3oNA">INCREDIBLE INVENTIONS THAT YOU HAVEN&#39;T SEEN BEFORE</a><br/>Aug 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=FiFEb0WRk0g"><img width="140px" src="https://i.ytimg.com/vi/FiFEb0WRk0g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FiFEb0WRk0g">Total Idiots At Work Caught On Camera</a><br/>Aug 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zbEonaQXFYM"><img width="140px" src="https://i.ytimg.com/vi/zbEonaQXFYM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zbEonaQXFYM">20 COOL INVENTIONS FOR A PICKUP TRUCK</a><br/>Aug 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dXtVUivvS68"><img width="140px" src="https://i.ytimg.com/vi/dXtVUivvS68/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dXtVUivvS68">Construction Tips and Hacks That Can Save Your Career</a><br/>Aug 1, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
