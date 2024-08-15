@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n9Aow3Zb5T4"><img width="140px" src="https://i.ytimg.com/vi/n9Aow3Zb5T4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fjYSAGf-WnY"><img width="140px" src="https://i.ytimg.com/vi/fjYSAGf-WnY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fjYSAGf-WnY">25 CRAZY TECH PRODUCTS AVAILABLE ON AMAZON</a><br/>Aug 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eGZ8VIVKHa0"><img width="140px" src="https://i.ytimg.com/vi/eGZ8VIVKHa0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eGZ8VIVKHa0">Incredibly Ingenious HIDDEN ROOMS And SECRET FURNITURE</a><br/>Aug 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=n9Aow3Zb5T4"><img width="140px" src="https://i.ytimg.com/vi/n9Aow3Zb5T4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n9Aow3Zb5T4">COOL TOOLS YOU MUST SEE</a><br/>Aug 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9drvUXpGRVo"><img width="140px" src="https://i.ytimg.com/vi/9drvUXpGRVo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9drvUXpGRVo">Structure Demolitions That Went Horribly Wrong</a><br/>Aug 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Dpc4-UBCUP4"><img width="140px" src="https://i.ytimg.com/vi/Dpc4-UBCUP4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Dpc4-UBCUP4">Incredible Moments Caught on Camera</a><br/>Aug 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0NJh-djT_v4"><img width="140px" src="https://i.ytimg.com/vi/0NJh-djT_v4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0NJh-djT_v4">BEACH INVENTIONS THAT WON&#39;T LET YOU GET BORED ON VACATION</a><br/>Aug 11, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
