@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ou9Bk3ZNjrE"><img width="140px" src="https://i.ytimg.com/vi/ou9Bk3ZNjrE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GRn1z7Ug7Vg"><img width="140px" src="https://i.ytimg.com/vi/GRn1z7Ug7Vg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GRn1z7Ug7Vg">Incredible Moments Caught on Camera</a><br/>Aug 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wgSc32cnYd4"><img width="140px" src="https://i.ytimg.com/vi/wgSc32cnYd4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wgSc32cnYd4">20 CAR INVENTIONS THAT GO TO THE NEXT LEVEL</a><br/>Aug 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ou9Bk3ZNjrE"><img width="140px" src="https://i.ytimg.com/vi/ou9Bk3ZNjrE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ou9Bk3ZNjrE">MILITARY VEHICLES FOR OFF-ROAD DRIVING</a><br/>Aug 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9l1IdFee5H8"><img width="140px" src="https://i.ytimg.com/vi/9l1IdFee5H8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9l1IdFee5H8">Most Incredible Flash Floods Caught on Camera</a><br/>Aug 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fjYSAGf-WnY"><img width="140px" src="https://i.ytimg.com/vi/fjYSAGf-WnY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fjYSAGf-WnY">25 CRAZY TECH PRODUCTS AVAILABLE ON AMAZON</a><br/>Aug 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eGZ8VIVKHa0"><img width="140px" src="https://i.ytimg.com/vi/eGZ8VIVKHa0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eGZ8VIVKHa0">Incredibly Ingenious HIDDEN ROOMS And SECRET FURNITURE</a><br/>Aug 14, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
