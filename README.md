@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KCGb2iiS8tI"><img width="140px" src="https://i.ytimg.com/vi/KCGb2iiS8tI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=am7P_uzYDAc"><img width="140px" src="https://i.ytimg.com/vi/am7P_uzYDAc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=am7P_uzYDAc">20 INVENTIONS TO SURVIVE A NUCLEAR WAR</a><br/>Aug 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tJmNrSWnqpo"><img width="140px" src="https://i.ytimg.com/vi/tJmNrSWnqpo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tJmNrSWnqpo">Damn Nature You Scary | Rare &amp; Scary Animal Encounters</a><br/>Aug 21, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KCGb2iiS8tI"><img width="140px" src="https://i.ytimg.com/vi/KCGb2iiS8tI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KCGb2iiS8tI">20 BRILLIANT INVENTIONS FOR YOUR GARDEN THAT GO TO THE NEXT LEVEL</a><br/>Aug 20, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ToiiZmqBNMc"><img width="140px" src="https://i.ytimg.com/vi/ToiiZmqBNMc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ToiiZmqBNMc">30 Monster Glacier Collapses Caught On Camera</a><br/>Aug 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cFQfqw8p5Ao"><img width="140px" src="https://i.ytimg.com/vi/cFQfqw8p5Ao/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cFQfqw8p5Ao">20 COOL GADGETS THAT CAN PROTECT YOU</a><br/>Aug 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QcjJ1i7_INQ"><img width="140px" src="https://i.ytimg.com/vi/QcjJ1i7_INQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QcjJ1i7_INQ">Incredible Moments Caught on Camera</a><br/>Aug 18, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
