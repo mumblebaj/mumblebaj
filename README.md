@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VL17xKTCjrw"><img width="140px" src="https://i.ytimg.com/vi/VL17xKTCjrw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9fQRE4Qzl_g"><img width="140px" src="https://i.ytimg.com/vi/9fQRE4Qzl_g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9fQRE4Qzl_g">HANDYMAN TIPS AND TRICKS THAT REALLY WORK</a><br/>Aug 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=a86z9vCPd7w"><img width="140px" src="https://i.ytimg.com/vi/a86z9vCPd7w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=a86z9vCPd7w">Most Incredible Military Moments Caught on Camera</a><br/>Aug 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VL17xKTCjrw"><img width="140px" src="https://i.ytimg.com/vi/VL17xKTCjrw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VL17xKTCjrw">25 COOL INVENTIONS AND TOOLS FOR YOUR GARAGE</a><br/>Aug 25, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=prwz2Zv5AkM"><img width="140px" src="https://i.ytimg.com/vi/prwz2Zv5AkM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=prwz2Zv5AkM">Incredible Moments Caught on Camera</a><br/>Aug 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1s2Tcqr3Rgg"><img width="140px" src="https://i.ytimg.com/vi/1s2Tcqr3Rgg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1s2Tcqr3Rgg">Heavy Machinery and Industrial Mistakes Caught On Camera</a><br/>Aug 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JeUophnxS0s"><img width="140px" src="https://i.ytimg.com/vi/JeUophnxS0s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JeUophnxS0s">WOODWORKING TECHNOLOGIES AND WOOD CARVING MACHINES</a><br/>Aug 24, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
