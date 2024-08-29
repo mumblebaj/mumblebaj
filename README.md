@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9fQRE4Qzl_g"><img width="140px" src="https://i.ytimg.com/vi/9fQRE4Qzl_g/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Q62E8Goke1k"><img width="140px" src="https://i.ytimg.com/vi/Q62E8Goke1k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Q62E8Goke1k">Incredible Fishing Moments</a><br/>Aug 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bDQ9ZipUh6M"><img width="140px" src="https://i.ytimg.com/vi/bDQ9ZipUh6M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bDQ9ZipUh6M">THESE INVENTIONS WON&#39;T LET YOU GET BOGGED DOWN IN THE MUD</a><br/>Aug 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9fQRE4Qzl_g"><img width="140px" src="https://i.ytimg.com/vi/9fQRE4Qzl_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9fQRE4Qzl_g">HANDYMAN TIPS AND TRICKS THAT REALLY WORK</a><br/>Aug 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=a86z9vCPd7w"><img width="140px" src="https://i.ytimg.com/vi/a86z9vCPd7w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a86z9vCPd7w">Most Incredible Military Moments Caught on Camera</a><br/>Aug 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VL17xKTCjrw"><img width="140px" src="https://i.ytimg.com/vi/VL17xKTCjrw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VL17xKTCjrw">25 COOL INVENTIONS AND TOOLS FOR YOUR GARAGE</a><br/>Aug 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=prwz2Zv5AkM"><img width="140px" src="https://i.ytimg.com/vi/prwz2Zv5AkM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=prwz2Zv5AkM">Incredible Moments Caught on Camera</a><br/>Aug 25, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
