@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hEvNWWC9dUs"><img width="140px" src="https://i.ytimg.com/vi/hEvNWWC9dUs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vNQtcM0nbPE"><img width="140px" src="https://i.ytimg.com/vi/vNQtcM0nbPE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vNQtcM0nbPE">MOST EXPENSIVE FAILS EVER CAUGHT ON CAMERA</a><br/>Sep 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wQJCwyDtLl0"><img width="140px" src="https://i.ytimg.com/vi/wQJCwyDtLl0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wQJCwyDtLl0">45 Times Mother Nature Got Angry on Camera</a><br/>Sep 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hEvNWWC9dUs"><img width="140px" src="https://i.ytimg.com/vi/hEvNWWC9dUs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hEvNWWC9dUs">GENIUS TRUCK INVENTIONS THAT ARE ON ANOTHER LEVEL</a><br/>Sep 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=djobKWZaWwM"><img width="140px" src="https://i.ytimg.com/vi/djobKWZaWwM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=djobKWZaWwM">50 Things You Can See Only Under Microscope</a><br/>Sep 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5MzmW9LVyio"><img width="140px" src="https://i.ytimg.com/vi/5MzmW9LVyio/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5MzmW9LVyio">35 COOL GADGETS THAT YOU CAN BUY ON AMAZON</a><br/>Sep 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=32gmIwp0Z_A"><img width="140px" src="https://i.ytimg.com/vi/32gmIwp0Z_A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=32gmIwp0Z_A">Drone&#39;s Camera Caught Something Incredible</a><br/>Sep 4, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
