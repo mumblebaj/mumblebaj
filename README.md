@@ -86,10 +86,10 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sKw064b1V9o"><img width="140px" src="https://i.ytimg.com/vi/sKw064b1V9o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sKw064b1V9o">TECHNOLOGIES THAT WILL CHANGE THE WORLD</a><br/>Sep 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AjlunHb3uHg"><img width="140px" src="https://i.ytimg.com/vi/AjlunHb3uHg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AjlunHb3uHg">That Was Really Filmed On Camera</a><br/>Sep 8, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vNQtcM0nbPE"><img width="140px" src="https://i.ytimg.com/vi/vNQtcM0nbPE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vNQtcM0nbPE">MOST EXPENSIVE FAILS EVER CAUGHT ON CAMERA</a><br/>Sep 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wQJCwyDtLl0"><img width="140px" src="https://i.ytimg.com/vi/wQJCwyDtLl0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wQJCwyDtLl0">45 Times Mother Nature Got Angry on Camera</a><br/>Sep 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hEvNWWC9dUs"><img width="140px" src="https://i.ytimg.com/vi/hEvNWWC9dUs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hEvNWWC9dUs">GENIUS TRUCK INVENTIONS THAT ARE ON ANOTHER LEVEL</a><br/>Sep 5, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
