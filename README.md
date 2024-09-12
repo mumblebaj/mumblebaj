@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MXE8BaEZEJs"><img width="140px" src="https://i.ytimg.com/vi/MXE8BaEZEJs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1KHh81uYKDA"><img width="140px" src="https://i.ytimg.com/vi/1KHh81uYKDA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1KHh81uYKDA">COOLEST MEN&#39;S GADGETS</a><br/>Sep 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TauTMnCD8vE"><img width="140px" src="https://i.ytimg.com/vi/TauTMnCD8vE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TauTMnCD8vE">Incredible Moments Caught on Camera</a><br/>Sep 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MXE8BaEZEJs"><img width="140px" src="https://i.ytimg.com/vi/MXE8BaEZEJs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MXE8BaEZEJs">FOOD INDUSTRY MACHINES THAT ARE AT ANOTHER LEVEL</a><br/>Sep 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=p-8BdJkR1uM"><img width="140px" src="https://i.ytimg.com/vi/p-8BdJkR1uM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p-8BdJkR1uM">60 Things You Will See For The First Time In Your Life</a><br/>Sep 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sKw064b1V9o"><img width="140px" src="https://i.ytimg.com/vi/sKw064b1V9o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sKw064b1V9o">TECHNOLOGIES THAT WILL CHANGE THE WORLD</a><br/>Sep 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vNQtcM0nbPE"><img width="140px" src="https://i.ytimg.com/vi/vNQtcM0nbPE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vNQtcM0nbPE">MOST EXPENSIVE FAILS EVER CAUGHT ON CAMERA</a><br/>Sep 7, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
