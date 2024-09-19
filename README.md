@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H_caDadXG-o"><img width="140px" src="https://i.ytimg.com/vi/H_caDadXG-o/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iQeGs6CgYvI"><img width="140px" src="https://i.ytimg.com/vi/iQeGs6CgYvI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iQeGs6CgYvI">Incredible Road Moments Caught on Camera</a><br/>Sep 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zgSrwZvGmL4"><img width="140px" src="https://i.ytimg.com/vi/zgSrwZvGmL4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zgSrwZvGmL4">20 COOLEST ARMORED VEHICLES THAT WILL SURPRISE YOU</a><br/>Sep 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=H_caDadXG-o"><img width="140px" src="https://i.ytimg.com/vi/H_caDadXG-o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H_caDadXG-o">GOD LEVEL DRIVERS WHO DO UNREAL THINGS</a><br/>Sep 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_vZMxpv0kyY"><img width="140px" src="https://i.ytimg.com/vi/_vZMxpv0kyY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_vZMxpv0kyY">Roads You Would Never Want to Drive On | Most Dangerous Roads in the World</a><br/>Sep 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HRcXOSXV81Q"><img width="140px" src="https://i.ytimg.com/vi/HRcXOSXV81Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HRcXOSXV81Q">MILITARY TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Sep 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eUvUfYbGrT8"><img width="140px" src="https://i.ytimg.com/vi/eUvUfYbGrT8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eUvUfYbGrT8">Incredible Moments Caught on Camera</a><br/>Sep 15, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
