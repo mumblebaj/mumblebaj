@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iQeGs6CgYvI"><img width="140px" src="https://i.ytimg.com/vi/iQeGs6CgYvI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OtjuZnAnB2w"><img width="140px" src="https://i.ytimg.com/vi/OtjuZnAnB2w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OtjuZnAnB2w">COOL TOOLS YOU SHOULD SEE</a><br/>Sep 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9UMEeUym3Vk"><img width="140px" src="https://i.ytimg.com/vi/9UMEeUym3Vk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9UMEeUym3Vk">65 Unbelievable Aviation Moments Caught on Camera</a><br/>Sep 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iQeGs6CgYvI"><img width="140px" src="https://i.ytimg.com/vi/iQeGs6CgYvI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iQeGs6CgYvI">Incredible Road Moments Caught on Camera</a><br/>Sep 18, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zgSrwZvGmL4"><img width="140px" src="https://i.ytimg.com/vi/zgSrwZvGmL4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zgSrwZvGmL4">20 COOLEST ARMORED VEHICLES THAT WILL SURPRISE YOU</a><br/>Sep 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=H_caDadXG-o"><img width="140px" src="https://i.ytimg.com/vi/H_caDadXG-o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=H_caDadXG-o">GOD LEVEL DRIVERS WHO DO UNREAL THINGS</a><br/>Sep 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_vZMxpv0kyY"><img width="140px" src="https://i.ytimg.com/vi/_vZMxpv0kyY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_vZMxpv0kyY">Roads You Would Never Want to Drive On | Most Dangerous Roads in the World</a><br/>Sep 17, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
