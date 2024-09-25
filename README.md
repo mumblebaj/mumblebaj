@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UDfU7FhFxTY"><img width="140px" src="https://i.ytimg.com/vi/UDfU7FhFxTY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TvKddPrlkqQ"><img width="140px" src="https://i.ytimg.com/vi/TvKddPrlkqQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TvKddPrlkqQ">ULTIMATE CAMPING INVENTIONS FOR REAL PROS</a><br/>Sep 24, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=28-rZOvutX4"><img width="140px" src="https://i.ytimg.com/vi/28-rZOvutX4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=28-rZOvutX4">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>Sep 24, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UDfU7FhFxTY"><img width="140px" src="https://i.ytimg.com/vi/UDfU7FhFxTY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UDfU7FhFxTY">Incredible Moments Caught on Camera</a><br/>Sep 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EMBF8Iws8W4"><img width="140px" src="https://i.ytimg.com/vi/EMBF8Iws8W4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EMBF8Iws8W4">20 INGENIOUS INVENTIONS FOR YOUR HOME</a><br/>Sep 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VGTaDTr4GF8"><img width="140px" src="https://i.ytimg.com/vi/VGTaDTr4GF8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VGTaDTr4GF8">CONSTRUCTION TIPS AND TRICKS THAT REALLY WORK</a><br/>Sep 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fljTbYEjTPU"><img width="140px" src="https://i.ytimg.com/vi/fljTbYEjTPU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fljTbYEjTPU">Heavy Machinery and Industrial Mistakes Caught On Camera</a><br/>Sep 21, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
