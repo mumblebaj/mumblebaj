@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TvKddPrlkqQ"><img width="140px" src="https://i.ytimg.com/vi/TvKddPrlkqQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WRUW0m1chz0"><img width="140px" src="https://i.ytimg.com/vi/WRUW0m1chz0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WRUW0m1chz0">20 CRAZY TRACKED VEHICLES THAT WILL BLOW YOUR MIND</a><br/>Sep 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=J_9r5cC8PEI"><img width="140px" src="https://i.ytimg.com/vi/J_9r5cC8PEI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=J_9r5cC8PEI">Incredible Moments Caught on Camera</a><br/>Sep 25, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TvKddPrlkqQ"><img width="140px" src="https://i.ytimg.com/vi/TvKddPrlkqQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TvKddPrlkqQ">ULTIMATE CAMPING INVENTIONS FOR REAL PROS</a><br/>Sep 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=28-rZOvutX4"><img width="140px" src="https://i.ytimg.com/vi/28-rZOvutX4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=28-rZOvutX4">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>Sep 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UDfU7FhFxTY"><img width="140px" src="https://i.ytimg.com/vi/UDfU7FhFxTY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UDfU7FhFxTY">Incredible Moments Caught on Camera</a><br/>Sep 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EMBF8Iws8W4"><img width="140px" src="https://i.ytimg.com/vi/EMBF8Iws8W4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EMBF8Iws8W4">20 INGENIOUS INVENTIONS FOR YOUR HOME</a><br/>Sep 22, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
