@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=w512N2mKYlo"><img width="140px" src="https://i.ytimg.com/vi/w512N2mKYlo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Oz4_BeoHmP0"><img width="140px" src="https://i.ytimg.com/vi/Oz4_BeoHmP0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Oz4_BeoHmP0">20 COOLEST GADGETS FROM AMAZON UNDER $100</a><br/>Oct 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jmptUhr2SXo"><img width="140px" src="https://i.ytimg.com/vi/jmptUhr2SXo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jmptUhr2SXo">40 Strange Trees You Didn&#39;t Know Existed</a><br/>Oct 1, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=w512N2mKYlo"><img width="140px" src="https://i.ytimg.com/vi/w512N2mKYlo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w512N2mKYlo">INGENIOUS INVENTIONS THAT YOU HAVE NOT SEEN</a><br/>Sep 29, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dW8v1RDjCRo"><img width="140px" src="https://i.ytimg.com/vi/dW8v1RDjCRo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dW8v1RDjCRo">Incredible Moments Caught on Camera</a><br/>Sep 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Buw5Qe0Xi9I"><img width="140px" src="https://i.ytimg.com/vi/Buw5Qe0Xi9I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Buw5Qe0Xi9I">HEAVY MACHINERY AND INDUSTRIAL MISTAKES CAUGHT ON CAMERA</a><br/>Sep 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LmPSshEtxMI"><img width="140px" src="https://i.ytimg.com/vi/LmPSshEtxMI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LmPSshEtxMI">One in a Billion Moments in Nature</a><br/>Sep 28, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
