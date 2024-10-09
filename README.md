@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MbCJJ1P1Gwo"><img width="140px" src="https://i.ytimg.com/vi/MbCJJ1P1Gwo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Y-LacRNe_-A"><img width="140px" src="https://i.ytimg.com/vi/Y-LacRNe_-A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Y-LacRNe_-A">AUTONOMOUS MOBILE HOMES YOU CAN LIVE IN FOR YEARS</a><br/>Oct 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CG4H7f4nvOk"><img width="140px" src="https://i.ytimg.com/vi/CG4H7f4nvOk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CG4H7f4nvOk">25 Massive Dam Failures Caught on Camera</a><br/>Oct 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MbCJJ1P1Gwo"><img width="140px" src="https://i.ytimg.com/vi/MbCJJ1P1Gwo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MbCJJ1P1Gwo">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Oct 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TrhamHplGfg"><img width="140px" src="https://i.ytimg.com/vi/TrhamHplGfg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TrhamHplGfg">Incredible Moments Caught on Camera</a><br/>Oct 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wP8Cg19D_nA"><img width="140px" src="https://i.ytimg.com/vi/wP8Cg19D_nA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wP8Cg19D_nA">Best Bad Parking Revenges Caught on Camera</a><br/>Oct 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iAbdTCIGuB0"><img width="140px" src="https://i.ytimg.com/vi/iAbdTCIGuB0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iAbdTCIGuB0">SKILLFUL EXCAVATOR OPERATORS YOU SHOULD SEE</a><br/>Oct 5, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
