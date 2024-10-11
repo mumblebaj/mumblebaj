@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MX2NzxxXjkI"><img width="140px" src="https://i.ytimg.com/vi/MX2NzxxXjkI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=y5dCjpptTVU"><img width="140px" src="https://i.ytimg.com/vi/y5dCjpptTVU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=y5dCjpptTVU">20 FUTURISTIC AIRCRAFT CONCEPTS THAT WILL BLOW YOUR MIND</a><br/>Oct 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=czYPl7pGXT8"><img width="140px" src="https://i.ytimg.com/vi/czYPl7pGXT8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=czYPl7pGXT8">When Electricity Went Out of Control</a><br/>Oct 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MX2NzxxXjkI"><img width="140px" src="https://i.ytimg.com/vi/MX2NzxxXjkI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MX2NzxxXjkI">Incredible Moments Caught on Camera</a><br/>Oct 9, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7aEh4MgSkg4"><img width="140px" src="https://i.ytimg.com/vi/7aEh4MgSkg4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7aEh4MgSkg4">TOWBAR INVENTIONS FOR YOUR CAR THAT HAVE REACHED A NEW LEVEL</a><br/>Oct 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Y-LacRNe_-A"><img width="140px" src="https://i.ytimg.com/vi/Y-LacRNe_-A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Y-LacRNe_-A">AUTONOMOUS MOBILE HOMES YOU CAN LIVE IN FOR YEARS</a><br/>Oct 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CG4H7f4nvOk"><img width="140px" src="https://i.ytimg.com/vi/CG4H7f4nvOk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CG4H7f4nvOk">25 Massive Dam Failures Caught on Camera</a><br/>Oct 8, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
