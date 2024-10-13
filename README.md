@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=y5dCjpptTVU"><img width="140px" src="https://i.ytimg.com/vi/y5dCjpptTVU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=L_1CYjN1A-w"><img width="140px" src="https://i.ytimg.com/vi/L_1CYjN1A-w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L_1CYjN1A-w">TOTAL IDIOTS AT WORK CAUGHT ON CAMERA</a><br/>Oct 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=W897GLiDMG0"><img width="140px" src="https://i.ytimg.com/vi/W897GLiDMG0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=W897GLiDMG0">When Animals Messed with the Wrong Opponent</a><br/>Oct 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=y5dCjpptTVU"><img width="140px" src="https://i.ytimg.com/vi/y5dCjpptTVU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y5dCjpptTVU">20 FUTURISTIC AIRCRAFT CONCEPTS THAT WILL BLOW YOUR MIND</a><br/>Oct 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=czYPl7pGXT8"><img width="140px" src="https://i.ytimg.com/vi/czYPl7pGXT8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=czYPl7pGXT8">When Electricity Went Out of Control</a><br/>Oct 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=MX2NzxxXjkI"><img width="140px" src="https://i.ytimg.com/vi/MX2NzxxXjkI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MX2NzxxXjkI">Incredible Moments Caught on Camera</a><br/>Oct 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7aEh4MgSkg4"><img width="140px" src="https://i.ytimg.com/vi/7aEh4MgSkg4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7aEh4MgSkg4">TOWBAR INVENTIONS FOR YOUR CAR THAT HAVE REACHED A NEW LEVEL</a><br/>Oct 9, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
