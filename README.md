@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5k0SDzUPHE0"><img width="140px" src="https://i.ytimg.com/vi/5k0SDzUPHE0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XnjgeFdJ9Gk"><img width="140px" src="https://i.ytimg.com/vi/XnjgeFdJ9Gk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XnjgeFdJ9Gk">MODERN AGRICULTURAL MACHINES THAT ARE ON ANOTHER LEVEL</a><br/>Oct 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kScUe2NTvoI"><img width="140px" src="https://i.ytimg.com/vi/kScUe2NTvoI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kScUe2NTvoI">Angry Cats vs Wild Animals</a><br/>Oct 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5k0SDzUPHE0"><img width="140px" src="https://i.ytimg.com/vi/5k0SDzUPHE0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5k0SDzUPHE0">25 COOL INVENTIONS AND TOOLS FOR YOUR GARAGE</a><br/>Oct 13, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xkRlkCV-L3Y"><img width="140px" src="https://i.ytimg.com/vi/xkRlkCV-L3Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xkRlkCV-L3Y">Incredible Moments Caught on Camera</a><br/>Oct 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=L_1CYjN1A-w"><img width="140px" src="https://i.ytimg.com/vi/L_1CYjN1A-w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=L_1CYjN1A-w">TOTAL IDIOTS AT WORK CAUGHT ON CAMERA</a><br/>Oct 12, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=W897GLiDMG0"><img width="140px" src="https://i.ytimg.com/vi/W897GLiDMG0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W897GLiDMG0">When Animals Messed with the Wrong Opponent</a><br/>Oct 12, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
