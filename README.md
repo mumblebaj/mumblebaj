@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=t0PmlvgjjnE"><img width="140px" src="https://i.ytimg.com/vi/t0PmlvgjjnE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tofh__GVVj0"><img width="140px" src="https://i.ytimg.com/vi/tofh__GVVj0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tofh__GVVj0">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Oct 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yoOktLiJk1g"><img width="140px" src="https://i.ytimg.com/vi/yoOktLiJk1g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yoOktLiJk1g">Most Powerful Storm Moments Ever Caught on Camera</a><br/>Oct 17, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=t0PmlvgjjnE"><img width="140px" src="https://i.ytimg.com/vi/t0PmlvgjjnE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t0PmlvgjjnE">20 AMAZING TOOLS YOU SHOULD SEE</a><br/>Oct 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=61_CuX-W1Jw"><img width="140px" src="https://i.ytimg.com/vi/61_CuX-W1Jw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=61_CuX-W1Jw">Incredible Woodworking Techniques and Wood Carving Machines</a><br/>Oct 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XnjgeFdJ9Gk"><img width="140px" src="https://i.ytimg.com/vi/XnjgeFdJ9Gk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XnjgeFdJ9Gk">MODERN AGRICULTURAL MACHINES THAT ARE ON ANOTHER LEVEL</a><br/>Oct 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kScUe2NTvoI"><img width="140px" src="https://i.ytimg.com/vi/kScUe2NTvoI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kScUe2NTvoI">Angry Cats vs Wild Animals</a><br/>Oct 15, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
