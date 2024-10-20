@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tofh__GVVj0"><img width="140px" src="https://i.ytimg.com/vi/tofh__GVVj0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c9LkJevZFDY"><img width="140px" src="https://i.ytimg.com/vi/c9LkJevZFDY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c9LkJevZFDY">IDIOTS IN THE CAR SERVICE WHO WENT TOO FAR</a><br/>Oct 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZdwsF2niBTY"><img width="140px" src="https://i.ytimg.com/vi/ZdwsF2niBTY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZdwsF2niBTY">100 Incredible Lightning Strikes Caught on Camera</a><br/>Oct 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tofh__GVVj0"><img width="140px" src="https://i.ytimg.com/vi/tofh__GVVj0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tofh__GVVj0">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Oct 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yoOktLiJk1g"><img width="140px" src="https://i.ytimg.com/vi/yoOktLiJk1g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yoOktLiJk1g">Most Powerful Storm Moments Ever Caught on Camera</a><br/>Oct 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=t0PmlvgjjnE"><img width="140px" src="https://i.ytimg.com/vi/t0PmlvgjjnE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t0PmlvgjjnE">20 AMAZING TOOLS YOU SHOULD SEE</a><br/>Oct 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=61_CuX-W1Jw"><img width="140px" src="https://i.ytimg.com/vi/61_CuX-W1Jw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=61_CuX-W1Jw">Incredible Woodworking Techniques and Wood Carving Machines</a><br/>Oct 16, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
