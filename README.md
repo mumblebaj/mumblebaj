@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hOFmGqdALbg"><img width="140px" src="https://i.ytimg.com/vi/hOFmGqdALbg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hOFmGqdALbg">REALLY CRAZY TRUCK CONCEPTS THAT AMAZE THE IMAGINATION</a><br/>Oct 22, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=l0JyVNzFI2Q"><img width="140px" src="https://i.ytimg.com/vi/l0JyVNzFI2Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=l0JyVNzFI2Q">SUPER REALISTIC DIECAST MODELS THAT WILL BLOW YOUR MIND</a><br/>Oct 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RGqvumobzyw"><img width="140px" src="https://i.ytimg.com/vi/RGqvumobzyw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RGqvumobzyw">That Was Really Filmed on Camera</a><br/>Oct 23, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hOFmGqdALbg"><img width="140px" src="https://i.ytimg.com/vi/hOFmGqdALbg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hOFmGqdALbg">TRUCK CONCEPTS THAT AMAZE THE IMAGINATION</a><br/>Oct 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HXVJJ0PyYUg"><img width="140px" src="https://i.ytimg.com/vi/HXVJJ0PyYUg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HXVJJ0PyYUg">Incredible Sea Moments Caught On Camera</a><br/>Oct 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wEJHnSRzg_8"><img width="140px" src="https://i.ytimg.com/vi/wEJHnSRzg_8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wEJHnSRzg_8">20 INVENTIONS THAT WILL CHANGE THE WORLD</a><br/>Oct 20, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3t_6LOwbvcs"><img width="140px" src="https://i.ytimg.com/vi/3t_6LOwbvcs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3t_6LOwbvcs">Incredible Moments Caught on Camera</a><br/>Oct 20, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
