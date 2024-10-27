@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uw6eIGjJeNM"><img width="140px" src="https://i.ytimg.com/vi/uw6eIGjJeNM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ORzJEuyixNM"><img width="140px" src="https://i.ytimg.com/vi/ORzJEuyixNM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ORzJEuyixNM">INCREDIBLE NEW LEVEL MILITARY TECHNOLOGIES</a><br/>Oct 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=kOGN0zYCdF0"><img width="140px" src="https://i.ytimg.com/vi/kOGN0zYCdF0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kOGN0zYCdF0">Most Ridiculous Workers&#39; Mistakes Caught on Camera</a><br/>Oct 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uw6eIGjJeNM"><img width="140px" src="https://i.ytimg.com/vi/uw6eIGjJeNM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uw6eIGjJeNM">COOL GADGETS YOU SHOULD SEE</a><br/>Oct 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=melOcOrPVBE"><img width="140px" src="https://i.ytimg.com/vi/melOcOrPVBE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=melOcOrPVBE">Unbelievable Pool Collapses and Mistakes Caught on Camera</a><br/>Oct 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=l0JyVNzFI2Q"><img width="140px" src="https://i.ytimg.com/vi/l0JyVNzFI2Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=l0JyVNzFI2Q">SUPER REALISTIC DIECAST MODELS THAT WILL BLOW YOUR MIND</a><br/>Oct 23, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RGqvumobzyw"><img width="140px" src="https://i.ytimg.com/vi/RGqvumobzyw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RGqvumobzyw">That Was Really Filmed on Camera</a><br/>Oct 23, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
