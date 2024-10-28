@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ORzJEuyixNM"><img width="140px" src="https://i.ytimg.com/vi/ORzJEuyixNM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TzBNdkov6hw"><img width="140px" src="https://i.ytimg.com/vi/TzBNdkov6hw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TzBNdkov6hw">Drone&#39;s Camera Caught Something Incredible</a><br/>Oct 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zDjMQXjvf8Y"><img width="140px" src="https://i.ytimg.com/vi/zDjMQXjvf8Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zDjMQXjvf8Y">INCREDIBLE INVENTIONS YOU NEED IN ANY HOME</a><br/>Oct 27, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ORzJEuyixNM"><img width="140px" src="https://i.ytimg.com/vi/ORzJEuyixNM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ORzJEuyixNM">INCREDIBLE NEW LEVEL MILITARY TECHNOLOGIES</a><br/>Oct 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kOGN0zYCdF0"><img width="140px" src="https://i.ytimg.com/vi/kOGN0zYCdF0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kOGN0zYCdF0">Most Ridiculous Workers&#39; Mistakes Caught on Camera</a><br/>Oct 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uw6eIGjJeNM"><img width="140px" src="https://i.ytimg.com/vi/uw6eIGjJeNM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uw6eIGjJeNM">COOL GADGETS YOU SHOULD SEE</a><br/>Oct 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=melOcOrPVBE"><img width="140px" src="https://i.ytimg.com/vi/melOcOrPVBE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=melOcOrPVBE">Unbelievable Pool Collapses and Mistakes Caught on Camera</a><br/>Oct 24, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
