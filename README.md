@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ndRi1eadBy4"><img width="140px" src="https://i.ytimg.com/vi/ndRi1eadBy4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EH8QjiaXGdI"><img width="140px" src="https://i.ytimg.com/vi/EH8QjiaXGdI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EH8QjiaXGdI">Ingenious Construction Workers That Are at Another Level</a><br/>Oct 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HBx6WlFXzbA"><img width="140px" src="https://i.ytimg.com/vi/HBx6WlFXzbA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HBx6WlFXzbA">UNUSUAL VEHICLES FROM AROUND THE WORLD</a><br/>Oct 31, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ndRi1eadBy4"><img width="140px" src="https://i.ytimg.com/vi/ndRi1eadBy4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ndRi1eadBy4">COOL TOOLS YOU HAVEN&#39;T SEEN YET</a><br/>Oct 30, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zYBmqY0uWeU"><img width="140px" src="https://i.ytimg.com/vi/zYBmqY0uWeU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zYBmqY0uWeU">Heavy Truck Driving Fails Caught on Camera</a><br/>Oct 30, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=koKjnu4lz-c"><img width="140px" src="https://i.ytimg.com/vi/koKjnu4lz-c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=koKjnu4lz-c">OFF-ROAD TRUCKS AND INCREDIBLY SKILLED DRIVERS</a><br/>Oct 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=acAEtuzU3Zc"><img width="140px" src="https://i.ytimg.com/vi/acAEtuzU3Zc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=acAEtuzU3Zc">Hero Animals That Saved Human Lives</a><br/>Oct 29, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
