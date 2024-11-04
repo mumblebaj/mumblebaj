@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vLoCGXtTsvY"><img width="140px" src="https://i.ytimg.com/vi/vLoCGXtTsvY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uL-iyJ33wSc"><img width="140px" src="https://i.ytimg.com/vi/uL-iyJ33wSc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uL-iyJ33wSc">HANDYMAN TIPS AND TRICKS THAT REALLY WORK</a><br/>Nov 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3bLmjDjD4RE"><img width="140px" src="https://i.ytimg.com/vi/3bLmjDjD4RE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3bLmjDjD4RE">Incredible Moments Caught on Camera</a><br/>Nov 3, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vLoCGXtTsvY"><img width="140px" src="https://i.ytimg.com/vi/vLoCGXtTsvY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vLoCGXtTsvY">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Nov 2, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0ZnrOq0UHqg"><img width="140px" src="https://i.ytimg.com/vi/0ZnrOq0UHqg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0ZnrOq0UHqg">Biggest Train Collisions and Mistakes Caught on Camera</a><br/>Nov 2, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EH8QjiaXGdI"><img width="140px" src="https://i.ytimg.com/vi/EH8QjiaXGdI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EH8QjiaXGdI">Ingenious Construction Workers That Are at Another Level</a><br/>Oct 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HBx6WlFXzbA"><img width="140px" src="https://i.ytimg.com/vi/HBx6WlFXzbA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HBx6WlFXzbA">UNUSUAL VEHICLES FROM AROUND THE WORLD</a><br/>Oct 31, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
