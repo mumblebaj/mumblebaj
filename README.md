@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aTPcENCXCBc"><img width="140px" src="https://i.ytimg.com/vi/aTPcENCXCBc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FCEaalwk1Gc"><img width="140px" src="https://i.ytimg.com/vi/FCEaalwk1Gc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FCEaalwk1Gc">One in a Billion Moments in Nature | Best of 2024</a><br/>Nov 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=c0QhGnpz6ag"><img width="140px" src="https://i.ytimg.com/vi/c0QhGnpz6ag/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c0QhGnpz6ag">20 COOLEST INVENTIONS FOR YOUR CAR</a><br/>Nov 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aTPcENCXCBc"><img width="140px" src="https://i.ytimg.com/vi/aTPcENCXCBc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aTPcENCXCBc">WOOD CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Nov 7, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Y8PmiuQpJo8"><img width="140px" src="https://i.ytimg.com/vi/Y8PmiuQpJo8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Y8PmiuQpJo8">Things You Can Only See in Australia</a><br/>Nov 7, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=41xeFUSi960"><img width="140px" src="https://i.ytimg.com/vi/41xeFUSi960/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=41xeFUSi960">Incredible Moments Caught on Camera</a><br/>Nov 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=imiUrkgTcMw"><img width="140px" src="https://i.ytimg.com/vi/imiUrkgTcMw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=imiUrkgTcMw">INCREDIBLE INVENTIONS FOR TRUCKS THAT YOU SHOULD SEE</a><br/>Nov 6, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
