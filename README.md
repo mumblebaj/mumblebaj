@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rGrcCHATyNg"><img width="140px" src="https://i.ytimg.com/vi/rGrcCHATyNg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c9a9dMwV7vM"><img width="140px" src="https://i.ytimg.com/vi/c9a9dMwV7vM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c9a9dMwV7vM">Most Unbelievable Rock Formations on Earth</a><br/>Nov 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=L2QsDlxkx7k"><img width="140px" src="https://i.ytimg.com/vi/L2QsDlxkx7k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L2QsDlxkx7k">ROADS YOU WOULD NEVER WANT TO DRIVE ON | MOST DANGEROUS ROADS IN THE WORLD</a><br/>Nov 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=rGrcCHATyNg"><img width="140px" src="https://i.ytimg.com/vi/rGrcCHATyNg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rGrcCHATyNg">GADGETS AND INVENTIONS FOR CAMPING THAT YOU SHOULD SEE</a><br/>Nov 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Q_tnA0s1mPE"><img width="140px" src="https://i.ytimg.com/vi/Q_tnA0s1mPE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Q_tnA0s1mPE">Incredible Moments Caught on Camera</a><br/>Nov 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FCEaalwk1Gc"><img width="140px" src="https://i.ytimg.com/vi/FCEaalwk1Gc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FCEaalwk1Gc">One in a Billion Moments in Nature | Best of 2024</a><br/>Nov 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=c0QhGnpz6ag"><img width="140px" src="https://i.ytimg.com/vi/c0QhGnpz6ag/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c0QhGnpz6ag">20 COOLEST INVENTIONS FOR YOUR CAR</a><br/>Nov 9, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
