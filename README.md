@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e8hqfPB-q7U"><img width="140px" src="https://i.ytimg.com/vi/e8hqfPB-q7U/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SBUSqiHZsl4"><img width="140px" src="https://i.ytimg.com/vi/SBUSqiHZsl4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SBUSqiHZsl4">MOST EXPENSIVE MISTAKES THAT GOT CAUGHT ON CAMERA</a><br/>Nov 16, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=aDF5H19ARWs"><img width="140px" src="https://i.ytimg.com/vi/aDF5H19ARWs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aDF5H19ARWs">Most Expensive Fails Ever Caught on Camera</a><br/>Nov 16, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=e8hqfPB-q7U"><img width="140px" src="https://i.ytimg.com/vi/e8hqfPB-q7U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e8hqfPB-q7U">They Drained This 200 Year Old Canal. What They Found at the Bottom Was Incredible</a><br/>Nov 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cf_TSljc5UA"><img width="140px" src="https://i.ytimg.com/vi/cf_TSljc5UA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cf_TSljc5UA">25 MUST-HAVE GADGETS THAT WILL BLOW YOUR MIND</a><br/>Nov 14, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=B1GvW0Rz8rA"><img width="140px" src="https://i.ytimg.com/vi/B1GvW0Rz8rA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=B1GvW0Rz8rA">BRILLIANT GADGETS FOR GARDEN YOU SHOULD SEE</a><br/>Nov 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TyarhxoqlAc"><img width="140px" src="https://i.ytimg.com/vi/TyarhxoqlAc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TyarhxoqlAc">Drone&#39;s Camera Caught Something Incredible | Best of 2024</a><br/>Nov 13, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
