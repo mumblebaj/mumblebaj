@@ -89,7 +89,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=wqIuUTTCj00"><img width="140px" src="https://i.ytimg.com/vi/wqIuUTTCj00/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wqIuUTTCj00">Incredible Moments Caught on Camera</a><br/>Nov 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SBUSqiHZsl4"><img width="140px" src="https://i.ytimg.com/vi/SBUSqiHZsl4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SBUSqiHZsl4">MOST EXPENSIVE MISTAKES THAT GOT CAUGHT ON CAMERA</a><br/>Nov 16, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=SBUSqiHZsl4">MOST EXPENSIVE FAILS EVER CAUGHT ON CAMERA</a><br/>Nov 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aDF5H19ARWs"><img width="140px" src="https://i.ytimg.com/vi/aDF5H19ARWs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aDF5H19ARWs">Most Expensive Fails Ever Caught on Camera</a><br/>Nov 16, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
