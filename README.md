@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uC9q04k1A2Q"><img width="140px" src="https://i.ytimg.com/vi/uC9q04k1A2Q/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mF1BvClyDsE"><img width="140px" src="https://i.ytimg.com/vi/mF1BvClyDsE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mF1BvClyDsE">CONSTRUCTION TIPS AND TRICKS THAT REALLY WORK</a><br/>Nov 24, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vMDfqM400kc"><img width="140px" src="https://i.ytimg.com/vi/vMDfqM400kc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vMDfqM400kc">Incredible Moments Caught on Camera</a><br/>Nov 24, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uC9q04k1A2Q"><img width="140px" src="https://i.ytimg.com/vi/uC9q04k1A2Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uC9q04k1A2Q">INCREDIBLE NEW LEVEL MILITARY TECHNOLOGIES</a><br/>Nov 23, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HtikidYXrKo"><img width="140px" src="https://i.ytimg.com/vi/HtikidYXrKo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HtikidYXrKo">70 Unbelievable Aviation Moments Caught on Camera</a><br/>Nov 23, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RhOoIVflqZo"><img width="140px" src="https://i.ytimg.com/vi/RhOoIVflqZo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RhOoIVflqZo">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Nov 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Zf8wYDNWJD8"><img width="140px" src="https://i.ytimg.com/vi/Zf8wYDNWJD8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zf8wYDNWJD8">Total Idiots At Work Caught On Camera</a><br/>Nov 21, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
