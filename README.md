@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-9xGmimpvtI"><img width="140px" src="https://i.ytimg.com/vi/-9xGmimpvtI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=apqS2r_11iA"><img width="140px" src="https://i.ytimg.com/vi/apqS2r_11iA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=apqS2r_11iA">25 COOL GADGETS FOR SURVIVAL FROM AMAZON</a><br/>Nov 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qtztOU_rWOM"><img width="140px" src="https://i.ytimg.com/vi/qtztOU_rWOM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qtztOU_rWOM">When Animals Messed with the Wrong Opponent</a><br/>Nov 28, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-9xGmimpvtI"><img width="140px" src="https://i.ytimg.com/vi/-9xGmimpvtI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-9xGmimpvtI">20 INCREDIBLE GADGETS YOU&#39;LL WANT TO BUY</a><br/>Nov 27, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Cd7TnZyiYWc"><img width="140px" src="https://i.ytimg.com/vi/Cd7TnZyiYWc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Cd7TnZyiYWc">Most Brutal Crash Tests That Went Too Far</a><br/>Nov 27, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cqiHMK_I7K4"><img width="140px" src="https://i.ytimg.com/vi/cqiHMK_I7K4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cqiHMK_I7K4">MOST COMFORTABLE TRUCKS YOU HAVEN&#39;T SEEN BEFORE</a><br/>Nov 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Iwapz9VDngg"><img width="140px" src="https://i.ytimg.com/vi/Iwapz9VDngg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Iwapz9VDngg">Massive Bridge Collapses and Failures Caught on Camera</a><br/>Nov 26, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
