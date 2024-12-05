@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vsBsS5DhMDo"><img width="140px" src="https://i.ytimg.com/vi/vsBsS5DhMDo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vsBsS5DhMDo">THAT&#39;S HOW BURGERS ARE MADE AT MCDONALD&#39;S. FOOD PRODUCTION</a><br/>Dec 3, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BfblKtS2zE8"><img width="140px" src="https://i.ytimg.com/vi/BfblKtS2zE8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BfblKtS2zE8">Most Extreme Street Food of the World</a><br/>Dec 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7HL2DZi7O2o"><img width="140px" src="https://i.ytimg.com/vi/7HL2DZi7O2o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7HL2DZi7O2o">70 UNBELIEVABLE AVIATION MOMENTS CAUGHT ON CAMERA</a><br/>Dec 4, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vsBsS5DhMDo"><img width="140px" src="https://i.ytimg.com/vi/vsBsS5DhMDo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vsBsS5DhMDo">MCDONALD&#39;S FRENCH FRIES MEGA FACTORY: PROCESSING MILLIONS OF FRENCH FRIES WITH MODERN TECHNOLOGY</a><br/>Dec 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=M4DU9DUYPrg"><img width="140px" src="https://i.ytimg.com/vi/M4DU9DUYPrg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M4DU9DUYPrg">When Winter Went Out of Control</a><br/>Dec 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RX_uEKsFMxg"><img width="140px" src="https://i.ytimg.com/vi/RX_uEKsFMxg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RX_uEKsFMxg">MILITARY TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Dec 1, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UVdiwAgFw-U"><img width="140px" src="https://i.ytimg.com/vi/UVdiwAgFw-U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UVdiwAgFw-U">Incredible Moments Caught on Camera</a><br/>Dec 1, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
