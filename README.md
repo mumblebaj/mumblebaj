@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bNotRq8GJQ4"><img width="140px" src="https://i.ytimg.com/vi/bNotRq8GJQ4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cTp_OVBDLTA"><img width="140px" src="https://i.ytimg.com/vi/cTp_OVBDLTA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cTp_OVBDLTA">WOOD CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Dec 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hB8Zydb7A6s"><img width="140px" src="https://i.ytimg.com/vi/hB8Zydb7A6s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hB8Zydb7A6s">95 Incredible Moments Caught on CCTV Camera | Best of 2024</a><br/>Dec 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bNotRq8GJQ4"><img width="140px" src="https://i.ytimg.com/vi/bNotRq8GJQ4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bNotRq8GJQ4">AUTONOMOUS MOBILE HOMES YOU CAN LIVE IN FOR YEARS</a><br/>Dec 5, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=e_BPqyaz2YU"><img width="140px" src="https://i.ytimg.com/vi/e_BPqyaz2YU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e_BPqyaz2YU">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Dec 5, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BfblKtS2zE8"><img width="140px" src="https://i.ytimg.com/vi/BfblKtS2zE8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BfblKtS2zE8">Most Extreme Street Food of the World</a><br/>Dec 4, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7HL2DZi7O2o"><img width="140px" src="https://i.ytimg.com/vi/7HL2DZi7O2o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7HL2DZi7O2o">70 UNBELIEVABLE AVIATION MOMENTS CAUGHT ON CAMERA</a><br/>Dec 4, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
