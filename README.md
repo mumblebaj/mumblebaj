@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lrUUXA-oLwA"><img width="140px" src="https://i.ytimg.com/vi/lrUUXA-oLwA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JTz36R2WvY0"><img width="140px" src="https://i.ytimg.com/vi/JTz36R2WvY0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JTz36R2WvY0">25 COOL TOOLS YOU SHOULD KNOW ABOUT</a><br/>Dec 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5RcNpTRn_mU"><img width="140px" src="https://i.ytimg.com/vi/5RcNpTRn_mU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5RcNpTRn_mU">Bad Day at Work Caught on Camera</a><br/>Dec 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lrUUXA-oLwA"><img width="140px" src="https://i.ytimg.com/vi/lrUUXA-oLwA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lrUUXA-oLwA">MODERN AGRICULTURAL MACHINES THAT ARE ON ANOTHER LEVEL</a><br/>Dec 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NOUxT6h9RtI"><img width="140px" src="https://i.ytimg.com/vi/NOUxT6h9RtI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NOUxT6h9RtI">Why China Is Not Like Any Other Country</a><br/>Dec 10, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=k2gT0S1nL5g"><img width="140px" src="https://i.ytimg.com/vi/k2gT0S1nL5g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=k2gT0S1nL5g">Drone&#39;s Camera Caught Something Incredible</a><br/>Dec 8, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lSlPK_NcEbs"><img width="140px" src="https://i.ytimg.com/vi/lSlPK_NcEbs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lSlPK_NcEbs">FEW PEOPLE HAVE EVER SEEN THESE ANTI-FLOOD INVENTIONS</a><br/>Dec 8, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
