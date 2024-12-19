@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=llzET2oOFzU"><img width="140px" src="https://i.ytimg.com/vi/llzET2oOFzU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yy0qXWv4tJk"><img width="140px" src="https://i.ytimg.com/vi/yy0qXWv4tJk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yy0qXWv4tJk">WOOD PROCESSES THAT YOU SHOULD SEE</a><br/>Dec 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oWqzpyMJCxo"><img width="140px" src="https://i.ytimg.com/vi/oWqzpyMJCxo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oWqzpyMJCxo">Incredible Moments Caught on Camera | Best of 2024</a><br/>Dec 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=llzET2oOFzU"><img width="140px" src="https://i.ytimg.com/vi/llzET2oOFzU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=llzET2oOFzU">UNDERWATER CONSTRUCTIONS. HOW ENGINEERS MAKE THEM</a><br/>Dec 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NPydcYPOfPA"><img width="140px" src="https://i.ytimg.com/vi/NPydcYPOfPA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NPydcYPOfPA">When Plane Landings and Takeoffs Go Wrong</a><br/>Dec 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BsVgER5Cr1I"><img width="140px" src="https://i.ytimg.com/vi/BsVgER5Cr1I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BsVgER5Cr1I">20 HOME SECURITY GADGETS AND INVENTIONS YOU SHOULD SEE</a><br/>Dec 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LbEHCx5jYSs"><img width="140px" src="https://i.ytimg.com/vi/LbEHCx5jYSs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LbEHCx5jYSs">That Was Really Filmed On Camera</a><br/>Dec 15, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
