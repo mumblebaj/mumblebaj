@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7s6KWuli1_8"><img width="140px" src="https://i.ytimg.com/vi/7s6KWuli1_8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SyhvX95FKJ4"><img width="140px" src="https://i.ytimg.com/vi/SyhvX95FKJ4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SyhvX95FKJ4">POWERFUL ENGINE SOUNDS THAT WILL SHAKE YOUR SOUL</a><br/>Dec 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uFCJ18tZDtA"><img width="140px" src="https://i.ytimg.com/vi/uFCJ18tZDtA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uFCJ18tZDtA">Incredible Moments Caught on Camera</a><br/>Dec 22, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7s6KWuli1_8"><img width="140px" src="https://i.ytimg.com/vi/7s6KWuli1_8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7s6KWuli1_8">Total Idiots at Work Caught on Camera</a><br/>Dec 21, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7r6XfXtJ3OM"><img width="140px" src="https://i.ytimg.com/vi/7r6XfXtJ3OM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7r6XfXtJ3OM">TOTAL IDIOTS AT WORK CAUGHT ON CAMERA</a><br/>Dec 21, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=elE8lKgpbQA"><img width="140px" src="https://i.ytimg.com/vi/elE8lKgpbQA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=elE8lKgpbQA">INCREDIBLE INVENTIONS YOU NEED IN ANY HOME</a><br/>Dec 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BAmMYpr8mwg"><img width="140px" src="https://i.ytimg.com/vi/BAmMYpr8mwg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BAmMYpr8mwg">Expensive Supercar Fails Caught on Camera</a><br/>Dec 19, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
