@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZK77oFdxDZk"><img width="140px" src="https://i.ytimg.com/vi/ZK77oFdxDZk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-QaeaTLIgpE"><img width="140px" src="https://i.ytimg.com/vi/-QaeaTLIgpE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-QaeaTLIgpE">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Dec 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zlubmsbHLAQ"><img width="140px" src="https://i.ytimg.com/vi/zlubmsbHLAQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zlubmsbHLAQ">Out of Control Machines Caught on Camera</a><br/>Dec 26, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZK77oFdxDZk"><img width="140px" src="https://i.ytimg.com/vi/ZK77oFdxDZk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZK77oFdxDZk">20 MOST AMAZING MILITARY VEHICLES IN THE WORLD</a><br/>Dec 25, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=rsjoSGrBn8U"><img width="140px" src="https://i.ytimg.com/vi/rsjoSGrBn8U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rsjoSGrBn8U">When Flights Go Horribly Wrong</a><br/>Dec 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=oTcqr3JSQnQ"><img width="140px" src="https://i.ytimg.com/vi/oTcqr3JSQnQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oTcqr3JSQnQ">INGENIOUS TOOLS YOU&#39;LL WANT TO BUY</a><br/>Dec 24, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-3vG-fqQRkM"><img width="140px" src="https://i.ytimg.com/vi/-3vG-fqQRkM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-3vG-fqQRkM">Cats Who Totally Mess with Dogs</a><br/>Dec 24, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
