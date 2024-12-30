@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iX2Rdx0m1n4"><img width="140px" src="https://i.ytimg.com/vi/iX2Rdx0m1n4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=D0aa58dG1EM"><img width="140px" src="https://i.ytimg.com/vi/D0aa58dG1EM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=D0aa58dG1EM">COOL INVENTIONS THAT WILL TAKE YOUR CAR TO A NEW LEVEL</a><br/>Dec 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4-EaLWxoUTA"><img width="140px" src="https://i.ytimg.com/vi/4-EaLWxoUTA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4-EaLWxoUTA">Incredible Moments Caught on Camera</a><br/>Dec 29, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iX2Rdx0m1n4"><img width="140px" src="https://i.ytimg.com/vi/iX2Rdx0m1n4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iX2Rdx0m1n4">Ingenious Construction Workers That Are at Another Level</a><br/>Dec 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=paMqN8rF7Do"><img width="140px" src="https://i.ytimg.com/vi/paMqN8rF7Do/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=paMqN8rF7Do">INGENIOUS CONSTRUCTION WORKERS THAT ARE AT ANOTHER LEVEL</a><br/>Dec 28, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-QaeaTLIgpE"><img width="140px" src="https://i.ytimg.com/vi/-QaeaTLIgpE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-QaeaTLIgpE">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Dec 26, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zlubmsbHLAQ"><img width="140px" src="https://i.ytimg.com/vi/zlubmsbHLAQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zlubmsbHLAQ">Out of Control Machines Caught on Camera</a><br/>Dec 26, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
