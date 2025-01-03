@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VzMIf4AhAtg"><img width="140px" src="https://i.ytimg.com/vi/VzMIf4AhAtg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_cSg-Hrc6Y0"><img width="140px" src="https://i.ytimg.com/vi/_cSg-Hrc6Y0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_cSg-Hrc6Y0">ULTIMATE EXPEDITION OFF-ROAD VEHICLES YOU SHOULD SEE</a><br/>Jan 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UMgw49msPpM"><img width="140px" src="https://i.ytimg.com/vi/UMgw49msPpM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UMgw49msPpM">When Your Neighbors Are Good Samaritans</a><br/>Jan 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=VzMIf4AhAtg"><img width="140px" src="https://i.ytimg.com/vi/VzMIf4AhAtg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VzMIf4AhAtg">UNDERWATER INVENTIONS THAT YOU SHOULD SEE</a><br/>Jan 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NJkkiCQTcAA"><img width="140px" src="https://i.ytimg.com/vi/NJkkiCQTcAA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NJkkiCQTcAA">Drone&#39;s Camera Caught Something Incredible</a><br/>Jan 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pVJI4tJeJBo"><img width="140px" src="https://i.ytimg.com/vi/pVJI4tJeJBo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pVJI4tJeJBo">DANGEROUS TREE FELLING WITH CHAINSAWS &amp; FASTEST LUMBERJACKS&#39; SKILLS</a><br/>Dec 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UDAYxtkqWeI"><img width="140px" src="https://i.ytimg.com/vi/UDAYxtkqWeI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UDAYxtkqWeI">Icy Road Madness Caught on Camera</a><br/>Dec 31, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
