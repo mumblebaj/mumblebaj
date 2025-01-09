@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Bxg3hEts5E4"><img width="140px" src="https://i.ytimg.com/vi/Bxg3hEts5E4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0jLg_xARsao"><img width="140px" src="https://i.ytimg.com/vi/0jLg_xARsao/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0jLg_xARsao">Incredible Road Moments Caught on Camera</a><br/>Jan 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NCEr3sQb0ZU"><img width="140px" src="https://i.ytimg.com/vi/NCEr3sQb0ZU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NCEr3sQb0ZU">CAMPING INVENTIONS THAT ARE ON THE NEXT LEVEL</a><br/>Jan 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Bxg3hEts5E4"><img width="140px" src="https://i.ytimg.com/vi/Bxg3hEts5E4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Bxg3hEts5E4">25 INGENIOUS HOMEMADE PROJECTS THAT YOU WILL APPRECIATE</a><br/>Jan 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lyXE6goUV3s"><img width="140px" src="https://i.ytimg.com/vi/lyXE6goUV3s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lyXE6goUV3s">Satisfying Winter Moments Caught on Camera</a><br/>Jan 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=R0pTbR6dMXE"><img width="140px" src="https://i.ytimg.com/vi/R0pTbR6dMXE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=R0pTbR6dMXE">COOL MINI GADGETS YOU&#39;LL WANT TO BUY</a><br/>Jan 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1obzqixNjHc"><img width="140px" src="https://i.ytimg.com/vi/1obzqixNjHc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1obzqixNjHc">That Was Really Filmed On Camera</a><br/>Jan 5, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
