@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JA7l3P3CdJU"><img width="140px" src="https://i.ytimg.com/vi/JA7l3P3CdJU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M7eJ3YFM2nY"><img width="140px" src="https://i.ytimg.com/vi/M7eJ3YFM2nY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M7eJ3YFM2nY">20 BEST INVENTIONS FOR LOGGING</a><br/>Jan 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=f-CaCAU1gEU"><img width="140px" src="https://i.ytimg.com/vi/f-CaCAU1gEU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=f-CaCAU1gEU">That Was Really Filmed On Camera</a><br/>Jan 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JA7l3P3CdJU"><img width="140px" src="https://i.ytimg.com/vi/JA7l3P3CdJU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JA7l3P3CdJU">INCREDIBLE INVENTIONS THAT YOU SHOULD SEE</a><br/>Jan 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WFqrQqhGq-s"><img width="140px" src="https://i.ytimg.com/vi/WFqrQqhGq-s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WFqrQqhGq-s">60 Times Mother Nature Got Angry on Camera</a><br/>Jan 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wXqUzjYhpe8"><img width="140px" src="https://i.ytimg.com/vi/wXqUzjYhpe8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wXqUzjYhpe8">Most Expensive Warehouse Fails Caught on Camera</a><br/>Jan 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=brA-SIL65Rk"><img width="140px" src="https://i.ytimg.com/vi/brA-SIL65Rk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=brA-SIL65Rk">INCREDIBLY POWERFUL MICROSCOPES THAT ARE INSANELY COOL</a><br/>Jan 9, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
