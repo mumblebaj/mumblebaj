@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5metYcRVapw"><img width="140px" src="https://i.ytimg.com/vi/5metYcRVapw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VOt3N1AnRVQ"><img width="140px" src="https://i.ytimg.com/vi/VOt3N1AnRVQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VOt3N1AnRVQ">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jan 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mx_pNzycscM"><img width="140px" src="https://i.ytimg.com/vi/mx_pNzycscM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mx_pNzycscM">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Jan 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5metYcRVapw"><img width="140px" src="https://i.ytimg.com/vi/5metYcRVapw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5metYcRVapw">MILITARY TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jan 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5NLXPatHwdU"><img width="140px" src="https://i.ytimg.com/vi/5NLXPatHwdU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5NLXPatHwdU">Damn Nature You Scary   Rare &amp; Scary Animal Encounters</a><br/>Jan 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jM7SpqOxtNQ"><img width="140px" src="https://i.ytimg.com/vi/jM7SpqOxtNQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jM7SpqOxtNQ">Why India Is Not for Beginners</a><br/>Jan 14, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YBUTKz7pwYM"><img width="140px" src="https://i.ytimg.com/vi/YBUTKz7pwYM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YBUTKz7pwYM">20 MOST LUXURIOUS MOTORHOMES AND RVs YOU MUST SEE</a><br/>Jan 14, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
