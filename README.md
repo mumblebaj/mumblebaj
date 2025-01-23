@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=v4AzBspYqxM"><img width="140px" src="https://i.ytimg.com/vi/v4AzBspYqxM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=o1uFV8pdIvU"><img width="140px" src="https://i.ytimg.com/vi/o1uFV8pdIvU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o1uFV8pdIvU">INCREDIBLE WATER VEHICLES THAT ARE ON ANOTHER LEVEL</a><br/>Jan 22, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hs-vunC5hIY"><img width="140px" src="https://i.ytimg.com/vi/hs-vunC5hIY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hs-vunC5hIY">75 Scariest Attractions in The World</a><br/>Jan 22, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v4AzBspYqxM"><img width="140px" src="https://i.ytimg.com/vi/v4AzBspYqxM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v4AzBspYqxM">JAW-DROPPING DANGEROUS OVERSIZE CARGO TRANSPORTATION OPERATIONS</a><br/>Jan 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xZq7rD35KGc"><img width="140px" src="https://i.ytimg.com/vi/xZq7rD35KGc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xZq7rD35KGc">55 Biggest Construction Mistakes in the World</a><br/>Jan 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=txzskgF9Uqs"><img width="140px" src="https://i.ytimg.com/vi/txzskgF9Uqs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=txzskgF9Uqs">That Was Really Filmed on Camera</a><br/>Jan 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=y1BFMxpKKoc"><img width="140px" src="https://i.ytimg.com/vi/y1BFMxpKKoc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y1BFMxpKKoc">INCREDIBLE WEAPONS EVERYONE WILL WANT TO SEE</a><br/>Jan 19, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
