@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=APH1OjjqcHw"><img width="140px" src="https://i.ytimg.com/vi/APH1OjjqcHw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xnFhghltvt4"><img width="140px" src="https://i.ytimg.com/vi/xnFhghltvt4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xnFhghltvt4">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Feb 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gf8bXUYNfNA"><img width="140px" src="https://i.ytimg.com/vi/gf8bXUYNfNA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gf8bXUYNfNA">INGENIOUS CONSTRUCTION WORKERS THAT WORK EXTREMELY WELL</a><br/>Feb 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=APH1OjjqcHw"><img width="140px" src="https://i.ytimg.com/vi/APH1OjjqcHw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=APH1OjjqcHw">INGENIOUS TOOLS YOU&#39;LL WANT TO SEE</a><br/>Jan 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pGZOELWXwhc"><img width="140px" src="https://i.ytimg.com/vi/pGZOELWXwhc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pGZOELWXwhc">55 Times Mother Nature Got Angry on Camera</a><br/>Jan 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NbH-Zc3hkLM"><img width="140px" src="https://i.ytimg.com/vi/NbH-Zc3hkLM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NbH-Zc3hkLM">30 INSANE ARMORED VEHICLES FROM AROUND THE WORLD</a><br/>Jan 29, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Bil3W6-bYw8"><img width="140px" src="https://i.ytimg.com/vi/Bil3W6-bYw8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Bil3W6-bYw8">Wild Animals Invading Cities Caught on Camera</a><br/>Jan 29, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
