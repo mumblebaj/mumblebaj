@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yJbjXS1Hniw"><img width="140px" src="https://i.ytimg.com/vi/yJbjXS1Hniw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rWxesrW1_5w"><img width="140px" src="https://i.ytimg.com/vi/rWxesrW1_5w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rWxesrW1_5w">GADGETS FOR HOME THAT YOU CAN BUY ON AMAZON</a><br/>Feb 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=l_Lxrzp7NOU"><img width="140px" src="https://i.ytimg.com/vi/l_Lxrzp7NOU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=l_Lxrzp7NOU">That Really Happened in People&#39;s Backyards</a><br/>Feb 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yJbjXS1Hniw"><img width="140px" src="https://i.ytimg.com/vi/yJbjXS1Hniw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yJbjXS1Hniw">POWERFUL ENGINE SOUNDS THAT WILL SHAKE YOUR SOUL</a><br/>Feb 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=njO9TVB0cIA"><img width="140px" src="https://i.ytimg.com/vi/njO9TVB0cIA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=njO9TVB0cIA">It May Be Hard to Believe, But This Bridge Actually Exists</a><br/>Feb 4, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CGwonP8EzEI"><img width="140px" src="https://i.ytimg.com/vi/CGwonP8EzEI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CGwonP8EzEI">60 COOL INVENTIONS THAT REALLY IMPRESS</a><br/>Feb 2, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mAgqVr9Z0gM"><img width="140px" src="https://i.ytimg.com/vi/mAgqVr9Z0gM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mAgqVr9Z0gM">200 Incredible Moments Caught on CCTV Camera | Best of Month</a><br/>Feb 2, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
