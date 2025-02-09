@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0xjLH7DbCfg"><img width="140px" src="https://i.ytimg.com/vi/0xjLH7DbCfg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ABr6uMJ_SKM"><img width="140px" src="https://i.ytimg.com/vi/ABr6uMJ_SKM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ABr6uMJ_SKM">65 Unbelievable Aviation Moments Caught on Camera</a><br/>Feb 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=J_xN17kdHF0"><img width="140px" src="https://i.ytimg.com/vi/J_xN17kdHF0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=J_xN17kdHF0">UNBELIEVABLE OFF-ROAD FAILS AND WINS CAUGHT ON CAMERA</a><br/>Feb 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0xjLH7DbCfg"><img width="140px" src="https://i.ytimg.com/vi/0xjLH7DbCfg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0xjLH7DbCfg">BEST INVENTIONS FOR LOGGING</a><br/>Feb 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=OSYsatLpEL4"><img width="140px" src="https://i.ytimg.com/vi/OSYsatLpEL4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OSYsatLpEL4">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Feb 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rWxesrW1_5w"><img width="140px" src="https://i.ytimg.com/vi/rWxesrW1_5w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rWxesrW1_5w">GADGETS FOR HOME THAT YOU CAN BUY ON AMAZON</a><br/>Feb 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=l_Lxrzp7NOU"><img width="140px" src="https://i.ytimg.com/vi/l_Lxrzp7NOU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=l_Lxrzp7NOU">That Really Happened in People&#39;s Backyards</a><br/>Feb 5, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
