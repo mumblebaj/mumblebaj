@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=FC4VLugGaZM"><img width="140px" src="https://i.ytimg.com/vi/FC4VLugGaZM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wONyz8lX_Ow"><img width="140px" src="https://i.ytimg.com/vi/wONyz8lX_Ow/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wONyz8lX_Ow">Incredible Moments Caught on Camera</a><br/>Feb 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ni6LkW_G_60"><img width="140px" src="https://i.ytimg.com/vi/Ni6LkW_G_60/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ni6LkW_G_60">AMAZING BICYCLE INVENTIONS YOU SHOULD SEE</a><br/>Feb 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FC4VLugGaZM"><img width="140px" src="https://i.ytimg.com/vi/FC4VLugGaZM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FC4VLugGaZM">EXPENSIVE SUPERCAR FAILS CAUGHT ON CAMERA</a><br/>Feb 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wbSmfikuwF4"><img width="140px" src="https://i.ytimg.com/vi/wbSmfikuwF4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wbSmfikuwF4">Instant Karma Caught on Camera</a><br/>Feb 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9PDAt-_VYWw"><img width="140px" src="https://i.ytimg.com/vi/9PDAt-_VYWw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9PDAt-_VYWw">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Feb 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=W1qeOy8yRoI"><img width="140px" src="https://i.ytimg.com/vi/W1qeOy8yRoI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=W1qeOy8yRoI">Unbelievable Off-Road Fails and Wins Caught on Camera</a><br/>Feb 13, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
