@@ -91,5 +91,5 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=FthCZ-vG2iY"><img width="140px" src="https://i.ytimg.com/vi/FthCZ-vG2iY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FthCZ-vG2iY">MEN ARE CRAZY ABOUT THESE THINGS</a><br/>Feb 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HA6-dXdquyA"><img width="140px" src="https://i.ytimg.com/vi/HA6-dXdquyA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HA6-dXdquyA">Drone&#39;s Camera Caught Something Incredible</a><br/>Feb 19, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=HA6-dXdquyA">That Was Really Filmed on Camera</a><br/>Feb 19, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
