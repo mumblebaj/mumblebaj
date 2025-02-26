@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0rtGhJ7RcUo"><img width="140px" src="https://i.ytimg.com/vi/0rtGhJ7RcUo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LMDFNZHxYV8"><img width="140px" src="https://i.ytimg.com/vi/LMDFNZHxYV8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LMDFNZHxYV8">50 Monster Waves Caught on Camera</a><br/>Feb 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ykxddV9pHRg"><img width="140px" src="https://i.ytimg.com/vi/ykxddV9pHRg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ykxddV9pHRg">70 COOL TOOLS THAT GO TO THE NEXT LEVEL</a><br/>Feb 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0rtGhJ7RcUo"><img width="140px" src="https://i.ytimg.com/vi/0rtGhJ7RcUo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0rtGhJ7RcUo">INGENIOUS INVENTIONS THAT YOU SHOULD SEE</a><br/>Feb 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dBOgERnHnjs"><img width="140px" src="https://i.ytimg.com/vi/dBOgERnHnjs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dBOgERnHnjs">Incredible Moments Caught on Camera</a><br/>Feb 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=yCddGXMWrik"><img width="140px" src="https://i.ytimg.com/vi/yCddGXMWrik/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yCddGXMWrik">INVENTIONS FOR CARS THAT HAVE REACHED A NEW LEVEL</a><br/>Feb 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-BLWVNfrcIs"><img width="140px" src="https://i.ytimg.com/vi/-BLWVNfrcIs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-BLWVNfrcIs">120 Luckiest People Ever Caught on Camera</a><br/>Feb 22, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
