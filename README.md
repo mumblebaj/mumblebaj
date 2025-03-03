@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n6paDkhPXX0"><img width="140px" src="https://i.ytimg.com/vi/n6paDkhPXX0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OLG3CB80A2s"><img width="140px" src="https://i.ytimg.com/vi/OLG3CB80A2s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OLG3CB80A2s">35 INGENIOUS CAMPING INVENTIONS YOU SHOULD SEE</a><br/>Mar 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0Q2ccpX-aro"><img width="140px" src="https://i.ytimg.com/vi/0Q2ccpX-aro/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0Q2ccpX-aro">Incredible Moments Caught On Camera</a><br/>Mar 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=n6paDkhPXX0"><img width="140px" src="https://i.ytimg.com/vi/n6paDkhPXX0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n6paDkhPXX0">BIGGEST CONSTRUCTION MISTAKES IN THE WORLD</a><br/>Mar 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0FMpOGU8L7w"><img width="140px" src="https://i.ytimg.com/vi/0FMpOGU8L7w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0FMpOGU8L7w">When Electricity Went Out of Control</a><br/>Mar 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GraIavU49Hc"><img width="140px" src="https://i.ytimg.com/vi/GraIavU49Hc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GraIavU49Hc">CRAZY TRACKED VEHICLES THAT YOU HAVEN&#39;T SEEN YET</a><br/>Feb 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Xkbuzwq6TV4"><img width="140px" src="https://i.ytimg.com/vi/Xkbuzwq6TV4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Xkbuzwq6TV4">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Feb 27, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
