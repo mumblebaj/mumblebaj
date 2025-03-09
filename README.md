@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BebuK-spgOA"><img width="140px" src="https://i.ytimg.com/vi/BebuK-spgOA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-m2PdHkC400"><img width="140px" src="https://i.ytimg.com/vi/-m2PdHkC400/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-m2PdHkC400">UNBELIEVABLE OFF-ROAD FAILS AND WINS CAUGHT ON CAMERA</a><br/>Mar 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=THvf4PACnM8"><img width="140px" src="https://i.ytimg.com/vi/THvf4PACnM8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=THvf4PACnM8">50 Most Unbelievable Earthquakes Caught on Camera</a><br/>Mar 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BebuK-spgOA"><img width="140px" src="https://i.ytimg.com/vi/BebuK-spgOA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BebuK-spgOA">INCREDIBLE ROAD TECHNOLOGIES THAT ARE INSANELY COOL</a><br/>Mar 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nSmkZA2VIWU"><img width="140px" src="https://i.ytimg.com/vi/nSmkZA2VIWU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nSmkZA2VIWU">Good Samaritans in Action Caught on Camera</a><br/>Mar 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qTKD6925Aww"><img width="140px" src="https://i.ytimg.com/vi/qTKD6925Aww/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qTKD6925Aww">Wild Animals Invading Cities Caught on Camera</a><br/>Mar 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=7cB_YfQSK_I"><img width="140px" src="https://i.ytimg.com/vi/7cB_YfQSK_I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7cB_YfQSK_I">NEW SWEDISH FIGHTER JET SHOCKED THE WORLD</a><br/>Mar 5, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
