@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-m2PdHkC400"><img width="140px" src="https://i.ytimg.com/vi/-m2PdHkC400/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6HC8LvpXpro"><img width="140px" src="https://i.ytimg.com/vi/6HC8LvpXpro/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6HC8LvpXpro">HOME INVENTIONS AND GADGETS THAT YOU SHOULD SEE</a><br/>Mar 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SNWsjOLDt8c"><img width="140px" src="https://i.ytimg.com/vi/SNWsjOLDt8c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SNWsjOLDt8c">Incredible Moments Caught On Camera</a><br/>Mar 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-m2PdHkC400"><img width="140px" src="https://i.ytimg.com/vi/-m2PdHkC400/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-m2PdHkC400">UNBELIEVABLE OFF-ROAD FAILS AND WINS CAUGHT ON CAMERA</a><br/>Mar 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=THvf4PACnM8"><img width="140px" src="https://i.ytimg.com/vi/THvf4PACnM8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=THvf4PACnM8">50 Most Unbelievable Earthquakes Caught on Camera</a><br/>Mar 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BebuK-spgOA"><img width="140px" src="https://i.ytimg.com/vi/BebuK-spgOA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BebuK-spgOA">INCREDIBLE ROAD TECHNOLOGIES THAT ARE INSANELY COOL</a><br/>Mar 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nSmkZA2VIWU"><img width="140px" src="https://i.ytimg.com/vi/nSmkZA2VIWU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nSmkZA2VIWU">Good Samaritans in Action Caught on Camera</a><br/>Mar 6, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
