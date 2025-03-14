@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iN2XgIFjYTo"><img width="140px" src="https://i.ytimg.com/vi/iN2XgIFjYTo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=W1nfSMVkNzw"><img width="140px" src="https://i.ytimg.com/vi/W1nfSMVkNzw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=W1nfSMVkNzw">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Mar 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PPP4jMkKXBM"><img width="140px" src="https://i.ytimg.com/vi/PPP4jMkKXBM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PPP4jMkKXBM">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Mar 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iN2XgIFjYTo"><img width="140px" src="https://i.ytimg.com/vi/iN2XgIFjYTo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iN2XgIFjYTo">INGENIOUS TRUCK INVENTIONS YOU MUST SEE</a><br/>Mar 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EqXPnJ9iDhE"><img width="140px" src="https://i.ytimg.com/vi/EqXPnJ9iDhE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EqXPnJ9iDhE">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Mar 12, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LJ9QisqlBHc"><img width="140px" src="https://i.ytimg.com/vi/LJ9QisqlBHc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LJ9QisqlBHc">70 COOLEST TOOLS THAT GO TO THE NEXT LEVEL</a><br/>Mar 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5-m1fZKcGSg"><img width="140px" src="https://i.ytimg.com/vi/5-m1fZKcGSg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5-m1fZKcGSg">35 Examples of Urban Hell on Earth</a><br/>Mar 11, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
