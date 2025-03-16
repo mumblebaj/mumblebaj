@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=W1nfSMVkNzw"><img width="140px" src="https://i.ytimg.com/vi/W1nfSMVkNzw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6XsTObtYrm8"><img width="140px" src="https://i.ytimg.com/vi/6XsTObtYrm8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6XsTObtYrm8">AVIATION MOMENTS YOU WOULDN&#39;T BELIEVE IF NOT CAUGHT ON CAMERA</a><br/>Mar 15, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Bx7JTEN5rVE"><img width="140px" src="https://i.ytimg.com/vi/Bx7JTEN5rVE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Bx7JTEN5rVE">That Really Happened in People&#39;s Backyards</a><br/>Mar 15, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=W1nfSMVkNzw"><img width="140px" src="https://i.ytimg.com/vi/W1nfSMVkNzw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W1nfSMVkNzw">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Mar 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PPP4jMkKXBM"><img width="140px" src="https://i.ytimg.com/vi/PPP4jMkKXBM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PPP4jMkKXBM">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Mar 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iN2XgIFjYTo"><img width="140px" src="https://i.ytimg.com/vi/iN2XgIFjYTo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iN2XgIFjYTo">INGENIOUS TRUCK INVENTIONS YOU MUST SEE</a><br/>Mar 12, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EqXPnJ9iDhE"><img width="140px" src="https://i.ytimg.com/vi/EqXPnJ9iDhE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EqXPnJ9iDhE">Satisfying Videos of Workers Doing Their Job Perfectly</a><br/>Mar 12, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
