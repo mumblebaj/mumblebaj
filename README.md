@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=z3Tl4RiunWU"><img width="140px" src="https://i.ytimg.com/vi/z3Tl4RiunWU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KkY48jbotKs"><img width="140px" src="https://i.ytimg.com/vi/KkY48jbotKs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KkY48jbotKs">70 MOST INSANE ABANDONED CARS THAT ACTUALLY EXIST</a><br/>Mar 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GvtTz36zRPs"><img width="140px" src="https://i.ytimg.com/vi/GvtTz36zRPs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GvtTz36zRPs">Unbelievable City Collapses and Mistakes Caught on Camera</a><br/>Mar 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=z3Tl4RiunWU"><img width="140px" src="https://i.ytimg.com/vi/z3Tl4RiunWU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z3Tl4RiunWU">35 WATER INVENTIONS THAT REALLY IMPRESS</a><br/>Mar 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vowyrVs7m4U"><img width="140px" src="https://i.ytimg.com/vi/vowyrVs7m4U/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vowyrVs7m4U">Why Women Live Longer Than Men</a><br/>Mar 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cRKa199Wv04"><img width="140px" src="https://i.ytimg.com/vi/cRKa199Wv04/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cRKa199Wv04">THE LARGEST AIRCRAFT EVER BUILT IN THE WORLD</a><br/>Mar 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Tim9cu4Nv_0"><img width="140px" src="https://i.ytimg.com/vi/Tim9cu4Nv_0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Tim9cu4Nv_0">40 Monster Glacier Collapses Caught on Camera</a><br/>Mar 18, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
