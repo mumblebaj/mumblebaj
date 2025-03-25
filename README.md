@@ -85,7 +85,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x2TAjPN_7DI"><img width="140px" src="https://i.ytimg.com/vi/x2TAjPN_7DI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=x2TAjPN_7DI">MAN BUILDS AMAZING LAMBORGHINI FROM START TO FINISH BY ‪@HAISUPERCAR</a><br/>Mar 23, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=x2TAjPN_7DI">1,000 HOURS OF WORK. HUNDREDS OF PARTS. A MAN. A LAMBORGHINI. BY @HAISUPERCAR</a><br/>Mar 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=i20CkpDV2_o"><img width="140px" src="https://i.ytimg.com/vi/i20CkpDV2_o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i20CkpDV2_o">Incredible Moments Caught on Camera</a><br/>Mar 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0wyteMSEvR8"><img width="140px" src="https://i.ytimg.com/vi/0wyteMSEvR8/mqdefault.jpg"></a></td>
