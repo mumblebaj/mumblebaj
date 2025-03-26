@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=x2TAjPN_7DI"><img width="140px" src="https://i.ytimg.com/vi/x2TAjPN_7DI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QerkCy0tuDc"><img width="140px" src="https://i.ytimg.com/vi/QerkCy0tuDc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QerkCy0tuDc">70 IMPRESSIVE INDUSTRIAL MACHINES OPERATING AT PEAK EFFICIENCY</a><br/>Mar 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2bP1SQ4-MYQ"><img width="140px" src="https://i.ytimg.com/vi/2bP1SQ4-MYQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2bP1SQ4-MYQ">It May Be Hard to Believe, But This Hotel Actually Exists</a><br/>Mar 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=x2TAjPN_7DI"><img width="140px" src="https://i.ytimg.com/vi/x2TAjPN_7DI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=x2TAjPN_7DI">1,000 HOURS OF WORK. HUNDREDS OF PARTS. A MAN. A LAMBORGHINI. BY @HAISUPERCAR</a><br/>Mar 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=i20CkpDV2_o"><img width="140px" src="https://i.ytimg.com/vi/i20CkpDV2_o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i20CkpDV2_o">Incredible Moments Caught on Camera</a><br/>Mar 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=0wyteMSEvR8"><img width="140px" src="https://i.ytimg.com/vi/0wyteMSEvR8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0wyteMSEvR8">Most Expensive Fails Ever Caught On Camera</a><br/>Mar 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NUWARozaWLQ"><img width="140px" src="https://i.ytimg.com/vi/NUWARozaWLQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NUWARozaWLQ">COOL MINI GADGETS YOU&#39;LL WANT TO BUY</a><br/>Mar 22, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
