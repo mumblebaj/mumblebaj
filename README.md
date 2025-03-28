@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cvpoVeYbhf4"><img width="140px" src="https://i.ytimg.com/vi/cvpoVeYbhf4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SsWGwXq18RE"><img width="140px" src="https://i.ytimg.com/vi/SsWGwXq18RE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SsWGwXq18RE">35 SMALLEST HOME DEFENSE WEAPONS</a><br/>Mar 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=K88AE2H1Blw"><img width="140px" src="https://i.ytimg.com/vi/K88AE2H1Blw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=K88AE2H1Blw">Worst Neighbors from Hell Caught on Camera</a><br/>Mar 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cvpoVeYbhf4"><img width="140px" src="https://i.ytimg.com/vi/cvpoVeYbhf4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cvpoVeYbhf4">40 COOL TOOLS THAT GO TO THE NEXT LEVEL</a><br/>Mar 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qE16_5-Pc10"><img width="140px" src="https://i.ytimg.com/vi/qE16_5-Pc10/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qE16_5-Pc10">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Mar 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QerkCy0tuDc"><img width="140px" src="https://i.ytimg.com/vi/QerkCy0tuDc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QerkCy0tuDc">70 IMPRESSIVE INDUSTRIAL MACHINES OPERATING AT PEAK EFFICIENCY</a><br/>Mar 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2bP1SQ4-MYQ"><img width="140px" src="https://i.ytimg.com/vi/2bP1SQ4-MYQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2bP1SQ4-MYQ">It May Be Hard to Believe, But This Hotel Actually Exists</a><br/>Mar 25, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
