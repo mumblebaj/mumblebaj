@@ -85,7 +85,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SsWGwXq18RE"><img width="140px" src="https://i.ytimg.com/vi/SsWGwXq18RE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SsWGwXq18RE">35 SMALLEST HOME DEFENSE WEAPONS</a><br/>Mar 27, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=SsWGwXq18RE">COOL MINI GADGETS FOR HOME DEFENSE</a><br/>Mar 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=K88AE2H1Blw"><img width="140px" src="https://i.ytimg.com/vi/K88AE2H1Blw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=K88AE2H1Blw">Worst Neighbors from Hell Caught on Camera</a><br/>Mar 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cvpoVeYbhf4"><img width="140px" src="https://i.ytimg.com/vi/cvpoVeYbhf4/mqdefault.jpg"></a></td>
