@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=F3Cy8tLf2PA"><img width="140px" src="https://i.ytimg.com/vi/F3Cy8tLf2PA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qDTw0bKN11k"><img width="140px" src="https://i.ytimg.com/vi/qDTw0bKN11k/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qDTw0bKN11k">INCREDIBLE INVENTIONS YOU HAVEN&#39;T HEARD OF</a><br/>Apr 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=b8vpwbKs_k8"><img width="140px" src="https://i.ytimg.com/vi/b8vpwbKs_k8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b8vpwbKs_k8">70 Unbelievable Aviation Moments Caught on Camera</a><br/>Apr 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=F3Cy8tLf2PA"><img width="140px" src="https://i.ytimg.com/vi/F3Cy8tLf2PA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F3Cy8tLf2PA">75 COOLEST AMAZON GADGETS YOU&#39;LL WANT TO BUY</a><br/>Apr 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Lj-ciflGe0o"><img width="140px" src="https://i.ytimg.com/vi/Lj-ciflGe0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lj-ciflGe0o">70 Moments Filmed Seconds Before Disaster</a><br/>Apr 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NYusUhZtO80"><img width="140px" src="https://i.ytimg.com/vi/NYusUhZtO80/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NYusUhZtO80">PROTECTIVE GEAR THAT WILL HELP ESCAPE AN ATTACK</a><br/>Apr 2, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=F4M_EhAjF-E"><img width="140px" src="https://i.ytimg.com/vi/F4M_EhAjF-E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=F4M_EhAjF-E">Drone&#39;s Camera Caught Something Incredible</a><br/>Apr 2, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
