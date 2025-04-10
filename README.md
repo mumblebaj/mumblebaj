@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cpngfb2kIaw"><img width="140px" src="https://i.ytimg.com/vi/cpngfb2kIaw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9CqmaBAZq2c"><img width="140px" src="https://i.ytimg.com/vi/9CqmaBAZq2c/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9CqmaBAZq2c">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Apr 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ltspa-nnpR4"><img width="140px" src="https://i.ytimg.com/vi/ltspa-nnpR4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ltspa-nnpR4">ROBOTS THAT HAVE SET WORLD RECORDS</a><br/>Apr 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cpngfb2kIaw"><img width="140px" src="https://i.ytimg.com/vi/cpngfb2kIaw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cpngfb2kIaw">30 AMAZING MINI HOUSES</a><br/>Apr 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pI0UWk-Rjls"><img width="140px" src="https://i.ytimg.com/vi/pI0UWk-Rjls/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pI0UWk-Rjls">When Animals Messed with the Wrong Opponent</a><br/>Apr 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=U7V50ZMRPqg"><img width="140px" src="https://i.ytimg.com/vi/U7V50ZMRPqg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=U7V50ZMRPqg">30 CAMPING INVENTIONS THAT ARE INSANELY COOL</a><br/>Apr 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qDTw0bKN11k"><img width="140px" src="https://i.ytimg.com/vi/qDTw0bKN11k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qDTw0bKN11k">INCREDIBLE INVENTIONS YOU HAVEN&#39;T HEARD OF</a><br/>Apr 5, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
