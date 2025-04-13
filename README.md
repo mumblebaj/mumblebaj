@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5MQBzrudL3I"><img width="140px" src="https://i.ytimg.com/vi/5MQBzrudL3I/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bmtsfLChMvE"><img width="140px" src="https://i.ytimg.com/vi/bmtsfLChMvE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bmtsfLChMvE">COOL GADGETS FOR MEN THAT GO TO THE NEXT LEVEL</a><br/>Apr 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zIm-nmUenTI"><img width="140px" src="https://i.ytimg.com/vi/zIm-nmUenTI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zIm-nmUenTI">45 Most Unbelievable Mudslides Caught on Camera</a><br/>Apr 12, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5MQBzrudL3I"><img width="140px" src="https://i.ytimg.com/vi/5MQBzrudL3I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5MQBzrudL3I">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Apr 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VfiHw-rM4JQ"><img width="140px" src="https://i.ytimg.com/vi/VfiHw-rM4JQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VfiHw-rM4JQ">Real Life Superheroes Caught on Camera</a><br/>Apr 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9CqmaBAZq2c"><img width="140px" src="https://i.ytimg.com/vi/9CqmaBAZq2c/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9CqmaBAZq2c">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Apr 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ltspa-nnpR4"><img width="140px" src="https://i.ytimg.com/vi/ltspa-nnpR4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ltspa-nnpR4">TECHNOLOGY EVOLUTION, THE MOST ADVANCED ROBOTS OF TODAY</a><br/>Apr 9, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
