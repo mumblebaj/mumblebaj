@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ncvOP3_1UtA"><img width="140px" src="https://i.ytimg.com/vi/ncvOP3_1UtA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4e0GIREqNwU"><img width="140px" src="https://i.ytimg.com/vi/4e0GIREqNwU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4e0GIREqNwU">MOST COMFORTABLE TRUCKS YOU HAVEN&#39;T SEEN BEFORE</a><br/>Apr 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_ytEpDqWAjc"><img width="140px" src="https://i.ytimg.com/vi/_ytEpDqWAjc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_ytEpDqWAjc">Worst Traffic Accidents Caught on Camera</a><br/>Apr 16, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ncvOP3_1UtA"><img width="140px" src="https://i.ytimg.com/vi/ncvOP3_1UtA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ncvOP3_1UtA">30 AIR INVENTIONS YOU MUST SEE</a><br/>Apr 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WnkxcGXTE3Y"><img width="140px" src="https://i.ytimg.com/vi/WnkxcGXTE3Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WnkxcGXTE3Y">Unbelievable Building Collapses and Construction Mistakes Caught on Camera</a><br/>Apr 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dRCV0ACHl28"><img width="140px" src="https://i.ytimg.com/vi/dRCV0ACHl28/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dRCV0ACHl28">That Was Really Filmed On Camera</a><br/>Apr 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=AeR99g1_wx4"><img width="140px" src="https://i.ytimg.com/vi/AeR99g1_wx4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AeR99g1_wx4">75 COOL TOOLS THAT GO TO THE NEXT LEVEL</a><br/>Apr 13, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=WnkxcGXTE3Y">55 Biggest Construction Mistakes in the World</a><br/>Apr 15, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
