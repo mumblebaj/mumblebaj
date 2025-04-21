@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sCYY86KbQFI"><img width="140px" src="https://i.ytimg.com/vi/sCYY86KbQFI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hb5cJ6V9Tf0"><img width="140px" src="https://i.ytimg.com/vi/hb5cJ6V9Tf0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hb5cJ6V9Tf0">That Was Really Filmed on Camera</a><br/>Apr 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Wo_PtcITjgw"><img width="140px" src="https://i.ytimg.com/vi/Wo_PtcITjgw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Wo_PtcITjgw">30 COOL INVENTIONS FOR YOUR PICKUP TRUCK</a><br/>Apr 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sCYY86KbQFI"><img width="140px" src="https://i.ytimg.com/vi/sCYY86KbQFI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sCYY86KbQFI">AMAZING TECHNOLOGIES THAT CAN TELEPORT YOU 1000 MILES</a><br/>Apr 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VhKZZnG_Z-A"><img width="140px" src="https://i.ytimg.com/vi/VhKZZnG_Z-A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VhKZZnG_Z-A">60 Mountain Collapses And Mistakes Caught on Camera</a><br/>Apr 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1YhIeI4VxTQ"><img width="140px" src="https://i.ytimg.com/vi/1YhIeI4VxTQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1YhIeI4VxTQ">SCHOOL SAFETY INVENTIONS YOU NEED TO SEE</a><br/>Apr 17, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=VOab9t3iqrA"><img width="140px" src="https://i.ytimg.com/vi/VOab9t3iqrA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VOab9t3iqrA">100 Incredible Moments Caught on CCTV Camera</a><br/>Apr 17, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
