@@ -89,7 +89,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=Wo_PtcITjgw"><img width="140px" src="https://i.ytimg.com/vi/Wo_PtcITjgw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Wo_PtcITjgw">30 COOL INVENTIONS FOR YOUR PICKUP TRUCK</a><br/>Apr 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=sCYY86KbQFI"><img width="140px" src="https://i.ytimg.com/vi/sCYY86KbQFI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sCYY86KbQFI">AMAZING TECHNOLOGIES THAT CAN TELEPORT YOU 1000 MILES</a><br/>Apr 19, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=sCYY86KbQFI">REMOTE CONTROL TECHNOLOGIES THAT WILL ALLOW YOU TO BE 1000 MILES AWAY</a><br/>Apr 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VhKZZnG_Z-A"><img width="140px" src="https://i.ytimg.com/vi/VhKZZnG_Z-A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VhKZZnG_Z-A">60 Mountain Collapses And Mistakes Caught on Camera</a><br/>Apr 19, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
