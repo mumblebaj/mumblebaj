@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5GEKgqDvm24"><img width="140px" src="https://i.ytimg.com/vi/5GEKgqDvm24/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=rCV8N_Uqppk"><img width="140px" src="https://i.ytimg.com/vi/rCV8N_Uqppk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rCV8N_Uqppk">25 MINI TRACTORS YOU DIDN&#39;T KNOW EXIST</a><br/>Apr 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=mLfu9gvKFLk"><img width="140px" src="https://i.ytimg.com/vi/mLfu9gvKFLk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mLfu9gvKFLk">Ocean Predators You Don&#39;t Want to Mess With</a><br/>Apr 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5GEKgqDvm24"><img width="140px" src="https://i.ytimg.com/vi/5GEKgqDvm24/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5GEKgqDvm24">25 INCREDIBLE GADGETS FOR FISHING</a><br/>Apr 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oqt1VIQL1oU"><img width="140px" src="https://i.ytimg.com/vi/oqt1VIQL1oU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oqt1VIQL1oU">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Apr 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hb5cJ6V9Tf0"><img width="140px" src="https://i.ytimg.com/vi/hb5cJ6V9Tf0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hb5cJ6V9Tf0">That Was Really Filmed on Camera</a><br/>Apr 20, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Wo_PtcITjgw"><img width="140px" src="https://i.ytimg.com/vi/Wo_PtcITjgw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Wo_PtcITjgw">30 COOL INVENTIONS FOR YOUR PICKUP TRUCK</a><br/>Apr 20, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
