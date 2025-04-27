@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Wq3c16G-H5I"><img width="140px" src="https://i.ytimg.com/vi/Wq3c16G-H5I/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=kVZgIwu3CzU"><img width="140px" src="https://i.ytimg.com/vi/kVZgIwu3CzU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kVZgIwu3CzU">Helicopter Accidents and Mistakes Caught on Camera</a><br/>Apr 26, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=bXplE4Hw5Yw"><img width="140px" src="https://i.ytimg.com/vi/bXplE4Hw5Yw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bXplE4Hw5Yw">MAN BUILDS MINIATURE FERRARI 750 MONZA 1/43 SCALE MODEL CAR FROM START TO FINISH @bonbonscalemodel</a><br/>Apr 26, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Wq3c16G-H5I"><img width="140px" src="https://i.ytimg.com/vi/Wq3c16G-H5I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Wq3c16G-H5I">DEMOLITION PROCESSES THAT ARE INSANELY COOL</a><br/>Apr 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8TDJflIhw_o"><img width="140px" src="https://i.ytimg.com/vi/8TDJflIhw_o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8TDJflIhw_o">90 Luckiest People Ever Caught on Camera</a><br/>Apr 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rCV8N_Uqppk"><img width="140px" src="https://i.ytimg.com/vi/rCV8N_Uqppk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rCV8N_Uqppk">25 MINI TRACTORS YOU DIDN&#39;T KNOW EXIST</a><br/>Apr 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=mLfu9gvKFLk"><img width="140px" src="https://i.ytimg.com/vi/mLfu9gvKFLk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mLfu9gvKFLk">Ocean Predators You Don&#39;t Want to Mess With</a><br/>Apr 23, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
