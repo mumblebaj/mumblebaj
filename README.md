@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EC4d_BskSlc"><img width="140px" src="https://i.ytimg.com/vi/EC4d_BskSlc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YHu4gYG4ZGA"><img width="140px" src="https://i.ytimg.com/vi/YHu4gYG4ZGA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YHu4gYG4ZGA">60 COOLEST TOOLS YOU&#39;LL WANT TO BUY</a><br/>Apr 29, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gig_Q-1VYUs"><img width="140px" src="https://i.ytimg.com/vi/gig_Q-1VYUs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gig_Q-1VYUs">These Animals Are Being Freed for the First Time</a><br/>Apr 29, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EC4d_BskSlc"><img width="140px" src="https://i.ytimg.com/vi/EC4d_BskSlc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EC4d_BskSlc">60 TIPS AND TRICKS FOR YOUR RENOVATION THAT REALLY WORK</a><br/>Apr 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Mfk8hchc-WY"><img width="140px" src="https://i.ytimg.com/vi/Mfk8hchc-WY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mfk8hchc-WY">That Was Really Filmed On Camera</a><br/>Apr 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=kVZgIwu3CzU"><img width="140px" src="https://i.ytimg.com/vi/kVZgIwu3CzU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kVZgIwu3CzU">Helicopter Accidents and Mistakes Caught on Camera</a><br/>Apr 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bXplE4Hw5Yw"><img width="140px" src="https://i.ytimg.com/vi/bXplE4Hw5Yw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bXplE4Hw5Yw">MAN BUILDS MINIATURE FERRARI 750 MONZA 1/43 SCALE MODEL CAR FROM START TO FINISH @bonbonscalemodel</a><br/>Apr 26, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
