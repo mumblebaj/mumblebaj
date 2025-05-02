@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2Iu2GZaNFOM"><img width="140px" src="https://i.ytimg.com/vi/2Iu2GZaNFOM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wKA4PVnTX7o"><img width="140px" src="https://i.ytimg.com/vi/wKA4PVnTX7o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wKA4PVnTX7o">25 CAMPING INVENTIONS THAT ARE INSANELY COOL</a><br/>May 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wnNsm2g8ieg"><img width="140px" src="https://i.ytimg.com/vi/wnNsm2g8ieg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wnNsm2g8ieg">Incredible Reflexes Caught on Camera</a><br/>May 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2Iu2GZaNFOM"><img width="140px" src="https://i.ytimg.com/vi/2Iu2GZaNFOM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2Iu2GZaNFOM">AMAZING ROBOTIC ANIMALS YOU MUST SEE!</a><br/>Apr 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_25voDR_SRk"><img width="140px" src="https://i.ytimg.com/vi/_25voDR_SRk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_25voDR_SRk">65 Incredible Safari Moments Caught on Camera</a><br/>Apr 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YHu4gYG4ZGA"><img width="140px" src="https://i.ytimg.com/vi/YHu4gYG4ZGA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YHu4gYG4ZGA">60 COOLEST TOOLS YOU&#39;LL WANT TO BUY</a><br/>Apr 29, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gig_Q-1VYUs"><img width="140px" src="https://i.ytimg.com/vi/gig_Q-1VYUs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gig_Q-1VYUs">These Animals Are Being Freed for the First Time</a><br/>Apr 29, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
