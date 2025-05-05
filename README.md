@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vom5cX5CpCk"><img width="140px" src="https://i.ytimg.com/vi/vom5cX5CpCk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IKO8TqvGggU"><img width="140px" src="https://i.ytimg.com/vi/IKO8TqvGggU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IKO8TqvGggU">25 AMAZING MODULAR INVENTIONS</a><br/>May 4, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=R3Hel4OUNDc"><img width="140px" src="https://i.ytimg.com/vi/R3Hel4OUNDc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=R3Hel4OUNDc">That Was Really Filmed On Camera</a><br/>May 4, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vom5cX5CpCk"><img width="140px" src="https://i.ytimg.com/vi/vom5cX5CpCk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vom5cX5CpCk">COOL MINI GADGETS YOU&#39;LL WANT TO BUY</a><br/>May 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nETk4ekxJ88"><img width="140px" src="https://i.ytimg.com/vi/nETk4ekxJ88/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nETk4ekxJ88">One in a Billion Moments in Nature</a><br/>May 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wKA4PVnTX7o"><img width="140px" src="https://i.ytimg.com/vi/wKA4PVnTX7o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wKA4PVnTX7o">25 CAMPING INVENTIONS THAT ARE INSANELY COOL</a><br/>May 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wnNsm2g8ieg"><img width="140px" src="https://i.ytimg.com/vi/wnNsm2g8ieg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wnNsm2g8ieg">Incredible Reflexes Caught on Camera</a><br/>May 1, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
