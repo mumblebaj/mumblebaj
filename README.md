@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IKO8TqvGggU"><img width="140px" src="https://i.ytimg.com/vi/IKO8TqvGggU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AkvJP04O1Bw"><img width="140px" src="https://i.ytimg.com/vi/AkvJP04O1Bw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AkvJP04O1Bw">25 BRILLIANT INVENTIONS FOR YOUR GARDEN THAT GO TO THE NEXT LEVEL</a><br/>May 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4BNEjcYujxo"><img width="140px" src="https://i.ytimg.com/vi/4BNEjcYujxo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4BNEjcYujxo">Incredible Recycling Machines That Destroy Everything</a><br/>May 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IKO8TqvGggU"><img width="140px" src="https://i.ytimg.com/vi/IKO8TqvGggU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IKO8TqvGggU">25 AMAZING MODULAR INVENTIONS</a><br/>May 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=R3Hel4OUNDc"><img width="140px" src="https://i.ytimg.com/vi/R3Hel4OUNDc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R3Hel4OUNDc">Incredible Moments Caught On Camera</a><br/>May 4, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vom5cX5CpCk"><img width="140px" src="https://i.ytimg.com/vi/vom5cX5CpCk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vom5cX5CpCk">COOL MINI GADGETS YOU&#39;LL WANT TO BUY</a><br/>May 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nETk4ekxJ88"><img width="140px" src="https://i.ytimg.com/vi/nETk4ekxJ88/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nETk4ekxJ88">One in a Billion Moments in Nature</a><br/>May 3, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
