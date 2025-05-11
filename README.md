@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NnLHPg-FvYk"><img width="140px" src="https://i.ytimg.com/vi/NnLHPg-FvYk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Rw9cw5OGvZ4"><img width="140px" src="https://i.ytimg.com/vi/Rw9cw5OGvZ4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Rw9cw5OGvZ4">OFF-ROAD TRUCKS AND INCREDIBLY SKILLED DRIVERS</a><br/>May 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UfOBciS_fJk"><img width="140px" src="https://i.ytimg.com/vi/UfOBciS_fJk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UfOBciS_fJk">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>May 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NnLHPg-FvYk"><img width="140px" src="https://i.ytimg.com/vi/NnLHPg-FvYk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NnLHPg-FvYk">ROAD TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>May 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ebeKzT68BcU"><img width="140px" src="https://i.ytimg.com/vi/ebeKzT68BcU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ebeKzT68BcU">Brave Dogs Vs Wild Animals</a><br/>May 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JEpVI_w5s4k"><img width="140px" src="https://i.ytimg.com/vi/JEpVI_w5s4k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JEpVI_w5s4k">COOL SURVIVAL GADGETS YOU SHOULD KNOW ABOUT</a><br/>May 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=oR8CLXYW92U"><img width="140px" src="https://i.ytimg.com/vi/oR8CLXYW92U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oR8CLXYW92U">Incredible Construction Techniques and Hacks That Actually Work</a><br/>May 7, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
