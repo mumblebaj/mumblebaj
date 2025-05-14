@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mc75FQEGERA"><img width="140px" src="https://i.ytimg.com/vi/Mc75FQEGERA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6xTi5DseLco"><img width="140px" src="https://i.ytimg.com/vi/6xTi5DseLco/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6xTi5DseLco">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>May 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4atYlCRcOf0"><img width="140px" src="https://i.ytimg.com/vi/4atYlCRcOf0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4atYlCRcOf0">CRAZY CONCEPTS THAT AMAZE THE IMAGINATION</a><br/>May 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mc75FQEGERA"><img width="140px" src="https://i.ytimg.com/vi/Mc75FQEGERA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mc75FQEGERA">NEW VOLONAUT AIRBIKE, INVENTIONS THAT CHANGE THE WORLD</a><br/>May 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=DIUfpdXDZfE"><img width="140px" src="https://i.ytimg.com/vi/DIUfpdXDZfE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DIUfpdXDZfE">That Was Really Filmed On Camera</a><br/>May 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Rw9cw5OGvZ4"><img width="140px" src="https://i.ytimg.com/vi/Rw9cw5OGvZ4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Rw9cw5OGvZ4">OFF-ROAD TRUCKS AND INCREDIBLY SKILLED DRIVERS</a><br/>May 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UfOBciS_fJk"><img width="140px" src="https://i.ytimg.com/vi/UfOBciS_fJk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UfOBciS_fJk">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>May 10, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
