@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tuFeTiFtnNs"><img width="140px" src="https://i.ytimg.com/vi/tuFeTiFtnNs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=drxSEdg9kYU"><img width="140px" src="https://i.ytimg.com/vi/drxSEdg9kYU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=drxSEdg9kYU">SMALLEST HOMEMADE PLANES IN THE WORLD</a><br/>May 18, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3GYSv2ibdPc"><img width="140px" src="https://i.ytimg.com/vi/3GYSv2ibdPc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3GYSv2ibdPc">That Was Really Filmed on Camera</a><br/>May 18, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tuFeTiFtnNs"><img width="140px" src="https://i.ytimg.com/vi/tuFeTiFtnNs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tuFeTiFtnNs">25 CAR INVENTIONS THAT GO TO THE NEXT LEVEL</a><br/>May 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JaOFjrBShJU"><img width="140px" src="https://i.ytimg.com/vi/JaOFjrBShJU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JaOFjrBShJU">Incredible Animal Escapes Caught on Camera</a><br/>May 17, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Wp8OrtM3vUA"><img width="140px" src="https://i.ytimg.com/vi/Wp8OrtM3vUA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Wp8OrtM3vUA">Unbelievable Train Moments Caught on Camera</a><br/>May 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3FpJF2e4NMc"><img width="140px" src="https://i.ytimg.com/vi/3FpJF2e4NMc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3FpJF2e4NMc">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>May 15, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
