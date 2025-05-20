@@ -85,7 +85,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=drxSEdg9kYU"><img width="140px" src="https://i.ytimg.com/vi/drxSEdg9kYU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=drxSEdg9kYU">SMALLEST HOMEMADE PLANES IN THE WORLD</a><br/>May 18, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=drxSEdg9kYU">25 SMALLEST PLANES IN THE WORLD</a><br/>May 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3GYSv2ibdPc"><img width="140px" src="https://i.ytimg.com/vi/3GYSv2ibdPc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3GYSv2ibdPc">That Was Really Filmed on Camera</a><br/>May 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tuFeTiFtnNs"><img width="140px" src="https://i.ytimg.com/vi/tuFeTiFtnNs/mqdefault.jpg"></a></td>
