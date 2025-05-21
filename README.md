@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=drxSEdg9kYU"><img width="140px" src="https://i.ytimg.com/vi/drxSEdg9kYU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0ZpQsf5y6bU"><img width="140px" src="https://i.ytimg.com/vi/0ZpQsf5y6bU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0ZpQsf5y6bU">60 COOL TOOLS THAT GO TO THE NEXT LEVEL</a><br/>May 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3EXVSzN0A_Y"><img width="140px" src="https://i.ytimg.com/vi/3EXVSzN0A_Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3EXVSzN0A_Y">60 Hero Animals That Saved Human Lives</a><br/>May 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=drxSEdg9kYU"><img width="140px" src="https://i.ytimg.com/vi/drxSEdg9kYU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=drxSEdg9kYU">25 SMALLEST PLANES IN THE WORLD</a><br/>May 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3GYSv2ibdPc"><img width="140px" src="https://i.ytimg.com/vi/3GYSv2ibdPc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3GYSv2ibdPc">That Was Really Filmed on Camera</a><br/>May 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tuFeTiFtnNs"><img width="140px" src="https://i.ytimg.com/vi/tuFeTiFtnNs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tuFeTiFtnNs">25 CAR INVENTIONS THAT GO TO THE NEXT LEVEL</a><br/>May 17, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JaOFjrBShJU"><img width="140px" src="https://i.ytimg.com/vi/JaOFjrBShJU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JaOFjrBShJU">Incredible Animal Escapes Caught on Camera</a><br/>May 17, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
