@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=snau9-KeoCI"><img width="140px" src="https://i.ytimg.com/vi/snau9-KeoCI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=w5NPs1sR7DQ"><img width="140px" src="https://i.ytimg.com/vi/w5NPs1sR7DQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=w5NPs1sR7DQ">70 COOLEST AMAZON GADGETS YOU&#39;LL WANT TO BUY</a><br/>May 24, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PMehyNh3yH4"><img width="140px" src="https://i.ytimg.com/vi/PMehyNh3yH4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PMehyNh3yH4">Most Expensive Fails Ever Caught On Camera</a><br/>May 24, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=snau9-KeoCI"><img width="140px" src="https://i.ytimg.com/vi/snau9-KeoCI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=snau9-KeoCI">BEACH INVENTIONS YOU MUST SEE</a><br/>May 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Xj9EWMW-3qg"><img width="140px" src="https://i.ytimg.com/vi/Xj9EWMW-3qg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Xj9EWMW-3qg">When Homes Went From Shelter to Disaster in Seconds</a><br/>May 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1J1wqp2i5P0"><img width="140px" src="https://i.ytimg.com/vi/1J1wqp2i5P0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1J1wqp2i5P0">AMAZING ATV INVENTIONS YOU PROBABLY DIDN&#39;T KNOW ABOUT</a><br/>May 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QKxw21LW1dc"><img width="140px" src="https://i.ytimg.com/vi/QKxw21LW1dc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QKxw21LW1dc">100 Unbelievable Aviation Moments Caught on Camera</a><br/>May 21, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
