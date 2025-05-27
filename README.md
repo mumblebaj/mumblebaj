@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_N9DU-fAo-8"><img width="140px" src="https://i.ytimg.com/vi/_N9DU-fAo-8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_N9DU-fAo-8">25 INVENTIONS AGAINST ANNOYING NEIGHBORS</a><br/>May 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dRGlFVM3rXg"><img width="140px" src="https://i.ytimg.com/vi/dRGlFVM3rXg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dRGlFVM3rXg">Incredible Moments Caught on Camera</a><br/>May 25, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=dRGlFVM3rXg">Things Human Were Not Meant To See!</a><br/>May 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=w5NPs1sR7DQ"><img width="140px" src="https://i.ytimg.com/vi/w5NPs1sR7DQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w5NPs1sR7DQ">70 COOLEST AMAZON GADGETS YOU&#39;LL WANT TO BUY</a><br/>May 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PMehyNh3yH4"><img width="140px" src="https://i.ytimg.com/vi/PMehyNh3yH4/mqdefault.jpg"></a></td>
