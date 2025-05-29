@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iXhQL0lNpAY"><img width="140px" src="https://i.ytimg.com/vi/iXhQL0lNpAY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JRg3HTvsgBY"><img width="140px" src="https://i.ytimg.com/vi/JRg3HTvsgBY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JRg3HTvsgBY">FLYING CARS ARE REAL AND THEY&#39;RE COMING SOON</a><br/>May 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JH0MHUTVhWI"><img width="140px" src="https://i.ytimg.com/vi/JH0MHUTVhWI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JH0MHUTVhWI">60 Unbelievable Bear Encounters Caught on Camera</a><br/>May 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iXhQL0lNpAY"><img width="140px" src="https://i.ytimg.com/vi/iXhQL0lNpAY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iXhQL0lNpAY">BUSINESS MACHINES YOU CAN BUY FROM AMAZON TO MAKE MONEY IN YOUR GARAGE</a><br/>May 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=75DlpaIHpEY"><img width="140px" src="https://i.ytimg.com/vi/75DlpaIHpEY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=75DlpaIHpEY">These Drivers Don&#39;t Deserve a License</a><br/>May 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_N9DU-fAo-8"><img width="140px" src="https://i.ytimg.com/vi/_N9DU-fAo-8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_N9DU-fAo-8">25 INVENTIONS AGAINST ANNOYING NEIGHBORS</a><br/>May 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dRGlFVM3rXg"><img width="140px" src="https://i.ytimg.com/vi/dRGlFVM3rXg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dRGlFVM3rXg">That Was Really Filmed On Camera</a><br/>May 25, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=75DlpaIHpEY">People Driving Like It’s Their First Time</a><br/>May 27, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
