@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N2V5PjB_L3M"><img width="140px" src="https://i.ytimg.com/vi/N2V5PjB_L3M/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_-rdkKtoNp8"><img width="140px" src="https://i.ytimg.com/vi/_-rdkKtoNp8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_-rdkKtoNp8">40 CAMPING INVENTIONS THAT ARE INSANELY COOL</a><br/>May 31, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Eu-LwRIRQXQ"><img width="140px" src="https://i.ytimg.com/vi/Eu-LwRIRQXQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Eu-LwRIRQXQ">One in a Billion Moments in Nature</a><br/>May 31, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=N2V5PjB_L3M"><img width="140px" src="https://i.ytimg.com/vi/N2V5PjB_L3M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=N2V5PjB_L3M">INCREDIBLE INVENTIONS FOR THE ROOF OF YOUR HOUSE</a><br/>May 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=f-azyx11me4"><img width="140px" src="https://i.ytimg.com/vi/f-azyx11me4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=f-azyx11me4">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>May 29, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JRg3HTvsgBY"><img width="140px" src="https://i.ytimg.com/vi/JRg3HTvsgBY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JRg3HTvsgBY">FLYING CARS ARE REAL AND THEY&#39;RE COMING SOON</a><br/>May 28, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=JH0MHUTVhWI"><img width="140px" src="https://i.ytimg.com/vi/JH0MHUTVhWI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JH0MHUTVhWI">60 Unbelievable Bear Encounters Caught on Camera</a><br/>May 28, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
