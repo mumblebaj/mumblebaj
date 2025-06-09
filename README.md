@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KU9aTgocsZA"><img width="140px" src="https://i.ytimg.com/vi/KU9aTgocsZA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Idbk4WyPOsI"><img width="140px" src="https://i.ytimg.com/vi/Idbk4WyPOsI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Idbk4WyPOsI">40 TIME-SAVING INVENTIONS THAT EVERYONE NEEDS</a><br/>Jun 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=t_biSBWiBm0"><img width="140px" src="https://i.ytimg.com/vi/t_biSBWiBm0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t_biSBWiBm0">That Was Really Filmed On Camera</a><br/>Jun 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KU9aTgocsZA"><img width="140px" src="https://i.ytimg.com/vi/KU9aTgocsZA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KU9aTgocsZA">Most Powerful Storm Moments Ever Caught on Camera</a><br/>Jun 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5w23lLTEXPU"><img width="140px" src="https://i.ytimg.com/vi/5w23lLTEXPU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5w23lLTEXPU">AIR MAGIC: 45 FANTASTIC INVENTIONS THAT ACTUALLY WORK TO PERFECTION!</a><br/>Jun 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jg06LDROxCo"><img width="140px" src="https://i.ytimg.com/vi/jg06LDROxCo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jg06LDROxCo">When Emergency Services Faced the Unexpected Moments</a><br/>Jun 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=c93GhMP2gLQ"><img width="140px" src="https://i.ytimg.com/vi/c93GhMP2gLQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c93GhMP2gLQ">CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jun 5, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
