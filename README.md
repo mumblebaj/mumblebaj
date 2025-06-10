@@ -91,5 +91,5 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=KU9aTgocsZA"><img width="140px" src="https://i.ytimg.com/vi/KU9aTgocsZA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KU9aTgocsZA">Most Powerful Storm Moments Ever Caught on Camera</a><br/>Jun 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5w23lLTEXPU"><img width="140px" src="https://i.ytimg.com/vi/5w23lLTEXPU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5w23lLTEXPU">AIR MAGIC: 45 FANTASTIC INVENTIONS THAT ACTUALLY WORK TO PERFECTION!</a><br/>Jun 7, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=5w23lLTEXPU">YOU WON’T BELIEVE THESE 30 AIR INVENTIONS EXIST! 😱🔧</a><br/>Jun 7, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
