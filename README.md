@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5rtp2894p4E"><img width="140px" src="https://i.ytimg.com/vi/5rtp2894p4E/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2DkCZJJBi8g"><img width="140px" src="https://i.ytimg.com/vi/2DkCZJJBi8g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2DkCZJJBi8g">25 AMAZING FARMS YOU HAVEN&#39;T SEEN BEFORE</a><br/>Jun 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=c9oqGED2m84"><img width="140px" src="https://i.ytimg.com/vi/c9oqGED2m84/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c9oqGED2m84">This Is Why a Door Won’t Protect Your Home! Caught on Ring Doorbell</a><br/>Jun 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5rtp2894p4E"><img width="140px" src="https://i.ytimg.com/vi/5rtp2894p4E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5rtp2894p4E">MINI TOOLS THAT EVERYONE SHOULD HAVE</a><br/>Jun 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kSRYwOTZs8k"><img width="140px" src="https://i.ytimg.com/vi/kSRYwOTZs8k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kSRYwOTZs8k">Best Human Moments Caught on Camera</a><br/>Jun 10, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Idbk4WyPOsI"><img width="140px" src="https://i.ytimg.com/vi/Idbk4WyPOsI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Idbk4WyPOsI">40 TIME-SAVING INVENTIONS THAT EVERYONE NEEDS</a><br/>Jun 8, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=t_biSBWiBm0"><img width="140px" src="https://i.ytimg.com/vi/t_biSBWiBm0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t_biSBWiBm0">That Was Really Filmed On Camera</a><br/>Jun 8, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
