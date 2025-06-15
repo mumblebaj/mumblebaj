@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=COr5cEYuyV0"><img width="140px" src="https://i.ytimg.com/vi/COr5cEYuyV0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3FH9RD4YkT4"><img width="140px" src="https://i.ytimg.com/vi/3FH9RD4YkT4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3FH9RD4YkT4">TOTAL IDIOTS AT WORK CAUGHT ON CAMERA</a><br/>Jun 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jN-UP-KU2sw"><img width="140px" src="https://i.ytimg.com/vi/jN-UP-KU2sw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jN-UP-KU2sw">When Animals Messed with the Wrong Opponent</a><br/>Jun 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=COr5cEYuyV0"><img width="140px" src="https://i.ytimg.com/vi/COr5cEYuyV0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=COr5cEYuyV0">COOL MINI GADGETS YOU&#39;LL WANT TO BUY</a><br/>Jun 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ktbBEuJjD_g"><img width="140px" src="https://i.ytimg.com/vi/ktbBEuJjD_g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ktbBEuJjD_g">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jun 12, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2DkCZJJBi8g"><img width="140px" src="https://i.ytimg.com/vi/2DkCZJJBi8g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2DkCZJJBi8g">25 AMAZING FARMS YOU HAVEN&#39;T SEEN BEFORE</a><br/>Jun 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=c9oqGED2m84"><img width="140px" src="https://i.ytimg.com/vi/c9oqGED2m84/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c9oqGED2m84">This Is Why You Should Lock Your Door! Caught on Ring Doorbell</a><br/>Jun 11, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
