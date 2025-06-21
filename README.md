@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lkQUWzkzon4"><img width="140px" src="https://i.ytimg.com/vi/lkQUWzkzon4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lkQUWzkzon4">INCREDIBLE BICYCLE INVENTIONS THAT YOU HAVEN&#39;T SEEN YET</a><br/>Jun 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hxwsbZUBSOo"><img width="140px" src="https://i.ytimg.com/vi/hxwsbZUBSOo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hxwsbZUBSOo">Expensive Supercar Fails Caught on Camera</a><br/>Jun 19, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=hxwsbZUBSOo">Supercar Worth Millions of Dollars Caught On Fire in Seconds</a><br/>Jun 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=v5ykraVwqK4"><img width="140px" src="https://i.ytimg.com/vi/v5ykraVwqK4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v5ykraVwqK4">Unbelievable Traffic Chaos Caused by Nature</a><br/>Jun 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EuHg3qdiGsk"><img width="140px" src="https://i.ytimg.com/vi/EuHg3qdiGsk/mqdefault.jpg"></a></td>
