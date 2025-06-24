@@ -89,7 +89,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=jIH-wboul3w"><img width="140px" src="https://i.ytimg.com/vi/jIH-wboul3w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jIH-wboul3w">INCREDIBLE INVENTIONS THAT CAN SAVE YOUR LIFE</a><br/>Jun 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mFDLTopIiI0"><img width="140px" src="https://i.ytimg.com/vi/mFDLTopIiI0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mFDLTopIiI0">COOL GADGETS FOR MEN THAT GO TO THE NEXT LEVEL</a><br/>Jun 21, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=mFDLTopIiI0">MEN ARE CRAZY ABOUT THESE THINGS</a><br/>Jun 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=84ccx0EpAvw"><img width="140px" src="https://i.ytimg.com/vi/84ccx0EpAvw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=84ccx0EpAvw">Most Incredible Flash Floods Caught on Camera</a><br/>Jun 21, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
