@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pPXxUkOTJPs"><img width="140px" src="https://i.ytimg.com/vi/pPXxUkOTJPs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=u0MBYIPABug"><img width="140px" src="https://i.ytimg.com/vi/u0MBYIPABug/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=u0MBYIPABug">45 UNDERWATER INVENTIONS THAT ARE INSANELY COOL</a><br/>Jun 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ofSj4T6s8Ig"><img width="140px" src="https://i.ytimg.com/vi/ofSj4T6s8Ig/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ofSj4T6s8Ig">She Didn’t Know the Elevator Was Recording Her Every Move</a><br/>Jun 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pPXxUkOTJPs"><img width="140px" src="https://i.ytimg.com/vi/pPXxUkOTJPs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pPXxUkOTJPs">40 COOLEST TOOLS YOU&#39;LL WANT TO BUY</a><br/>Jun 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zZzhbRugfHA"><img width="140px" src="https://i.ytimg.com/vi/zZzhbRugfHA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zZzhbRugfHA">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jun 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=c2CcBtEGCXY"><img width="140px" src="https://i.ytimg.com/vi/c2CcBtEGCXY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c2CcBtEGCXY">Incredible Moments Caught On Camera</a><br/>Jun 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jIH-wboul3w"><img width="140px" src="https://i.ytimg.com/vi/jIH-wboul3w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jIH-wboul3w">INCREDIBLE INVENTIONS THAT CAN SAVE YOUR LIFE</a><br/>Jun 22, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
