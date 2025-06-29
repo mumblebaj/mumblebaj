@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TmKRBuiS4h0"><img width="140px" src="https://i.ytimg.com/vi/TmKRBuiS4h0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uj-Q3fX8Opg"><img width="140px" src="https://i.ytimg.com/vi/uj-Q3fX8Opg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uj-Q3fX8Opg">EXPENSIVE CAR FAILS CAUGHT ON CAMERA</a><br/>Jun 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cXG_asCbN_I"><img width="140px" src="https://i.ytimg.com/vi/cXG_asCbN_I/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cXG_asCbN_I">95 Luckiest People Ever Caught on Camera</a><br/>Jun 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TmKRBuiS4h0"><img width="140px" src="https://i.ytimg.com/vi/TmKRBuiS4h0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TmKRBuiS4h0">110 TIPS AND TRICKS FOR YOUR RENOVATION THAT REALLY WORK</a><br/>Jun 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JUd5CncG6DA"><img width="140px" src="https://i.ytimg.com/vi/JUd5CncG6DA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JUd5CncG6DA">Fatal Factory Mistakes That Cost Millions</a><br/>Jun 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=u0MBYIPABug"><img width="140px" src="https://i.ytimg.com/vi/u0MBYIPABug/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=u0MBYIPABug">I TESTED WATER GADGETS! HERE’S WHAT HAPPENED!</a><br/>Jun 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ofSj4T6s8Ig"><img width="140px" src="https://i.ytimg.com/vi/ofSj4T6s8Ig/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ofSj4T6s8Ig">Elevator Camera Caught Her Doing This!</a><br/>Jun 25, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
