@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I6vhhEb5Xf8"><img width="140px" src="https://i.ytimg.com/vi/I6vhhEb5Xf8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LH2DzgIGYK4"><img width="140px" src="https://i.ytimg.com/vi/LH2DzgIGYK4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LH2DzgIGYK4">GENIUS TRUCK INVENTIONS THAT ARE ON ANOTHER LEVEL</a><br/>Jul 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PtUfX_O9azA"><img width="140px" src="https://i.ytimg.com/vi/PtUfX_O9azA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PtUfX_O9azA">CCTV Heroes: Ordinary People Caught Saving Lives</a><br/>Jul 3, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=I6vhhEb5Xf8"><img width="140px" src="https://i.ytimg.com/vi/I6vhhEb5Xf8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=I6vhhEb5Xf8">75 COOLEST AMAZON GADGETS YOU&#39;LL WANT TO BUY</a><br/>Jul 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=IIaZDsBvDsU"><img width="140px" src="https://i.ytimg.com/vi/IIaZDsBvDsU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IIaZDsBvDsU">Incredible Road Moments Caught on Camera</a><br/>Jul 2, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-4fT2ft5QZk"><img width="140px" src="https://i.ytimg.com/vi/-4fT2ft5QZk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-4fT2ft5QZk">Incredible Mini Houses You Haven&#39;t Seen Before</a><br/>Jul 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=N2tdpbDELh4"><img width="140px" src="https://i.ytimg.com/vi/N2tdpbDELh4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N2tdpbDELh4">45 GARDEN INVENTIONS EVERYONE SHOULD HAVE</a><br/>Jul 1, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
