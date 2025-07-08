@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MVz0TgNSpwY"><img width="140px" src="https://i.ytimg.com/vi/MVz0TgNSpwY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MVz0TgNSpwY">25 PRIVATE INVENTIONS THAT ARE INSANELY COOL</a><br/>Jul 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4aBJUuu-C-k"><img width="140px" src="https://i.ytimg.com/vi/4aBJUuu-C-k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4aBJUuu-C-k">Incredible Moments Caught On Camera</a><br/>Jul 6, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=4aBJUuu-C-k">That Was Really Filmed On Camera</a><br/>Jul 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eozWhUnhK_0"><img width="140px" src="https://i.ytimg.com/vi/eozWhUnhK_0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eozWhUnhK_0">30 CAMPING INVENTIONS THAT ARE INSANELY COOL</a><br/>Jul 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aQqEL489k7M"><img width="140px" src="https://i.ytimg.com/vi/aQqEL489k7M/mqdefault.jpg"></a></td>
