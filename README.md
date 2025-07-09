@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=MVz0TgNSpwY"><img width="140px" src="https://i.ytimg.com/vi/MVz0TgNSpwY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xdBtbwo7iF4"><img width="140px" src="https://i.ytimg.com/vi/xdBtbwo7iF4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xdBtbwo7iF4">50 COOL TOOLS THAT GO TO THE NEXT LEVEL</a><br/>Jul 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ekh5D44tyhc"><img width="140px" src="https://i.ytimg.com/vi/ekh5D44tyhc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ekh5D44tyhc">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jul 8, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=MVz0TgNSpwY"><img width="140px" src="https://i.ytimg.com/vi/MVz0TgNSpwY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MVz0TgNSpwY">25 PRIVATE INVENTIONS THAT ARE INSANELY COOL</a><br/>Jul 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4aBJUuu-C-k"><img width="140px" src="https://i.ytimg.com/vi/4aBJUuu-C-k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4aBJUuu-C-k">That Was Really Filmed On Camera</a><br/>Jul 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=eozWhUnhK_0"><img width="140px" src="https://i.ytimg.com/vi/eozWhUnhK_0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eozWhUnhK_0">30 CAMPING INVENTIONS THAT ARE INSANELY COOL</a><br/>Jul 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=aQqEL489k7M"><img width="140px" src="https://i.ytimg.com/vi/aQqEL489k7M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aQqEL489k7M">Caught in 4K: Lightning Going Full Rage Mode</a><br/>Jul 5, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
