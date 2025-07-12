@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GPx3QHZwbIU"><img width="140px" src="https://i.ytimg.com/vi/GPx3QHZwbIU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GPx3QHZwbIU">Craziest Animal Encounters of All Time</a><br/>Jul 10, 2025</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=A-3zNB3oEpI"><img width="140px" src="https://i.ytimg.com/vi/A-3zNB3oEpI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=A-3zNB3oEpI">One in a Billion Moments in Nature</a><br/>Jul 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GPx3QHZwbIU"><img width="140px" src="https://i.ytimg.com/vi/GPx3QHZwbIU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GPx3QHZwbIU">When Animals Went On A Rampage And Got Caught On Camera</a><br/>Jul 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=v3H6696AMig"><img width="140px" src="https://i.ytimg.com/vi/v3H6696AMig/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v3H6696AMig">WOOD CONSTRUCTION TECHNOLOGIES THAT HAVE REACHED A NEW LEVEL</a><br/>Jul 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=x6Kibqu6TYg"><img width="140px" src="https://i.ytimg.com/vi/x6Kibqu6TYg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=x6Kibqu6TYg">40 COOL INVENTIONS FOR YOUR PICKUP TRUCK</a><br/>Jul 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6-lSkq4wByY"><img width="140px" src="https://i.ytimg.com/vi/6-lSkq4wByY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6-lSkq4wByY">This Really Happened at a Gas Station</a><br/>Jul 9, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
