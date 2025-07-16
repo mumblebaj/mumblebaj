@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Lph4RIJs0i8"><img width="140px" src="https://i.ytimg.com/vi/Lph4RIJs0i8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=REeg4FyPi-0"><img width="140px" src="https://i.ytimg.com/vi/REeg4FyPi-0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=REeg4FyPi-0">AMAZING ROBOTIC ANIMALS YOU MUST SEE!</a><br/>Jul 15, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=v9wpynmFwz4"><img width="140px" src="https://i.ytimg.com/vi/v9wpynmFwz4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v9wpynmFwz4">They Had One Job and Still Messed Up 🤦‍♂️</a><br/>Jul 15, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Lph4RIJs0i8"><img width="140px" src="https://i.ytimg.com/vi/Lph4RIJs0i8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lph4RIJs0i8">GENIUS GARDEN HACKS THAT ACTUALLY WORK</a><br/>Jul 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zRpNwF8Wpc4"><img width="140px" src="https://i.ytimg.com/vi/zRpNwF8Wpc4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zRpNwF8Wpc4">That Was Really Filmed on Camera</a><br/>Jul 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=k6BNspxMRNw"><img width="140px" src="https://i.ytimg.com/vi/k6BNspxMRNw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=k6BNspxMRNw">AMAZING BIKES YOU SHOULD SEE</a><br/>Jul 12, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ZREn6fRvCow"><img width="140px" src="https://i.ytimg.com/vi/ZREn6fRvCow/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZREn6fRvCow">That Really Happened in People&#39;s Backyards</a><br/>Jul 12, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
