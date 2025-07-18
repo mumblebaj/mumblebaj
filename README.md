@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DULzw_Vo23s"><img width="140px" src="https://i.ytimg.com/vi/DULzw_Vo23s/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=X-ZLBW0MkhA"><img width="140px" src="https://i.ytimg.com/vi/X-ZLBW0MkhA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=X-ZLBW0MkhA">25 AMAZING SMART HOUSES</a><br/>Jul 17, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qlZNy6hepiE"><img width="140px" src="https://i.ytimg.com/vi/qlZNy6hepiE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qlZNy6hepiE">65 Unbelievable Aviation Moments Caught on Camera</a><br/>Jul 17, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DULzw_Vo23s"><img width="140px" src="https://i.ytimg.com/vi/DULzw_Vo23s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DULzw_Vo23s">ELECTRIC RACING SCOOTER THAT YOU&#39;LL WANT TO RIDE</a><br/>Jul 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WiB4TL2eCJU"><img width="140px" src="https://i.ytimg.com/vi/WiB4TL2eCJU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WiB4TL2eCJU">Smart Workers and Expert-Recommended Tricks</a><br/>Jul 16, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=REeg4FyPi-0"><img width="140px" src="https://i.ytimg.com/vi/REeg4FyPi-0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=REeg4FyPi-0">AMAZING ROBOTIC ANIMALS YOU MUST SEE!</a><br/>Jul 15, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=v9wpynmFwz4"><img width="140px" src="https://i.ytimg.com/vi/v9wpynmFwz4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v9wpynmFwz4">They Had One Job and Still Messed Up 🤦‍♂️</a><br/>Jul 15, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=WiB4TL2eCJU">So Smooth, So Smart — Just Perfect Work</a><br/>Jul 16, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
