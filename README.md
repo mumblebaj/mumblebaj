@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=A2g3mt9f0Gg"><img width="140px" src="https://i.ytimg.com/vi/A2g3mt9f0Gg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nnuUsXAxIw0"><img width="140px" src="https://i.ytimg.com/vi/nnuUsXAxIw0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nnuUsXAxIw0">BEST BAD PARKING REVENGES CAUGHT ON CAMERA!</a><br/>Jul 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZgyIblNVYTk"><img width="140px" src="https://i.ytimg.com/vi/ZgyIblNVYTk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZgyIblNVYTk">That Was Really Filmed on Camera</a><br/>Jul 20, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=A2g3mt9f0Gg"><img width="140px" src="https://i.ytimg.com/vi/A2g3mt9f0Gg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=A2g3mt9f0Gg">MINI TOOLS THAT EVERYONE SHOULD HAVE</a><br/>Jul 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3GgkkNKbDGA"><img width="140px" src="https://i.ytimg.com/vi/3GgkkNKbDGA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3GgkkNKbDGA">Bodycam Captures What NO ONE Was Ready For 👮🎥</a><br/>Jul 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nq-eVeLD29U"><img width="140px" src="https://i.ytimg.com/vi/nq-eVeLD29U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nq-eVeLD29U">When Animals Messed With the Wrong Opponent</a><br/>Jul 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=X-ZLBW0MkhA"><img width="140px" src="https://i.ytimg.com/vi/X-ZLBW0MkhA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X-ZLBW0MkhA">SMART HOME GADGETS THAT WILL UPGRADE YOUR APARTMENT</a><br/>Jul 17, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
