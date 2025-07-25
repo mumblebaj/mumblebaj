@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vTrhDHB6Rwc"><img width="140px" src="https://i.ytimg.com/vi/vTrhDHB6Rwc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vTrhDHB6Rwc">Most Incredible Military Moments Caught on Camera</a><br/>Jul 23, 2025</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Qsl83IDAiTs"><img width="140px" src="https://i.ytimg.com/vi/Qsl83IDAiTs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Qsl83IDAiTs">INNOVATIVE TOWBAR INVENTIONS FOR YOUR VEHICLES</a><br/>Jul 24, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vM3Y4SmW5uQ"><img width="140px" src="https://i.ytimg.com/vi/vM3Y4SmW5uQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vM3Y4SmW5uQ">When Road Ragers Messed With The Wrong Person</a><br/>Jul 24, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vTrhDHB6Rwc"><img width="140px" src="https://i.ytimg.com/vi/vTrhDHB6Rwc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vTrhDHB6Rwc">Military Moments in Action That Left Everyone Speechless</a><br/>Jul 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tnSV0BcvM3g"><img width="140px" src="https://i.ytimg.com/vi/tnSV0BcvM3g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tnSV0BcvM3g">INCREDIBLE BICYCLE INVENTIONS THAT YOU HAVEN&#39;T SEEN YET</a><br/>Jul 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GZCcwzkno5k"><img width="140px" src="https://i.ytimg.com/vi/GZCcwzkno5k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GZCcwzkno5k">ONE MAN&#39;S COMPLETE RESTORATION OF FERRARI 575 BY @TUSSIK01</a><br/>Jul 22, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=3CYTQty0b5o"><img width="140px" src="https://i.ytimg.com/vi/3CYTQty0b5o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3CYTQty0b5o">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jul 22, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
