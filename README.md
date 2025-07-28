@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3-astzKuIbU"><img width="140px" src="https://i.ytimg.com/vi/3-astzKuIbU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vQV-i3IxOLY"><img width="140px" src="https://i.ytimg.com/vi/vQV-i3IxOLY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vQV-i3IxOLY">25 BARRIERS THAT YOU WILL DEFINITELY FEEL SAFE WITH</a><br/>Jul 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GVP9LzkYGEY"><img width="140px" src="https://i.ytimg.com/vi/GVP9LzkYGEY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GVP9LzkYGEY">Incredible Moments Caught on Camera</a><br/>Jul 27, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3-astzKuIbU"><img width="140px" src="https://i.ytimg.com/vi/3-astzKuIbU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3-astzKuIbU">REAL JUMP TO THE FUTURE THAT&#39;S ALREADY HERE</a><br/>Jul 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VeEK_zO0iRI"><img width="140px" src="https://i.ytimg.com/vi/VeEK_zO0iRI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VeEK_zO0iRI">Nature’s Traps You Didn’t See Coming</a><br/>Jul 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Qsl83IDAiTs"><img width="140px" src="https://i.ytimg.com/vi/Qsl83IDAiTs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Qsl83IDAiTs">INNOVATIVE TOWBAR INVENTIONS FOR YOUR VEHICLES</a><br/>Jul 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vM3Y4SmW5uQ"><img width="140px" src="https://i.ytimg.com/vi/vM3Y4SmW5uQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vM3Y4SmW5uQ">When Road Ragers Messed With The Wrong Person</a><br/>Jul 24, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
