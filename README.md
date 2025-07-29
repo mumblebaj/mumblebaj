@@ -89,7 +89,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=GVP9LzkYGEY"><img width="140px" src="https://i.ytimg.com/vi/GVP9LzkYGEY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GVP9LzkYGEY">Incredible Moments Caught on Camera</a><br/>Jul 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3-astzKuIbU"><img width="140px" src="https://i.ytimg.com/vi/3-astzKuIbU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3-astzKuIbU">REAL JUMP TO THE FUTURE THAT&#39;S ALREADY HERE</a><br/>Jul 26, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=3-astzKuIbU">NEWEST INVENTIONS THAT WILL BLOW YOUR MIND</a><br/>Jul 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VeEK_zO0iRI"><img width="140px" src="https://i.ytimg.com/vi/VeEK_zO0iRI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VeEK_zO0iRI">Nature’s Traps You Didn’t See Coming</a><br/>Jul 26, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
