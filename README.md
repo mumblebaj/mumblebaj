@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pnv8GjmfBnE"><img width="140px" src="https://i.ytimg.com/vi/pnv8GjmfBnE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5nEFV_WDQ4o"><img width="140px" src="https://i.ytimg.com/vi/5nEFV_WDQ4o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5nEFV_WDQ4o">GADGETS THAT WILL HELP YOU ON A CAMPING TRIP</a><br/>Jul 30, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=khJ7rV3a4lk"><img width="140px" src="https://i.ytimg.com/vi/khJ7rV3a4lk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=khJ7rV3a4lk">Bikers Who Forgot the Brakes</a><br/>Jul 30, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pnv8GjmfBnE"><img width="140px" src="https://i.ytimg.com/vi/pnv8GjmfBnE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pnv8GjmfBnE">THESE POLICE CARS DON&#39;T GIVE YOU ANY CHANCE TO ESCAPE!</a><br/>Jul 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oPXLWjbXByE"><img width="140px" src="https://i.ytimg.com/vi/oPXLWjbXByE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oPXLWjbXByE">45 Hero People that Saved Animals&#39; Lives</a><br/>Jul 29, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vQV-i3IxOLY"><img width="140px" src="https://i.ytimg.com/vi/vQV-i3IxOLY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vQV-i3IxOLY">25 BARRIERS THAT YOU WILL DEFINITELY FEEL SAFE WITH</a><br/>Jul 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=GVP9LzkYGEY"><img width="140px" src="https://i.ytimg.com/vi/GVP9LzkYGEY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GVP9LzkYGEY">Incredible Moments Caught on Camera</a><br/>Jul 27, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
