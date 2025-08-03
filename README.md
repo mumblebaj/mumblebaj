@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Gx7iqa-2yVQ"><img width="140px" src="https://i.ytimg.com/vi/Gx7iqa-2yVQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=B1OnR9X2Pm4"><img width="140px" src="https://i.ytimg.com/vi/B1OnR9X2Pm4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B1OnR9X2Pm4">VIRAL GADGETS THAT YOU WILL WANT TO BUY IN 2025</a><br/>Aug 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lsAhXU0cznk"><img width="140px" src="https://i.ytimg.com/vi/lsAhXU0cznk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lsAhXU0cznk">When Animals Went on a Rampage and Got Caught on Camera</a><br/>Aug 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Gx7iqa-2yVQ"><img width="140px" src="https://i.ytimg.com/vi/Gx7iqa-2yVQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Gx7iqa-2yVQ">INVENTIONS THAT WILL KILL YOUR BOREDOM</a><br/>Jul 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hcL5QRCvguo"><img width="140px" src="https://i.ytimg.com/vi/hcL5QRCvguo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hcL5QRCvguo">Caught in Collapse: Landslides &amp; Avalanches in Action</a><br/>Jul 31, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5nEFV_WDQ4o"><img width="140px" src="https://i.ytimg.com/vi/5nEFV_WDQ4o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5nEFV_WDQ4o">GADGETS THAT WILL HELP YOU ON A CAMPING TRIP</a><br/>Jul 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=khJ7rV3a4lk"><img width="140px" src="https://i.ytimg.com/vi/khJ7rV3a4lk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=khJ7rV3a4lk">These Bikers Don&#39;t Deserve a License</a><br/>Jul 30, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
