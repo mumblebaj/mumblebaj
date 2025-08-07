@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=gSsJz0LBzHw"><img width="140px" src="https://i.ytimg.com/vi/gSsJz0LBzHw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_vJN83cUqW8"><img width="140px" src="https://i.ytimg.com/vi/_vJN83cUqW8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_vJN83cUqW8">Camping and Hiking Moments That Escalated Quickly</a><br/>Aug 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gSsJz0LBzHw"><img width="140px" src="https://i.ytimg.com/vi/gSsJz0LBzHw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gSsJz0LBzHw">HOME DEFENSE GADGETS ON AMAZON!</a><br/>Aug 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TH4dx7iHsqE"><img width="140px" src="https://i.ytimg.com/vi/TH4dx7iHsqE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TH4dx7iHsqE">Animals Reunited with Owners After Years</a><br/>Aug 5, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=TH4dx7iHsqE">Animals Finally Reunited with Their Owners After Years 😭❤️</a><br/>Aug 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lb1DDTbBJ1w"><img width="140px" src="https://i.ytimg.com/vi/lb1DDTbBJ1w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lb1DDTbBJ1w">GENIUS TRUCK INVENTIONS THAT ARE ON ANOTHER LEVEL</a><br/>Aug 3, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FhxNWEUmmpw"><img width="140px" src="https://i.ytimg.com/vi/FhxNWEUmmpw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FhxNWEUmmpw">Incredible Moments Caught on Camera</a><br/>Aug 3, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
