@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_vJN83cUqW8"><img width="140px" src="https://i.ytimg.com/vi/_vJN83cUqW8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RD8UtjnyTNM"><img width="140px" src="https://i.ytimg.com/vi/RD8UtjnyTNM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RD8UtjnyTNM">80 AMAZON KITCHEN GADGETS THAT ARE WORTH BUYING IN 2025</a><br/>Aug 7, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BZaKo2k0lE0"><img width="140px" src="https://i.ytimg.com/vi/BZaKo2k0lE0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=BZaKo2k0lE0">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Aug 7, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_vJN83cUqW8"><img width="140px" src="https://i.ytimg.com/vi/_vJN83cUqW8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_vJN83cUqW8">Camping and Hiking Moments That Escalated Quickly</a><br/>Aug 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=gSsJz0LBzHw"><img width="140px" src="https://i.ytimg.com/vi/gSsJz0LBzHw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gSsJz0LBzHw">HOME DEFENSE GADGETS ON AMAZON!</a><br/>Aug 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TH4dx7iHsqE"><img width="140px" src="https://i.ytimg.com/vi/TH4dx7iHsqE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TH4dx7iHsqE">Animals Finally Reunited with Their Owners After Years 😭❤️</a><br/>Aug 5, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lb1DDTbBJ1w"><img width="140px" src="https://i.ytimg.com/vi/lb1DDTbBJ1w/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lb1DDTbBJ1w">GENIUS TRUCK INVENTIONS THAT ARE ON ANOTHER LEVEL</a><br/>Aug 3, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
