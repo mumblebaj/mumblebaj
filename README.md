@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3Vx2z-U1MkQ"><img width="140px" src="https://i.ytimg.com/vi/3Vx2z-U1MkQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hGsn3aeZt_8"><img width="140px" src="https://i.ytimg.com/vi/hGsn3aeZt_8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hGsn3aeZt_8">NUCLEAR DISASTERS THAT ARE SILENCED</a><br/>Aug 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XfTCsfyPEQs"><img width="140px" src="https://i.ytimg.com/vi/XfTCsfyPEQs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XfTCsfyPEQs">60 Monster Waves Caught on Camera</a><br/>Aug 14, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3Vx2z-U1MkQ"><img width="140px" src="https://i.ytimg.com/vi/3Vx2z-U1MkQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3Vx2z-U1MkQ">30 SURVIVAL GADGETS EVERY MAN SHOULD HAVE</a><br/>Aug 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aKQmn9Idvc8"><img width="140px" src="https://i.ytimg.com/vi/aKQmn9Idvc8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aKQmn9Idvc8">Out of Control Machines Caught on Camera</a><br/>Aug 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YMkA2wK5lDc"><img width="140px" src="https://i.ytimg.com/vi/YMkA2wK5lDc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YMkA2wK5lDc">Underground Discoveries ⚡️ ACTUALLY Still There After ALL These Years [30 MIN INCREDIBLE]</a><br/>Aug 12, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YGgRDw3GkvI"><img width="140px" src="https://i.ytimg.com/vi/YGgRDw3GkvI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YGgRDw3GkvI">75 INSANE AMAZON UPGRADES THAT INSTANTLY TRANSFORM SMALL ROOMS!</a><br/>Aug 12, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
