@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vzQbHrMZL_A"><img width="140px" src="https://i.ytimg.com/vi/vzQbHrMZL_A/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dkfwhVEhfGA"><img width="140px" src="https://i.ytimg.com/vi/dkfwhVEhfGA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dkfwhVEhfGA">SAVE 65% DISCOUNT - 20 BEST GADGETS FOR MEN THAT ARE WORTH BUYING IN 2025</a><br/>Aug 17, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=K3rxIsJibzc"><img width="140px" src="https://i.ytimg.com/vi/K3rxIsJibzc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=K3rxIsJibzc">Incredible Moments Caught on Camera</a><br/>Aug 17, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vzQbHrMZL_A"><img width="140px" src="https://i.ytimg.com/vi/vzQbHrMZL_A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vzQbHrMZL_A">45 GENIUS CAR GADGETS ON AMAZON THAT WILL MAKE YOUR LIFE EASIER</a><br/>Aug 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wdrFBj2Q_1s"><img width="140px" src="https://i.ytimg.com/vi/wdrFBj2Q_1s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wdrFBj2Q_1s">Wild Animals Invading People&#39;s Homes</a><br/>Aug 16, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=hGsn3aeZt_8"><img width="140px" src="https://i.ytimg.com/vi/hGsn3aeZt_8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=hGsn3aeZt_8">NUCLEAR DISASTERS THAT ARE SILENCED</a><br/>Aug 14, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XfTCsfyPEQs"><img width="140px" src="https://i.ytimg.com/vi/XfTCsfyPEQs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XfTCsfyPEQs">60 Monster Waves Caught on Camera</a><br/>Aug 14, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
