@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qlvB5iklqgU"><img width="140px" src="https://i.ytimg.com/vi/qlvB5iklqgU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qlvB5iklqgU">HOME DEFENSE GADGETS THAT WILL BE USEFUL FOR EVERYONE</a><br/>Aug 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qKXS4iEKQc4"><img width="140px" src="https://i.ytimg.com/vi/qKXS4iEKQc4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qKXS4iEKQc4">Beast Mode On! Animal Territorial Imperative</a><br/>Aug 21, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=qKXS4iEKQc4">You Won&#39;t Believe How These Animals Protect Their Homes!</a><br/>Aug 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RygWSxn7Dfk"><img width="140px" src="https://i.ytimg.com/vi/RygWSxn7Dfk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RygWSxn7Dfk">BEST TACTICAL WATCHES FOR MEN</a><br/>Aug 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KbKK5k0Ddts"><img width="140px" src="https://i.ytimg.com/vi/KbKK5k0Ddts/mqdefault.jpg"></a></td>
