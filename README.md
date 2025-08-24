@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qlvB5iklqgU"><img width="140px" src="https://i.ytimg.com/vi/qlvB5iklqgU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nPqb7lVuTLk"><img width="140px" src="https://i.ytimg.com/vi/nPqb7lVuTLk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nPqb7lVuTLk">INVENTIONS TO COMBAT COLLAPSES</a><br/>Aug 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HCMzU9ZvvuY"><img width="140px" src="https://i.ytimg.com/vi/HCMzU9ZvvuY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HCMzU9ZvvuY">One in a Billion Moments in Nature</a><br/>Aug 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qlvB5iklqgU"><img width="140px" src="https://i.ytimg.com/vi/qlvB5iklqgU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qlvB5iklqgU">HOME DEFENSE GADGETS THAT WILL BE USEFUL FOR EVERYONE</a><br/>Aug 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qKXS4iEKQc4"><img width="140px" src="https://i.ytimg.com/vi/qKXS4iEKQc4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qKXS4iEKQc4">You Won&#39;t Believe How These Animals Protect Their Homes!</a><br/>Aug 21, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=RygWSxn7Dfk"><img width="140px" src="https://i.ytimg.com/vi/RygWSxn7Dfk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RygWSxn7Dfk">BEST TACTICAL WATCHES FOR MEN</a><br/>Aug 20, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KbKK5k0Ddts"><img width="140px" src="https://i.ytimg.com/vi/KbKK5k0Ddts/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KbKK5k0Ddts">Caught in Collapse: Cars &amp; Nature in Action</a><br/>Aug 20, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
