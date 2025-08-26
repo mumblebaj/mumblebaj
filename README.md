@@ -89,7 +89,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=cnHTe8VcMfA"><img width="140px" src="https://i.ytimg.com/vi/cnHTe8VcMfA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cnHTe8VcMfA">Incredible Moments Caught on Camera</a><br/>Aug 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nPqb7lVuTLk"><img width="140px" src="https://i.ytimg.com/vi/nPqb7lVuTLk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nPqb7lVuTLk">INVENTIONS TO COMBAT COLLAPSES</a><br/>Aug 23, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=nPqb7lVuTLk">INCREDIBLE INVENTIONS THAT CAN SAVE YOUR LIFE</a><br/>Aug 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=HCMzU9ZvvuY"><img width="140px" src="https://i.ytimg.com/vi/HCMzU9ZvvuY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HCMzU9ZvvuY">One in a Billion Moments in Nature</a><br/>Aug 23, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
