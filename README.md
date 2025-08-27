@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=omSxpvfCano"><img width="140px" src="https://i.ytimg.com/vi/omSxpvfCano/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Sgdz3GUgwHM"><img width="140px" src="https://i.ytimg.com/vi/Sgdz3GUgwHM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Sgdz3GUgwHM">ELECTRIC BIKES THAT YOU&#39;LL WANT TO RIDE</a><br/>Aug 26, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7R0GMAPvNAQ"><img width="140px" src="https://i.ytimg.com/vi/7R0GMAPvNAQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7R0GMAPvNAQ">Powerful Machines That Clean Our Planet</a><br/>Aug 26, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=omSxpvfCano"><img width="140px" src="https://i.ytimg.com/vi/omSxpvfCano/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=omSxpvfCano">GENIUS GARDEN HACKS THAT ACTUALLY WORK</a><br/>Aug 24, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cnHTe8VcMfA"><img width="140px" src="https://i.ytimg.com/vi/cnHTe8VcMfA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cnHTe8VcMfA">Incredible Moments Caught on Camera</a><br/>Aug 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nPqb7lVuTLk"><img width="140px" src="https://i.ytimg.com/vi/nPqb7lVuTLk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nPqb7lVuTLk">INCREDIBLE INVENTIONS THAT CAN SAVE YOUR LIFE</a><br/>Aug 23, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HCMzU9ZvvuY"><img width="140px" src="https://i.ytimg.com/vi/HCMzU9ZvvuY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HCMzU9ZvvuY">One in a Billion Moments in Nature</a><br/>Aug 23, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
