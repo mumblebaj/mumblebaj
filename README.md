@@ -91,5 +91,5 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=iRE54DXjVuo"><img width="140px" src="https://i.ytimg.com/vi/iRE54DXjVuo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iRE54DXjVuo">AMAZON MINI GADGETS YOU&#39;LL WANT TO BUY</a><br/>Aug 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WxPfLHY5I5s"><img width="140px" src="https://i.ytimg.com/vi/WxPfLHY5I5s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WxPfLHY5I5s">Unbelievable Subway Moments Caught on Camera</a><br/>Aug 27, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=WxPfLHY5I5s">&quot;No Way&quot; Subway Moments | That Really Happened Underground</a><br/>Aug 27, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
