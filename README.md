@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=d2_F7oWy7RI"><img width="140px" src="https://i.ytimg.com/vi/d2_F7oWy7RI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ww6aLVX0zIs"><img width="140px" src="https://i.ytimg.com/vi/Ww6aLVX0zIs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ww6aLVX0zIs">BIGGEST SHIP COLLISIONS AND MISTAKES CAUGHT ON CAMERA</a><br/>Aug 30, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5ZQQMc7tW5E"><img width="140px" src="https://i.ytimg.com/vi/5ZQQMc7tW5E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5ZQQMc7tW5E">When Animals Messed with the Wrong Opponent</a><br/>Aug 30, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=d2_F7oWy7RI"><img width="140px" src="https://i.ytimg.com/vi/d2_F7oWy7RI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=d2_F7oWy7RI">100 Luckiest People Ever Caught on Camera</a><br/>Aug 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=n3lB6pEGEfw"><img width="140px" src="https://i.ytimg.com/vi/n3lB6pEGEfw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n3lB6pEGEfw">OFF-ROAD GADGETS YOU SHOULD SEE</a><br/>Aug 28, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iRE54DXjVuo"><img width="140px" src="https://i.ytimg.com/vi/iRE54DXjVuo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iRE54DXjVuo">AMAZON MINI GADGETS YOU&#39;LL WANT TO BUY</a><br/>Aug 27, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=WxPfLHY5I5s"><img width="140px" src="https://i.ytimg.com/vi/WxPfLHY5I5s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=WxPfLHY5I5s">&quot;No Way&quot; Subway Moments | That Really Happened Underground</a><br/>Aug 27, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
