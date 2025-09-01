@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ww6aLVX0zIs"><img width="140px" src="https://i.ytimg.com/vi/Ww6aLVX0zIs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=r96ObGEzJ4E"><img width="140px" src="https://i.ytimg.com/vi/r96ObGEzJ4E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=r96ObGEzJ4E">INCREDIBLE STORAGE SOLUTIONS YOU DIDN&#39;T KNOW ABOUT</a><br/>Aug 31, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0OSWEwqzxkU"><img width="140px" src="https://i.ytimg.com/vi/0OSWEwqzxkU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0OSWEwqzxkU">That Was Really Filmed on Camera</a><br/>Aug 31, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ww6aLVX0zIs"><img width="140px" src="https://i.ytimg.com/vi/Ww6aLVX0zIs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ww6aLVX0zIs">BIGGEST SHIP COLLISIONS AND MISTAKES CAUGHT ON CAMERA</a><br/>Aug 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5ZQQMc7tW5E"><img width="140px" src="https://i.ytimg.com/vi/5ZQQMc7tW5E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ZQQMc7tW5E">When Animals Messed with the Wrong Opponent</a><br/>Aug 30, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=d2_F7oWy7RI"><img width="140px" src="https://i.ytimg.com/vi/d2_F7oWy7RI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=d2_F7oWy7RI">100 Luckiest People Ever Caught on Camera</a><br/>Aug 28, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=n3lB6pEGEfw"><img width="140px" src="https://i.ytimg.com/vi/n3lB6pEGEfw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n3lB6pEGEfw">OFF-ROAD GADGETS YOU SHOULD SEE</a><br/>Aug 28, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
