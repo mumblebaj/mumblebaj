@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dZ55fw-hI4s"><img width="140px" src="https://i.ytimg.com/vi/dZ55fw-hI4s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dZ55fw-hI4s">25 COOL TOWBAR GADGETS YOU MUST SEE</a><br/>Sep 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5Nrops4swpc"><img width="140px" src="https://i.ytimg.com/vi/5Nrops4swpc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5Nrops4swpc">Craziest Animal Interferences in Sports</a><br/>Sep 4, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=5Nrops4swpc">Animals That Totally Destroyed Sports Games</a><br/>Sep 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qmo_L5aQykw"><img width="140px" src="https://i.ytimg.com/vi/qmo_L5aQykw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qmo_L5aQykw">GENIUS TRUCK INVENTIONS THAT ARE ON ANOTHER LEVEL</a><br/>Sep 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4D2jx4cp4Ng"><img width="140px" src="https://i.ytimg.com/vi/4D2jx4cp4Ng/mqdefault.jpg"></a></td>
