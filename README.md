@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HhW1YlpMUBE"><img width="140px" src="https://i.ytimg.com/vi/HhW1YlpMUBE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_cwqN7c11NY"><img width="140px" src="https://i.ytimg.com/vi/_cwqN7c11NY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_cwqN7c11NY">That Was Really Filmed On Camera</a><br/>Sep 7, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9WZdpfidzYI"><img width="140px" src="https://i.ytimg.com/vi/9WZdpfidzYI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9WZdpfidzYI">BUSINESS MACHINES YOU CAN BUY FROM AMAZON TO MAKE MONEY IN YOUR GARAGE</a><br/>Sep 7, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HhW1YlpMUBE"><img width="140px" src="https://i.ytimg.com/vi/HhW1YlpMUBE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HhW1YlpMUBE">OFF-ROAD TRUCKS AND INCREDIBLY SKILLED DRIVERS</a><br/>Sep 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1Hq_vbXwZtc"><img width="140px" src="https://i.ytimg.com/vi/1Hq_vbXwZtc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1Hq_vbXwZtc">Real Tornadoes Caught on Camera!</a><br/>Sep 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dZ55fw-hI4s"><img width="140px" src="https://i.ytimg.com/vi/dZ55fw-hI4s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dZ55fw-hI4s">25 COOL TOWBAR GADGETS YOU MUST SEE</a><br/>Sep 4, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=5Nrops4swpc"><img width="140px" src="https://i.ytimg.com/vi/5Nrops4swpc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5Nrops4swpc">Animals That Totally Destroyed Sports Games</a><br/>Sep 4, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
