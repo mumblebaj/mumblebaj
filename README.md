@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_cwqN7c11NY"><img width="140px" src="https://i.ytimg.com/vi/_cwqN7c11NY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=myM4OnBlxDo"><img width="140px" src="https://i.ytimg.com/vi/myM4OnBlxDo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=myM4OnBlxDo">NEXT-GEN MILITARY OFF-ROAD BEASTS UNLEASHED!</a><br/>Sep 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wOI3PB5Zn3o"><img width="140px" src="https://i.ytimg.com/vi/wOI3PB5Zn3o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wOI3PB5Zn3o">Cities In Collapse: 30 Ways We Outsmarted Nature [30 Min Special]</a><br/>Sep 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=_cwqN7c11NY"><img width="140px" src="https://i.ytimg.com/vi/_cwqN7c11NY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_cwqN7c11NY">That Was Really Filmed On Camera</a><br/>Sep 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9WZdpfidzYI"><img width="140px" src="https://i.ytimg.com/vi/9WZdpfidzYI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9WZdpfidzYI">BUSINESS MACHINES YOU CAN BUY FROM AMAZON TO MAKE MONEY IN YOUR GARAGE</a><br/>Sep 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HhW1YlpMUBE"><img width="140px" src="https://i.ytimg.com/vi/HhW1YlpMUBE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HhW1YlpMUBE">OFF-ROAD TRUCKS AND INCREDIBLY SKILLED DRIVERS</a><br/>Sep 6, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1Hq_vbXwZtc"><img width="140px" src="https://i.ytimg.com/vi/1Hq_vbXwZtc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1Hq_vbXwZtc">Real Tornadoes Caught on Camera!</a><br/>Sep 6, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
