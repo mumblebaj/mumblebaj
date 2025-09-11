@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=myM4OnBlxDo"><img width="140px" src="https://i.ytimg.com/vi/myM4OnBlxDo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IGAM17a60pk"><img width="140px" src="https://i.ytimg.com/vi/IGAM17a60pk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IGAM17a60pk">80 AMAZON KITCHEN GADGETS THAT ARE WORTH BUYING IN 2025</a><br/>Sep 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=oWUTFL6lfRc"><img width="140px" src="https://i.ytimg.com/vi/oWUTFL6lfRc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oWUTFL6lfRc">Security Guards Moments No One Expected to See</a><br/>Sep 10, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=myM4OnBlxDo"><img width="140px" src="https://i.ytimg.com/vi/myM4OnBlxDo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=myM4OnBlxDo">NEXT-GEN MILITARY OFF-ROAD BEASTS UNLEASHED!</a><br/>Sep 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wOI3PB5Zn3o"><img width="140px" src="https://i.ytimg.com/vi/wOI3PB5Zn3o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wOI3PB5Zn3o">Cities In Collapse: 30 Ways We Outsmarted Nature [30 Min Special]</a><br/>Sep 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_cwqN7c11NY"><img width="140px" src="https://i.ytimg.com/vi/_cwqN7c11NY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_cwqN7c11NY">That Was Really Filmed On Camera</a><br/>Sep 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=9WZdpfidzYI"><img width="140px" src="https://i.ytimg.com/vi/9WZdpfidzYI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9WZdpfidzYI">BUSINESS MACHINES YOU CAN BUY FROM AMAZON TO MAKE MONEY IN YOUR GARAGE</a><br/>Sep 7, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
