@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk"><img width="140px" src="https://i.ytimg.com/vi/tQVZw7ZtSPk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk">Win or Die 💀 Brave Animals vs Angry Mother Nature [30 min Edition]</a><br/>Sep 17, 2025</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aLO7ZGQFdfY"><img width="140px" src="https://i.ytimg.com/vi/aLO7ZGQFdfY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aLO7ZGQFdfY">So Close! Lucky People vs Angry Nature Caught on Camera</a><br/>Sep 18, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk"><img width="140px" src="https://i.ytimg.com/vi/tQVZw7ZtSPk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk">Nature&#39;s Wildest Survival Moments Caught on Camera!</a><br/>Sep 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=W1od6W7vm28"><img width="140px" src="https://i.ytimg.com/vi/W1od6W7vm28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W1od6W7vm28">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Sep 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wOCLDTCJymM"><img width="140px" src="https://i.ytimg.com/vi/wOCLDTCJymM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wOCLDTCJymM">Incredible Moments Caught on Camera</a><br/>Sep 14, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=F_-lMq_lZu0"><img width="140px" src="https://i.ytimg.com/vi/F_-lMq_lZu0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=F_-lMq_lZu0">Moments Filmed Seconds Before Disasters</a><br/>Sep 13, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
