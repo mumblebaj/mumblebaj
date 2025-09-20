@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aLO7ZGQFdfY"><img width="140px" src="https://i.ytimg.com/vi/aLO7ZGQFdfY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aLO7ZGQFdfY">So Close! Lucky People vs Angry Nature Caught on Camera</a><br/>Sep 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk"><img width="140px" src="https://i.ytimg.com/vi/tQVZw7ZtSPk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk">Nature&#39;s Wildest Survival Moments Caught on Camera!</a><br/>Sep 17, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk">Win or Die 💀 Brave Animals vs Angry Mother Nature [30 min Edition]</a><br/>Sep 17, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=W1od6W7vm28"><img width="140px" src="https://i.ytimg.com/vi/W1od6W7vm28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=W1od6W7vm28">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Sep 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wOCLDTCJymM"><img width="140px" src="https://i.ytimg.com/vi/wOCLDTCJymM/mqdefault.jpg"></a></td>
