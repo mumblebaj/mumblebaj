@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hUNfoazV014"><img width="140px" src="https://i.ytimg.com/vi/hUNfoazV014/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8_sCbiS0jGs"><img width="140px" src="https://i.ytimg.com/vi/8_sCbiS0jGs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8_sCbiS0jGs">When Civilization Collapses: Ship Graveyards &amp; Lost Cities</a><br/>Sep 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hUNfoazV014"><img width="140px" src="https://i.ytimg.com/vi/hUNfoazV014/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hUNfoazV014">Extreme Crosswind Landings Caught on Camera</a><br/>Sep 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=00s0yzoOdGs"><img width="140px" src="https://i.ytimg.com/vi/00s0yzoOdGs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=00s0yzoOdGs">Best Bad Parking Revenges Caught on Camera</a><br/>Sep 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=aLO7ZGQFdfY"><img width="140px" src="https://i.ytimg.com/vi/aLO7ZGQFdfY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aLO7ZGQFdfY">So Close! Lucky People vs Angry Nature Caught on Camera</a><br/>Sep 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk"><img width="140px" src="https://i.ytimg.com/vi/tQVZw7ZtSPk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tQVZw7ZtSPk">Win or Die 💀 Brave Animals vs Angry Mother Nature [30 min Edition]</a><br/>Sep 17, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
