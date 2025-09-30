@@ -87,7 +87,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dXlNK6__3CM"><img width="140px" src="https://i.ytimg.com/vi/dXlNK6__3CM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dXlNK6__3CM">Unbelievable Train Moments Caught on Camera</a><br/>Sep 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=h7zCEA-pQtw"><img width="140px" src="https://i.ytimg.com/vi/h7zCEA-pQtw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=h7zCEA-pQtw">When Electricity Went Out of Control</a><br/>Sep 27, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=h7zCEA-pQtw">When Electricity Went Wild and Reality Turned Into Disaster</a><br/>Sep 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lig4GBcWVSc"><img width="140px" src="https://i.ytimg.com/vi/lig4GBcWVSc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lig4GBcWVSc">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>Sep 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cNfEDCGYQ4U"><img width="140px" src="https://i.ytimg.com/vi/cNfEDCGYQ4U/mqdefault.jpg"></a></td>
