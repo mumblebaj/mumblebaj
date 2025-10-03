@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=AYrX5RYcPXQ"><img width="140px" src="https://i.ytimg.com/vi/AYrX5RYcPXQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=knRGIw92PVs"><img width="140px" src="https://i.ytimg.com/vi/knRGIw92PVs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=knRGIw92PVs">Monsoons &amp; Hailstorms Caught On Camera</a><br/>Oct 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=AYrX5RYcPXQ"><img width="140px" src="https://i.ytimg.com/vi/AYrX5RYcPXQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AYrX5RYcPXQ">That Was Really Filmed On Camera</a><br/>Oct 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=2MrKAgepEyE"><img width="140px" src="https://i.ytimg.com/vi/2MrKAgepEyE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2MrKAgepEyE">55 Most Unbelievable Earthquakes Caught on Camera</a><br/>Sep 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dXlNK6__3CM"><img width="140px" src="https://i.ytimg.com/vi/dXlNK6__3CM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dXlNK6__3CM">Unbelievable Train Moments Caught on Camera</a><br/>Sep 28, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=h7zCEA-pQtw"><img width="140px" src="https://i.ytimg.com/vi/h7zCEA-pQtw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=h7zCEA-pQtw">When Electricity Went Wild and Reality Turned Into Disaster</a><br/>Sep 27, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
