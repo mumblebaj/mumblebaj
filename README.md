@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T9pIKPr8pCs"><img width="140px" src="https://i.ytimg.com/vi/T9pIKPr8pCs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QpZ8VjCnPcY"><img width="140px" src="https://i.ytimg.com/vi/QpZ8VjCnPcY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QpZ8VjCnPcY">Safari Trips Went Horribly Wrong</a><br/>Oct 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=T9pIKPr8pCs"><img width="140px" src="https://i.ytimg.com/vi/T9pIKPr8pCs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=T9pIKPr8pCs">60 Strange Things Happening Right Now Around the World [Caught on Camera Edition]</a><br/>Oct 4, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=knRGIw92PVs"><img width="140px" src="https://i.ytimg.com/vi/knRGIw92PVs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=knRGIw92PVs">Monsoons &amp; Hailstorms Caught On Camera</a><br/>Oct 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=AYrX5RYcPXQ"><img width="140px" src="https://i.ytimg.com/vi/AYrX5RYcPXQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AYrX5RYcPXQ">That Was Really Filmed On Camera</a><br/>Oct 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2MrKAgepEyE"><img width="140px" src="https://i.ytimg.com/vi/2MrKAgepEyE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2MrKAgepEyE">55 Most Unbelievable Earthquakes Caught on Camera</a><br/>Sep 30, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
