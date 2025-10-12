@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pQn2vnRXQbM"><img width="140px" src="https://i.ytimg.com/vi/pQn2vnRXQbM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-XNuJeTB8qY"><img width="140px" src="https://i.ytimg.com/vi/-XNuJeTB8qY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-XNuJeTB8qY">When People MESSED with the Wrong Cops</a><br/>Oct 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pQn2vnRXQbM"><img width="140px" src="https://i.ytimg.com/vi/pQn2vnRXQbM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pQn2vnRXQbM">Desert Storms: Sand and Dust Takeovers Caught on Camera!</a><br/>Oct 9, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CMBE9jOLY-w"><img width="140px" src="https://i.ytimg.com/vi/CMBE9jOLY-w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CMBE9jOLY-w">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Oct 8, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iBxI_ue5gj0"><img width="140px" src="https://i.ytimg.com/vi/iBxI_ue5gj0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iBxI_ue5gj0">Massive Animal Invasions &amp; Migrations Caught On Camera</a><br/>Oct 7, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QpZ8VjCnPcY"><img width="140px" src="https://i.ytimg.com/vi/QpZ8VjCnPcY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QpZ8VjCnPcY">Safari Trips Went Horribly Wrong</a><br/>Oct 5, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
