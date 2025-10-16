@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Colf-noWBJU"><img width="140px" src="https://i.ytimg.com/vi/Colf-noWBJU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=h362VFuiy2A"><img width="140px" src="https://i.ytimg.com/vi/h362VFuiy2A/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=h362VFuiy2A">That Was Really Filmed on Camera</a><br/>Oct 15, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Colf-noWBJU"><img width="140px" src="https://i.ytimg.com/vi/Colf-noWBJU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Colf-noWBJU">50 Hero People That Saved Animals&#39; Lives</a><br/>Oct 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ECHwYxvW81w"><img width="140px" src="https://i.ytimg.com/vi/ECHwYxvW81w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ECHwYxvW81w">That Was Really Filmed on Camera</a><br/>Oct 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-XNuJeTB8qY"><img width="140px" src="https://i.ytimg.com/vi/-XNuJeTB8qY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-XNuJeTB8qY">When People MESSED with the Wrong Cops</a><br/>Oct 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pQn2vnRXQbM"><img width="140px" src="https://i.ytimg.com/vi/pQn2vnRXQbM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pQn2vnRXQbM">Desert Storms: Sand and Dust Takeovers Caught on Camera!</a><br/>Oct 9, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
