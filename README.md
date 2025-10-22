@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TTc_uO0QVMU"><img width="140px" src="https://i.ytimg.com/vi/TTc_uO0QVMU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4yMnAENc-6M"><img width="140px" src="https://i.ytimg.com/vi/4yMnAENc-6M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4yMnAENc-6M">These Cops Deserve a Medal for Being THIS Wholesome</a><br/>Oct 21, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TTc_uO0QVMU"><img width="140px" src="https://i.ytimg.com/vi/TTc_uO0QVMU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TTc_uO0QVMU">105 Luckiest People Ever Caught on Camera</a><br/>Oct 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LgRiAbORIVw"><img width="140px" src="https://i.ytimg.com/vi/LgRiAbORIVw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LgRiAbORIVw">Moments Before Disaster: Crowds That Went Too Far</a><br/>Oct 18, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dTKF2GW431A"><img width="140px" src="https://i.ytimg.com/vi/dTKF2GW431A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dTKF2GW431A">EVERY Fisherman&#39;s WORST Nightmare 😱 Unsettling Fishing Encounters Caught on Camera</a><br/>Oct 16, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=h362VFuiy2A"><img width="140px" src="https://i.ytimg.com/vi/h362VFuiy2A/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=h362VFuiy2A">That Was Really Filmed on Camera</a><br/>Oct 15, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
