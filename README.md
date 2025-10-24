@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=2yf_R0x4Rmc"><img width="140px" src="https://i.ytimg.com/vi/2yf_R0x4Rmc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Nze0O64F-iQ"><img width="140px" src="https://i.ytimg.com/vi/Nze0O64F-iQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Nze0O64F-iQ">When Truckers Put an End to Road Madness</a><br/>Oct 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2yf_R0x4Rmc"><img width="140px" src="https://i.ytimg.com/vi/2yf_R0x4Rmc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2yf_R0x4Rmc">Incredible Moments Caught on Camera</a><br/>Oct 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4yMnAENc-6M"><img width="140px" src="https://i.ytimg.com/vi/4yMnAENc-6M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4yMnAENc-6M">These Cops Deserve a Medal for Being THIS Wholesome</a><br/>Oct 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TTc_uO0QVMU"><img width="140px" src="https://i.ytimg.com/vi/TTc_uO0QVMU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TTc_uO0QVMU">105 Luckiest People Ever Caught on Camera</a><br/>Oct 19, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LgRiAbORIVw"><img width="140px" src="https://i.ytimg.com/vi/LgRiAbORIVw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LgRiAbORIVw">Moments Before Disaster: Crowds That Went Too Far</a><br/>Oct 18, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
