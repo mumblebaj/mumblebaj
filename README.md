@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RCiSIgKJzqE"><img width="140px" src="https://i.ytimg.com/vi/RCiSIgKJzqE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zxJC5V2ziK4"><img width="140px" src="https://i.ytimg.com/vi/zxJC5V2ziK4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zxJC5V2ziK4">That Was Really Filmed on Camera</a><br/>Oct 29, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RCiSIgKJzqE"><img width="140px" src="https://i.ytimg.com/vi/RCiSIgKJzqE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RCiSIgKJzqE">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Oct 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XauKHMn0vSw"><img width="140px" src="https://i.ytimg.com/vi/XauKHMn0vSw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XauKHMn0vSw">70 Times Road Ragers Got Instant Karma</a><br/>Oct 26, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=J52jSpiOpwo"><img width="140px" src="https://i.ytimg.com/vi/J52jSpiOpwo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=J52jSpiOpwo">Moments You Must See To Believe! Right Now Around the World 2025</a><br/>Oct 25, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Nze0O64F-iQ"><img width="140px" src="https://i.ytimg.com/vi/Nze0O64F-iQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Nze0O64F-iQ">When Truckers Put an End to Road Madness</a><br/>Oct 23, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
