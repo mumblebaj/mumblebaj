@@ -85,7 +85,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6Yb1XH7Qmdk"><img width="140px" src="https://i.ytimg.com/vi/6Yb1XH7Qmdk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6Yb1XH7Qmdk">Security Cameras Moments You Must See To Believe!</a><br/>Oct 30, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=6Yb1XH7Qmdk">Caught in 4K! Incredible Security Camera Moments</a><br/>Oct 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zxJC5V2ziK4"><img width="140px" src="https://i.ytimg.com/vi/zxJC5V2ziK4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zxJC5V2ziK4">That Was Really Filmed on Camera</a><br/>Oct 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RCiSIgKJzqE"><img width="140px" src="https://i.ytimg.com/vi/RCiSIgKJzqE/mqdefault.jpg"></a></td>
