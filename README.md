@@ -89,7 +89,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
 <table><tr><td><a href="https://www.youtube.com/watch?v=ClgU2lnphvQ"><img width="140px" src="https://i.ytimg.com/vi/ClgU2lnphvQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ClgU2lnphvQ">Most Disturbing Dashcam Videos Ever Filmed</a><br/>Nov 1, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6Yb1XH7Qmdk"><img width="140px" src="https://i.ytimg.com/vi/6Yb1XH7Qmdk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6Yb1XH7Qmdk">Caught in 4K! Incredible Security Camera Moments</a><br/>Oct 30, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=6Yb1XH7Qmdk">Security Cameras Moments You Must See To Believe!</a><br/>Oct 30, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zxJC5V2ziK4"><img width="140px" src="https://i.ytimg.com/vi/zxJC5V2ziK4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zxJC5V2ziK4">That Was Really Filmed on Camera</a><br/>Oct 29, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
