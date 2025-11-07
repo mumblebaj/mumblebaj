@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JFQaEYRVpEc"><img width="140px" src="https://i.ytimg.com/vi/JFQaEYRVpEc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=tbWJC4j0Tqk"><img width="140px" src="https://i.ytimg.com/vi/tbWJC4j0Tqk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tbWJC4j0Tqk">Unbelievable City Collapses and Mistakes Caught on Camera</a><br/>Nov 6, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=JFQaEYRVpEc"><img width="140px" src="https://i.ytimg.com/vi/JFQaEYRVpEc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JFQaEYRVpEc">Real Life Superheroes Caught on Camera</a><br/>Nov 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Mm9aNL0EnXI"><img width="140px" src="https://i.ytimg.com/vi/Mm9aNL0EnXI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mm9aNL0EnXI">50 Monster Waves Caught on Camera</a><br/>Nov 2, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ClgU2lnphvQ"><img width="140px" src="https://i.ytimg.com/vi/ClgU2lnphvQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ClgU2lnphvQ">Most Disturbing Dashcam Videos Ever Filmed</a><br/>Nov 1, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6Yb1XH7Qmdk"><img width="140px" src="https://i.ytimg.com/vi/6Yb1XH7Qmdk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6Yb1XH7Qmdk">Security Cameras Moments You Must See To Believe!</a><br/>Oct 30, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
