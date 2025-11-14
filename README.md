@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=T7ohxmGCw7I"><img width="140px" src="https://i.ytimg.com/vi/T7ohxmGCw7I/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZgLuQBKDoMM"><img width="140px" src="https://i.ytimg.com/vi/ZgLuQBKDoMM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZgLuQBKDoMM">Wild Animals Invading Cities Caught on Camera</a><br/>Nov 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=T7ohxmGCw7I"><img width="140px" src="https://i.ytimg.com/vi/T7ohxmGCw7I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=T7ohxmGCw7I">Worst Neighbors from Hell Caught on Camera</a><br/>Nov 12, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qgYEL2HISxc"><img width="140px" src="https://i.ytimg.com/vi/qgYEL2HISxc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qgYEL2HISxc">Heavy Equipment Fails That Hit Different</a><br/>Nov 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=k0AyOHQ6W6M"><img width="140px" src="https://i.ytimg.com/vi/k0AyOHQ6W6M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=k0AyOHQ6W6M">That Was Really Filmed on Camera</a><br/>Nov 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i2Oyk4oUvag"><img width="140px" src="https://i.ytimg.com/vi/i2Oyk4oUvag/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i2Oyk4oUvag">When Animals Went on a Rampage and Got Caught on Camera</a><br/>Nov 8, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
