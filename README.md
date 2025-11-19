@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sWNMGGh0gkc"><img width="140px" src="https://i.ytimg.com/vi/sWNMGGh0gkc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Oul9eE8TW8E"><img width="140px" src="https://i.ytimg.com/vi/Oul9eE8TW8E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Oul9eE8TW8E">70 Unbelievable Aviation Moments Caught on Camera</a><br/>Nov 18, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=sWNMGGh0gkc"><img width="140px" src="https://i.ytimg.com/vi/sWNMGGh0gkc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sWNMGGh0gkc">That Was Really Filmed On Camera</a><br/>Nov 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Dp_Z9A4oAFw"><img width="140px" src="https://i.ytimg.com/vi/Dp_Z9A4oAFw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Dp_Z9A4oAFw">70 Strange Things Happening Right Now Around the World [Caught on Camera Edition]</a><br/>Nov 15, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZgLuQBKDoMM"><img width="140px" src="https://i.ytimg.com/vi/ZgLuQBKDoMM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZgLuQBKDoMM">Wild Animals Invading Cities Caught on Camera</a><br/>Nov 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=T7ohxmGCw7I"><img width="140px" src="https://i.ytimg.com/vi/T7ohxmGCw7I/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=T7ohxmGCw7I">Worst Neighbors from Hell Caught on Camera</a><br/>Nov 12, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
