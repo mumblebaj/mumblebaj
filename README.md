@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cs4RgCn5yDQ"><img width="140px" src="https://i.ytimg.com/vi/cs4RgCn5yDQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iFTk0nzMYCc"><img width="140px" src="https://i.ytimg.com/vi/iFTk0nzMYCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iFTk0nzMYCc">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>Nov 22, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cs4RgCn5yDQ"><img width="140px" src="https://i.ytimg.com/vi/cs4RgCn5yDQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cs4RgCn5yDQ">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Nov 20, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fAMwmJJ-BQ8"><img width="140px" src="https://i.ytimg.com/vi/fAMwmJJ-BQ8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fAMwmJJ-BQ8">This Attraction Should Not Exist</a><br/>Nov 19, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Oul9eE8TW8E"><img width="140px" src="https://i.ytimg.com/vi/Oul9eE8TW8E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Oul9eE8TW8E">70 Unbelievable Aviation Moments Caught on Camera</a><br/>Nov 18, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=sWNMGGh0gkc"><img width="140px" src="https://i.ytimg.com/vi/sWNMGGh0gkc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sWNMGGh0gkc">That Was Really Filmed On Camera</a><br/>Nov 16, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
