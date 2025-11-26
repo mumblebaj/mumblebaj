@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zOP7FqkmII0"><img width="140px" src="https://i.ytimg.com/vi/zOP7FqkmII0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ITVTaGTkk9Q"><img width="140px" src="https://i.ytimg.com/vi/ITVTaGTkk9Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ITVTaGTkk9Q">Most Incredible Flash Floods Caught on Camera</a><br/>Nov 25, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zOP7FqkmII0"><img width="140px" src="https://i.ytimg.com/vi/zOP7FqkmII0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zOP7FqkmII0">That Was Really Filmed on Camera</a><br/>Nov 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iFTk0nzMYCc"><img width="140px" src="https://i.ytimg.com/vi/iFTk0nzMYCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iFTk0nzMYCc">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>Nov 22, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cs4RgCn5yDQ"><img width="140px" src="https://i.ytimg.com/vi/cs4RgCn5yDQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cs4RgCn5yDQ">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Nov 20, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fAMwmJJ-BQ8"><img width="140px" src="https://i.ytimg.com/vi/fAMwmJJ-BQ8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fAMwmJJ-BQ8">This Attraction Should Not Exist</a><br/>Nov 19, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
