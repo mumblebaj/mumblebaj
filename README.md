@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zz0qZ-sSCbY"><img width="140px" src="https://i.ytimg.com/vi/zz0qZ-sSCbY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0HXMtslw_oI"><img width="140px" src="https://i.ytimg.com/vi/0HXMtslw_oI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0HXMtslw_oI">Incredible Moments Caught On Camera</a><br/>Nov 30, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zz0qZ-sSCbY"><img width="140px" src="https://i.ytimg.com/vi/zz0qZ-sSCbY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zz0qZ-sSCbY">Icy Road Madness Caught on Camera</a><br/>Nov 29, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ixec45sVHas"><img width="140px" src="https://i.ytimg.com/vi/Ixec45sVHas/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ixec45sVHas">125 Luckiest People Ever Caught on Camera</a><br/>Nov 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=piq3PVR8L74"><img width="140px" src="https://i.ytimg.com/vi/piq3PVR8L74/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=piq3PVR8L74">That Was Really Filmed on Camera</a><br/>Nov 26, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ITVTaGTkk9Q"><img width="140px" src="https://i.ytimg.com/vi/ITVTaGTkk9Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ITVTaGTkk9Q">Shocking Natural Disasters Caught On Camera</a><br/>Nov 25, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
