@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UG-qP9LEzlk"><img width="140px" src="https://i.ytimg.com/vi/UG-qP9LEzlk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=S64SPEGaEoY"><img width="140px" src="https://i.ytimg.com/vi/S64SPEGaEoY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=S64SPEGaEoY">Urban Winter Nightmares Caught on Camera!</a><br/>Dec 9, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UG-qP9LEzlk"><img width="140px" src="https://i.ytimg.com/vi/UG-qP9LEzlk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UG-qP9LEzlk">That Was Really Filmed On Camera</a><br/>Dec 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qwvoZPJCjX0"><img width="140px" src="https://i.ytimg.com/vi/qwvoZPJCjX0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qwvoZPJCjX0">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Dec 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ds0MAhl-P38"><img width="140px" src="https://i.ytimg.com/vi/ds0MAhl-P38/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ds0MAhl-P38">That Really Happened in People&#39;s Backyards</a><br/>Dec 4, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=w9huhRwKDp8"><img width="140px" src="https://i.ytimg.com/vi/w9huhRwKDp8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=w9huhRwKDp8">Cruise Ships VS Monster Waves in Mega Storms</a><br/>Dec 3, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
