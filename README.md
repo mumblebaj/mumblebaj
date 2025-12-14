@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TZXothgnb28"><img width="140px" src="https://i.ytimg.com/vi/TZXothgnb28/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PM4Bg5VMEP4"><img width="140px" src="https://i.ytimg.com/vi/PM4Bg5VMEP4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PM4Bg5VMEP4">Moments Filmed Seconds Before Disasters</a><br/>Dec 13, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TZXothgnb28"><img width="140px" src="https://i.ytimg.com/vi/TZXothgnb28/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TZXothgnb28">55 Shocking Natural Disasters Caught on Camera</a><br/>Dec 11, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RE6ivg8kFNI"><img width="140px" src="https://i.ytimg.com/vi/RE6ivg8kFNI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RE6ivg8kFNI">That Was Really Filmed on Camera</a><br/>Dec 10, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=S64SPEGaEoY"><img width="140px" src="https://i.ytimg.com/vi/S64SPEGaEoY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=S64SPEGaEoY">Urban Winter Nightmares Caught on Camera!</a><br/>Dec 9, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=UG-qP9LEzlk"><img width="140px" src="https://i.ytimg.com/vi/UG-qP9LEzlk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UG-qP9LEzlk">That Was Really Filmed On Camera</a><br/>Dec 7, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
