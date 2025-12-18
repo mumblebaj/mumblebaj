@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5B8umiUvvWU"><img width="140px" src="https://i.ytimg.com/vi/5B8umiUvvWU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wQ0nE95K5Jw"><img width="140px" src="https://i.ytimg.com/vi/wQ0nE95K5Jw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wQ0nE95K5Jw">That Was Really Filmed on Camera</a><br/>Dec 17, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5B8umiUvvWU"><img width="140px" src="https://i.ytimg.com/vi/5B8umiUvvWU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5B8umiUvvWU">Powerful Snow Blowers &amp; Removal Machines - Extremely Fast Snow Plowing</a><br/>Dec 16, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NhDrcc-68dY"><img width="140px" src="https://i.ytimg.com/vi/NhDrcc-68dY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NhDrcc-68dY">That Was Really Filmed on Camera</a><br/>Dec 14, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PM4Bg5VMEP4"><img width="140px" src="https://i.ytimg.com/vi/PM4Bg5VMEP4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PM4Bg5VMEP4">Moments Filmed Seconds Before Disasters</a><br/>Dec 13, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TZXothgnb28"><img width="140px" src="https://i.ytimg.com/vi/TZXothgnb28/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TZXothgnb28">55 Shocking Natural Disasters Caught on Camera</a><br/>Dec 11, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
