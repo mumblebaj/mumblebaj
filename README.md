@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lkgVGaOl_EU"><img width="140px" src="https://i.ytimg.com/vi/lkgVGaOl_EU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lnwZirt8iu4"><img width="140px" src="https://i.ytimg.com/vi/lnwZirt8iu4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lnwZirt8iu4">Brutal Truck Accidents | Road Wars Edition</a><br/>Dec 24, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lkgVGaOl_EU"><img width="140px" src="https://i.ytimg.com/vi/lkgVGaOl_EU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lkgVGaOl_EU">Highway Heroes: Good Samaritans on the Road</a><br/>Dec 23, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NF2Wr3Th5TQ"><img width="140px" src="https://i.ytimg.com/vi/NF2Wr3Th5TQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NF2Wr3Th5TQ">That Was Really Filmed on Camera</a><br/>Dec 21, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bYdGVRizoXI"><img width="140px" src="https://i.ytimg.com/vi/bYdGVRizoXI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bYdGVRizoXI">75 Times Cops Had Perfect Timing!</a><br/>Dec 20, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-S37bLo7tzo"><img width="140px" src="https://i.ytimg.com/vi/-S37bLo7tzo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-S37bLo7tzo">Safari Trips Went Horribly Wrong</a><br/>Dec 18, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
