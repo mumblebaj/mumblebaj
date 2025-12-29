@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=npqL9Hi4ksE"><img width="140px" src="https://i.ytimg.com/vi/npqL9Hi4ksE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ZEPU7X2HhME"><img width="140px" src="https://i.ytimg.com/vi/ZEPU7X2HhME/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZEPU7X2HhME">That Was Really Filmed on Camera</a><br/>Dec 28, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=npqL9Hi4ksE"><img width="140px" src="https://i.ytimg.com/vi/npqL9Hi4ksE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=npqL9Hi4ksE">Icy Road Madness Caught on Camera</a><br/>Dec 27, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vxr7ELt62iY"><img width="140px" src="https://i.ytimg.com/vi/vxr7ELt62iY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vxr7ELt62iY">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Dec 25, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lnwZirt8iu4"><img width="140px" src="https://i.ytimg.com/vi/lnwZirt8iu4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lnwZirt8iu4">Brutal Truck Accidents | Road Wars Edition</a><br/>Dec 24, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lkgVGaOl_EU"><img width="140px" src="https://i.ytimg.com/vi/lkgVGaOl_EU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lkgVGaOl_EU">Highway Heroes: Good Samaritans on the Road</a><br/>Dec 23, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
