@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nevqqj718Cc"><img width="140px" src="https://i.ytimg.com/vi/nevqqj718Cc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ysf8xYt8ovE"><img width="140px" src="https://i.ytimg.com/vi/Ysf8xYt8ovE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ysf8xYt8ovE">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jan 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=nevqqj718Cc"><img width="140px" src="https://i.ytimg.com/vi/nevqqj718Cc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nevqqj718Cc">Heavy Machinery Battles | Crash Test Fails &amp; Wins</a><br/>Jan 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=4I-zsfhlX3s"><img width="140px" src="https://i.ytimg.com/vi/4I-zsfhlX3s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4I-zsfhlX3s">Unbelievable Train Moments Caught on Camera</a><br/>Jan 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=o-lfFvk9ti8"><img width="140px" src="https://i.ytimg.com/vi/o-lfFvk9ti8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=o-lfFvk9ti8">That Was Really Filmed on Camera</a><br/>Jan 4, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TNboGFCETF8"><img width="140px" src="https://i.ytimg.com/vi/TNboGFCETF8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TNboGFCETF8">115 Luckiest People Ever Caught on Camera</a><br/>Jan 3, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
