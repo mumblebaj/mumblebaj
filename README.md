@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=CYFMz74uqgA"><img width="140px" src="https://i.ytimg.com/vi/CYFMz74uqgA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oYzq_Y70kUs"><img width="140px" src="https://i.ytimg.com/vi/oYzq_Y70kUs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oYzq_Y70kUs">Craziest Police K9 Takedowns Caught on Camera</a><br/>Jan 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=CYFMz74uqgA"><img width="140px" src="https://i.ytimg.com/vi/CYFMz74uqgA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CYFMz74uqgA">Moments When Things Went Wrong</a><br/>Jan 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CAdHJsgDnIo"><img width="140px" src="https://i.ytimg.com/vi/CAdHJsgDnIo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CAdHJsgDnIo">That Was Really Filmed on Camera</a><br/>Jan 11, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=10M-w26obaQ"><img width="140px" src="https://i.ytimg.com/vi/10M-w26obaQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=10M-w26obaQ">80 Strange Things Happening Right Now Around the World [Caught on Camera Edition]</a><br/>Jan 10, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Ysf8xYt8ovE"><img width="140px" src="https://i.ytimg.com/vi/Ysf8xYt8ovE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ysf8xYt8ovE">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jan 8, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
