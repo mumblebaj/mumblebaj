@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ROne8AdNQcM"><img width="140px" src="https://i.ytimg.com/vi/ROne8AdNQcM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_Y_93-Iu_sI"><img width="140px" src="https://i.ytimg.com/vi/_Y_93-Iu_sI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_Y_93-Iu_sI">That Was Really Filmed on Camera</a><br/>Jan 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ROne8AdNQcM"><img width="140px" src="https://i.ytimg.com/vi/ROne8AdNQcM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ROne8AdNQcM">Snow Removal Fails | Massive Roof Avalanches That Trap People</a><br/>Jan 17, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PQfP3CPdFiE"><img width="140px" src="https://i.ytimg.com/vi/PQfP3CPdFiE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PQfP3CPdFiE">Icy Road Madness Caught on Camera</a><br/>Jan 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=oYzq_Y70kUs"><img width="140px" src="https://i.ytimg.com/vi/oYzq_Y70kUs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oYzq_Y70kUs">Craziest Police K9 Takedowns Caught on Camera</a><br/>Jan 14, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=CYFMz74uqgA"><img width="140px" src="https://i.ytimg.com/vi/CYFMz74uqgA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CYFMz74uqgA">Moments When Things Went Wrong</a><br/>Jan 13, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
