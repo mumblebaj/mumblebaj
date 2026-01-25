@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OUIzKU5E2Bg"><img width="140px" src="https://i.ytimg.com/vi/OUIzKU5E2Bg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=QdilbXo4WTk"><img width="140px" src="https://i.ytimg.com/vi/QdilbXo4WTk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QdilbXo4WTk">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>Jan 24, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=OUIzKU5E2Bg"><img width="140px" src="https://i.ytimg.com/vi/OUIzKU5E2Bg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OUIzKU5E2Bg">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jan 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=H8EBJ6-kJzc"><img width="140px" src="https://i.ytimg.com/vi/H8EBJ6-kJzc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=H8EBJ6-kJzc">Icy Road Madness Caught on Camera</a><br/>Jan 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=PljF1Bnd7gI"><img width="140px" src="https://i.ytimg.com/vi/PljF1Bnd7gI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PljF1Bnd7gI">When Plane Landings and Takeoffs Go Wrong</a><br/>Jan 20, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_Y_93-Iu_sI"><img width="140px" src="https://i.ytimg.com/vi/_Y_93-Iu_sI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_Y_93-Iu_sI">That Was Really Filmed on Camera</a><br/>Jan 18, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
