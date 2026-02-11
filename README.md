@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Hbs8Lp8akFA"><img width="140px" src="https://i.ytimg.com/vi/Hbs8Lp8akFA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fuB2E29gRFQ"><img width="140px" src="https://i.ytimg.com/vi/fuB2E29gRFQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fuB2E29gRFQ">Heavy Equipment Fails That Hit Different</a><br/>Feb 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Hbs8Lp8akFA"><img width="140px" src="https://i.ytimg.com/vi/Hbs8Lp8akFA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Hbs8Lp8akFA">That Was Really Filmed on Camera</a><br/>Feb 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=i_Ut1sjqMkY"><img width="140px" src="https://i.ytimg.com/vi/i_Ut1sjqMkY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i_Ut1sjqMkY">20 COOLEST AMAZON GADGETS YOU&#39;LL WANT TO BUY</a><br/>Feb 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=93UM3A7PhKw"><img width="140px" src="https://i.ytimg.com/vi/93UM3A7PhKw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=93UM3A7PhKw">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Feb 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IXFO9afi5uo"><img width="140px" src="https://i.ytimg.com/vi/IXFO9afi5uo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IXFO9afi5uo">Unbelievable City Collapses and Mistakes Caught on Camera</a><br/>Feb 5, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
