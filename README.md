@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7gBYSyQAEHU"><img width="140px" src="https://i.ytimg.com/vi/7gBYSyQAEHU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qK15qMibPCc"><img width="140px" src="https://i.ytimg.com/vi/qK15qMibPCc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qK15qMibPCc">Winter Storm Chaos Turning Cities into Nightmares</a><br/>Feb 12, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7gBYSyQAEHU"><img width="140px" src="https://i.ytimg.com/vi/7gBYSyQAEHU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7gBYSyQAEHU">Road Madness That Got Out of Control</a><br/>Feb 11, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=fuB2E29gRFQ"><img width="140px" src="https://i.ytimg.com/vi/fuB2E29gRFQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fuB2E29gRFQ">Heavy Equipment Fails That Hit Different</a><br/>Feb 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Hbs8Lp8akFA"><img width="140px" src="https://i.ytimg.com/vi/Hbs8Lp8akFA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Hbs8Lp8akFA">That Was Really Filmed on Camera</a><br/>Feb 8, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i_Ut1sjqMkY"><img width="140px" src="https://i.ytimg.com/vi/i_Ut1sjqMkY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i_Ut1sjqMkY">20 COOLEST AMAZON GADGETS YOU&#39;LL WANT TO BUY</a><br/>Feb 7, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
