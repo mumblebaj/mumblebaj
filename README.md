@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=qK15qMibPCc"><img width="140px" src="https://i.ytimg.com/vi/qK15qMibPCc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GrtJi29qUGU"><img width="140px" src="https://i.ytimg.com/vi/GrtJi29qUGU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GrtJi29qUGU">25 COOL SURVIVAL GADGETS YOU SHOULD KNOW ABOUT</a><br/>Feb 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qZ5gMXYYz6w"><img width="140px" src="https://i.ytimg.com/vi/qZ5gMXYYz6w/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=qZ5gMXYYz6w">110 Luckiest People Ever Caught on Camera</a><br/>Feb 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=qK15qMibPCc"><img width="140px" src="https://i.ytimg.com/vi/qK15qMibPCc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qK15qMibPCc">Winter Storm Chaos Turning Cities into Nightmares</a><br/>Feb 12, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=7gBYSyQAEHU"><img width="140px" src="https://i.ytimg.com/vi/7gBYSyQAEHU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7gBYSyQAEHU">Road Madness That Got Out of Control</a><br/>Feb 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=fuB2E29gRFQ"><img width="140px" src="https://i.ytimg.com/vi/fuB2E29gRFQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fuB2E29gRFQ">Heavy Equipment Fails That Hit Different</a><br/>Feb 10, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Hbs8Lp8akFA"><img width="140px" src="https://i.ytimg.com/vi/Hbs8Lp8akFA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Hbs8Lp8akFA">That Was Really Filmed on Camera</a><br/>Feb 8, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
