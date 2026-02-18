@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KFyWPty7yPs"><img width="140px" src="https://i.ytimg.com/vi/KFyWPty7yPs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4Gs0sb9zPZE"><img width="140px" src="https://i.ytimg.com/vi/4Gs0sb9zPZE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4Gs0sb9zPZE">Surviving Here Is Impossible | Most Dangerous Places in the World</a><br/>Feb 17, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KFyWPty7yPs"><img width="140px" src="https://i.ytimg.com/vi/KFyWPty7yPs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KFyWPty7yPs">That Was Really Filmed on Camera</a><br/>Feb 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GrtJi29qUGU"><img width="140px" src="https://i.ytimg.com/vi/GrtJi29qUGU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GrtJi29qUGU">25 COOL SURVIVAL GADGETS YOU SHOULD KNOW ABOUT</a><br/>Feb 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=qZ5gMXYYz6w"><img width="140px" src="https://i.ytimg.com/vi/qZ5gMXYYz6w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=qZ5gMXYYz6w">110 Luckiest People Ever Caught on Camera</a><br/>Feb 14, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qK15qMibPCc"><img width="140px" src="https://i.ytimg.com/vi/qK15qMibPCc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qK15qMibPCc">Winter Storm Chaos Turning Cities into Nightmares</a><br/>Feb 12, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
