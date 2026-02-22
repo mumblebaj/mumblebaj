@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TlFg7qi-JdM"><img width="140px" src="https://i.ytimg.com/vi/TlFg7qi-JdM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xxGq-p4R0eI"><img width="140px" src="https://i.ytimg.com/vi/xxGq-p4R0eI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xxGq-p4R0eI">20 GENIUS CAR GADGETS ON AMAZON THAT WILL MAKE YOUR LIFE EASIER</a><br/>Feb 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=KJoYhET8Wjw"><img width="140px" src="https://i.ytimg.com/vi/KJoYhET8Wjw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KJoYhET8Wjw">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Feb 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TlFg7qi-JdM"><img width="140px" src="https://i.ytimg.com/vi/TlFg7qi-JdM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TlFg7qi-JdM">Snow Parking Wars Turn into Snowpocalypse</a><br/>Feb 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=cEeaZlA3bwA"><img width="140px" src="https://i.ytimg.com/vi/cEeaZlA3bwA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cEeaZlA3bwA">Damn Nature You Scary | Rare and Scary Animal Encounters</a><br/>Feb 18, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4Gs0sb9zPZE"><img width="140px" src="https://i.ytimg.com/vi/4Gs0sb9zPZE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4Gs0sb9zPZE">Surviving Here Is Impossible | Most Dangerous Places in the World</a><br/>Feb 17, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=KFyWPty7yPs"><img width="140px" src="https://i.ytimg.com/vi/KFyWPty7yPs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KFyWPty7yPs">That Was Really Filmed on Camera</a><br/>Feb 15, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
