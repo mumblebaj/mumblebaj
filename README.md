@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ILGPCvBA9no"><img width="140px" src="https://i.ytimg.com/vi/ILGPCvBA9no/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=g-FeOKChTO4"><img width="140px" src="https://i.ytimg.com/vi/g-FeOKChTO4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=g-FeOKChTO4">MOST COMFORTABLE TRUCKS YOU HAVEN&#39;T SEEN BEFORE</a><br/>Feb 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=L6WlydBB48U"><img width="140px" src="https://i.ytimg.com/vi/L6WlydBB48U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=L6WlydBB48U">Moments Filmed Seconds Before Disasters</a><br/>Feb 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ILGPCvBA9no"><img width="140px" src="https://i.ytimg.com/vi/ILGPCvBA9no/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ILGPCvBA9no">Frozen Ships Crashing Through Ice | Scary Winter Storms &amp; Giant Waves</a><br/>Feb 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EwEoDFSGsts"><img width="140px" src="https://i.ytimg.com/vi/EwEoDFSGsts/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EwEoDFSGsts">Animals Surviving Extreme Winter 🥶 Freezing Moments</a><br/>Feb 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lpAlxIp5Kqo"><img width="140px" src="https://i.ytimg.com/vi/lpAlxIp5Kqo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lpAlxIp5Kqo">Highway Heroes: Good Samaritans on the Road</a><br/>Feb 24, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=I6SFWqWEJAw"><img width="140px" src="https://i.ytimg.com/vi/I6SFWqWEJAw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=I6SFWqWEJAw">That Was Really Filmed on Camera</a><br/>Feb 22, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
