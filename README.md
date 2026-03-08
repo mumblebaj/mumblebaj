@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8ifpWdhovIY"><img width="140px" src="https://i.ytimg.com/vi/8ifpWdhovIY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3YzVDjSCohQ"><img width="140px" src="https://i.ytimg.com/vi/3YzVDjSCohQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3YzVDjSCohQ">40 AMAZON KITCHEN GADGETS THAT ARE WORTH BUYING IN 2026</a><br/>Mar 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wylSgIx5epc"><img width="140px" src="https://i.ytimg.com/vi/wylSgIx5epc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wylSgIx5epc">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Mar 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8ifpWdhovIY"><img width="140px" src="https://i.ytimg.com/vi/8ifpWdhovIY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8ifpWdhovIY">Incredible Lightning Strikes Caught on Camera</a><br/>Mar 5, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=CrJjx5B6imU"><img width="140px" src="https://i.ytimg.com/vi/CrJjx5B6imU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CrJjx5B6imU">These Drivers Don&#39;t Deserve a License</a><br/>Mar 4, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=_O7uNeuj1eY"><img width="140px" src="https://i.ytimg.com/vi/_O7uNeuj1eY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_O7uNeuj1eY">Police vs Wild Animals | Bodycam Captures Everything</a><br/>Mar 3, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qUJ_RbO4fAU"><img width="140px" src="https://i.ytimg.com/vi/qUJ_RbO4fAU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qUJ_RbO4fAU">That Was Really Filmed on Camera</a><br/>Mar 1, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
