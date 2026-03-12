@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=DY--JzHKvYA"><img width="140px" src="https://i.ytimg.com/vi/DY--JzHKvYA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e0OtLvZR8jg"><img width="140px" src="https://i.ytimg.com/vi/e0OtLvZR8jg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e0OtLvZR8jg">70 Times Celebrities Were Saved By Their Bodyguards</a><br/>Mar 11, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=DY--JzHKvYA"><img width="140px" src="https://i.ytimg.com/vi/DY--JzHKvYA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DY--JzHKvYA">Insane Aviation &amp; Sky Fails Caught on Camera</a><br/>Mar 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=3YzVDjSCohQ"><img width="140px" src="https://i.ytimg.com/vi/3YzVDjSCohQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3YzVDjSCohQ">40 AMAZON KITCHEN GADGETS THAT ARE WORTH BUYING IN 2026</a><br/>Mar 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wylSgIx5epc"><img width="140px" src="https://i.ytimg.com/vi/wylSgIx5epc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wylSgIx5epc">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Mar 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8ifpWdhovIY"><img width="140px" src="https://i.ytimg.com/vi/8ifpWdhovIY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8ifpWdhovIY">Incredible Lightning Strikes Caught on Camera</a><br/>Mar 5, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
