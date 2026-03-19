@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5Jmh3yy-l0o"><img width="140px" src="https://i.ytimg.com/vi/5Jmh3yy-l0o/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=OXS1ZL9Gt00"><img width="140px" src="https://i.ytimg.com/vi/OXS1ZL9Gt00/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OXS1ZL9Gt00">When Truckers Don&#39;t Stop for Bad Drivers</a><br/>Mar 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5Jmh3yy-l0o"><img width="140px" src="https://i.ytimg.com/vi/5Jmh3yy-l0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5Jmh3yy-l0o">Most Incredible Cruise Ship Videos Ever Captured</a><br/>Mar 17, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=v5u4JVzNru4"><img width="140px" src="https://i.ytimg.com/vi/v5u4JVzNru4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v5u4JVzNru4">That Was Really Filmed on Camera</a><br/>Mar 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xmtBqlaQAhs"><img width="140px" src="https://i.ytimg.com/vi/xmtBqlaQAhs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xmtBqlaQAhs">10 WEIRD FACTS ABOUT THE AIRBUS A380 YOU DIDN&#39;T KNOW</a><br/>Mar 14, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FTXhXHFaksQ"><img width="140px" src="https://i.ytimg.com/vi/FTXhXHFaksQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FTXhXHFaksQ">Unbelievable Train Moments Caught on Camera</a><br/>Mar 14, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
