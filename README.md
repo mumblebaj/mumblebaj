@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SXKEon3ojfA"><img width="140px" src="https://i.ytimg.com/vi/SXKEon3ojfA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=iKr74dePkY8"><img width="140px" src="https://i.ytimg.com/vi/iKr74dePkY8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iKr74dePkY8">Roofs Collapsing Out of Nowhere</a><br/>Mar 24, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SXKEon3ojfA"><img width="140px" src="https://i.ytimg.com/vi/SXKEon3ojfA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SXKEon3ojfA">That Was Really Filmed on Camera</a><br/>Mar 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=uFVOi6fYsyo"><img width="140px" src="https://i.ytimg.com/vi/uFVOi6fYsyo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uFVOi6fYsyo">INCREDIBLE BICYCLE INVENTIONS THAT YOU HAVEN&#39;T SEEN YET</a><br/>Mar 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=soNLLTfEpmU"><img width="140px" src="https://i.ytimg.com/vi/soNLLTfEpmU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=soNLLTfEpmU">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Mar 21, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LwqP96BVyXw"><img width="140px" src="https://i.ytimg.com/vi/LwqP96BVyXw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LwqP96BVyXw">Damn Nature You Scary | Rare and Scary Animal Encounters</a><br/>Mar 19, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
