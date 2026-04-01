@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ekf0heQAC1s"><img width="140px" src="https://i.ytimg.com/vi/Ekf0heQAC1s/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=G4e1Nh2YMNA"><img width="140px" src="https://i.ytimg.com/vi/G4e1Nh2YMNA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=G4e1Nh2YMNA">Most Incredible Incidents at Sea Caught on Camera</a><br/>Mar 31, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ekf0heQAC1s"><img width="140px" src="https://i.ytimg.com/vi/Ekf0heQAC1s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ekf0heQAC1s">That Was Really Filmed on Camera</a><br/>Mar 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pzZZoPfq1DM"><img width="140px" src="https://i.ytimg.com/vi/pzZZoPfq1DM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pzZZoPfq1DM">105 Luckiest People Ever Caught on Camera</a><br/>Mar 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EVtFvzTnoNQ"><img width="140px" src="https://i.ytimg.com/vi/EVtFvzTnoNQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EVtFvzTnoNQ">When Building Demolitions Go Horribly Wrong</a><br/>Mar 26, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=seNiEGQxAF8"><img width="140px" src="https://i.ytimg.com/vi/seNiEGQxAF8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=seNiEGQxAF8">Craziest Public Transport Moments You&#39;ll Ever See</a><br/>Mar 25, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
