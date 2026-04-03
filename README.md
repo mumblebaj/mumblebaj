@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LzfMT7JTerg"><img width="140px" src="https://i.ytimg.com/vi/LzfMT7JTerg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KuAoCP6K9-U"><img width="140px" src="https://i.ytimg.com/vi/KuAoCP6K9-U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KuAoCP6K9-U">Unbelievable City Collapses and Mistakes Caught on Camera</a><br/>Apr 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LzfMT7JTerg"><img width="140px" src="https://i.ytimg.com/vi/LzfMT7JTerg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LzfMT7JTerg">Terrifying Snake Encounters Caught on Camera</a><br/>Apr 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=G4e1Nh2YMNA"><img width="140px" src="https://i.ytimg.com/vi/G4e1Nh2YMNA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=G4e1Nh2YMNA">Most Incredible Incidents at Sea Caught on Camera</a><br/>Mar 31, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ekf0heQAC1s"><img width="140px" src="https://i.ytimg.com/vi/Ekf0heQAC1s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ekf0heQAC1s">That Was Really Filmed on Camera</a><br/>Mar 29, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pzZZoPfq1DM"><img width="140px" src="https://i.ytimg.com/vi/pzZZoPfq1DM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pzZZoPfq1DM">105 Luckiest People Ever Caught on Camera</a><br/>Mar 28, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
