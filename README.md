@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=uvQHcXJuvbQ"><img width="140px" src="https://i.ytimg.com/vi/uvQHcXJuvbQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n5SuhZmohRQ"><img width="140px" src="https://i.ytimg.com/vi/n5SuhZmohRQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=n5SuhZmohRQ">AMAZING TOOLS THAT ACTUALLY EXIST</a><br/>Apr 11, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XxVtdU_lXqU"><img width="140px" src="https://i.ytimg.com/vi/XxVtdU_lXqU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XxVtdU_lXqU">CCTV Caught What Nobody Expected</a><br/>Apr 11, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=uvQHcXJuvbQ"><img width="140px" src="https://i.ytimg.com/vi/uvQHcXJuvbQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uvQHcXJuvbQ">Insane Stadium Collapses and Mistakes Caught on Camera</a><br/>Apr 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=kGVDo8_MqMM"><img width="140px" src="https://i.ytimg.com/vi/kGVDo8_MqMM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kGVDo8_MqMM">People Who Messed with the Wrong Guard Dogs</a><br/>Apr 8, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6QliRM9F-AY"><img width="140px" src="https://i.ytimg.com/vi/6QliRM9F-AY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6QliRM9F-AY">When Electricity Went Out of Control</a><br/>Apr 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ggDibRJQ0RE"><img width="140px" src="https://i.ytimg.com/vi/ggDibRJQ0RE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ggDibRJQ0RE">That Was Really Filmed on Camera</a><br/>Apr 5, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
