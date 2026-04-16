@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n5SuhZmohRQ"><img width="140px" src="https://i.ytimg.com/vi/n5SuhZmohRQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n5SuhZmohRQ">AMAZING TOOLS THAT ACTUALLY EXIST</a><br/>Apr 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-ESeUWE3qMc"><img width="140px" src="https://i.ytimg.com/vi/-ESeUWE3qMc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-ESeUWE3qMc">10 WEIRD FACTS ABOUT CONTAINER SHIPS</a><br/>Apr 4, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uFVOi6fYsyo"><img width="140px" src="https://i.ytimg.com/vi/uFVOi6fYsyo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uFVOi6fYsyo">INCREDIBLE BICYCLE INVENTIONS THAT YOU HAVEN&#39;T SEEN YET</a><br/>Mar 21, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xmtBqlaQAhs"><img width="140px" src="https://i.ytimg.com/vi/xmtBqlaQAhs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xmtBqlaQAhs">10 WEIRD FACTS ABOUT THE AIRBUS A380 YOU DIDN&#39;T KNOW</a><br/>Mar 14, 2026</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lyXOc2lw8yw"><img width="140px" src="https://i.ytimg.com/vi/lyXOc2lw8yw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lyXOc2lw8yw">Insane Aviation &amp; Sky Fails Caught on Camera</a><br/>Apr 16, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2xeGpB-V6pA"><img width="140px" src="https://i.ytimg.com/vi/2xeGpB-V6pA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2xeGpB-V6pA">When Karen Passengers Got Instant Karma</a><br/>Apr 15, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Y8kMVwCtvAY"><img width="140px" src="https://i.ytimg.com/vi/Y8kMVwCtvAY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Y8kMVwCtvAY">Insane Shopping Mall Collapses and Mistakes Caught on Camera</a><br/>Apr 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=njvqrV049pw"><img width="140px" src="https://i.ytimg.com/vi/njvqrV049pw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=njvqrV049pw">That Was Really Filmed On Camera</a><br/>Apr 12, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
