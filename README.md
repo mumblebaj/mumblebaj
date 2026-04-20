@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lyXOc2lw8yw"><img width="140px" src="https://i.ytimg.com/vi/lyXOc2lw8yw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ve-efbSmxH0"><img width="140px" src="https://i.ytimg.com/vi/ve-efbSmxH0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ve-efbSmxH0">That Was Really Filmed on Camera</a><br/>Apr 19, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=iSxAfM_qSVA"><img width="140px" src="https://i.ytimg.com/vi/iSxAfM_qSVA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iSxAfM_qSVA">GENIUS GARDEN HACKS THAT ACTUALLY WORK</a><br/>Apr 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ZxDHaCKA_hQ"><img width="140px" src="https://i.ytimg.com/vi/ZxDHaCKA_hQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZxDHaCKA_hQ">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Apr 18, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lyXOc2lw8yw"><img width="140px" src="https://i.ytimg.com/vi/lyXOc2lw8yw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lyXOc2lw8yw">Insane Aviation &amp; Sky Fails Caught on Camera</a><br/>Apr 16, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2xeGpB-V6pA"><img width="140px" src="https://i.ytimg.com/vi/2xeGpB-V6pA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2xeGpB-V6pA">When Karen Passengers Got Instant Karma</a><br/>Apr 15, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Y8kMVwCtvAY"><img width="140px" src="https://i.ytimg.com/vi/Y8kMVwCtvAY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Y8kMVwCtvAY">Insane Shopping Mall Collapses and Mistakes Caught on Camera</a><br/>Apr 14, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=njvqrV049pw"><img width="140px" src="https://i.ytimg.com/vi/njvqrV049pw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=njvqrV049pw">That Was Really Filmed On Camera</a><br/>Apr 12, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
