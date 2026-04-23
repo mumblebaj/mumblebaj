@@ -1,20 +1,33 @@
 name: Latest blog post workflow
+
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 02 * * *'
+    # Runs daily at 02:17 UTC
+    - cron: '17 2 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+    name: Update this repo's README with latest YouTube videos
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+
+      - name: Check YouTube feeds
+        run: |
+          curl -I "https://www.youtube.com/feeds/videos.xml?playlist_id=PLZBfUeCge2wbDTqJjBoblovpTykgXkDLo"
+          curl -I "https://www.youtube.com/feeds/videos.xml?playlist_id=PLYQY-LLO7fxFTYwqKGPCeDQcHnkBUshgS"
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "4"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLZBfUeCge2wbDTqJjBoblovpTykgXkDLo,https://www.youtube.com/feeds/videos.xml?playlist_id=PLYQY-LLO7fxFTYwqKGPCeDQcHnkBUshgS"
+          feed_list: |
+            https://www.youtube.com/feeds/videos.xml?playlist_id=PLZBfUeCge2wbDTqJjBoblovpTykgXkDLo
+            https://www.youtube.com/feeds/videos.xml?playlist_id=PLYQY-LLO7fxFTYwqKGPCeDQcHnkBUshgS
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
           template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
