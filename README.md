@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XdTCoC3NmLg"><img width="140px" src="https://i.ytimg.com/vi/XdTCoC3NmLg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XdTCoC3NmLg">Unbelievable Volcano Eruptions Caught on Camera</a><br/>Apr 22, 2026</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bcmGSBeiJ-0"><img width="140px" src="https://i.ytimg.com/vi/bcmGSBeiJ-0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bcmGSBeiJ-0">Moments Filmed Seconds Before Disasters</a><br/>Apr 23, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XdTCoC3NmLg"><img width="140px" src="https://i.ytimg.com/vi/XdTCoC3NmLg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XdTCoC3NmLg">Volcano Eruptions: The Most Terrifying Power on Earth</a><br/>Apr 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=F2KpQRcVxa4"><img width="140px" src="https://i.ytimg.com/vi/F2KpQRcVxa4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F2KpQRcVxa4">Here&#39;s How Professionals Deep Clean Things</a><br/>Apr 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ve-efbSmxH0"><img width="140px" src="https://i.ytimg.com/vi/ve-efbSmxH0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ve-efbSmxH0">That Was Really Filmed on Camera</a><br/>Apr 19, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iSxAfM_qSVA"><img width="140px" src="https://i.ytimg.com/vi/iSxAfM_qSVA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iSxAfM_qSVA">GENIUS GARDEN HACKS THAT ACTUALLY WORK</a><br/>Apr 18, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
