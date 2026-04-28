@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=eiN8ZB0aLM0"><img width="140px" src="https://i.ytimg.com/vi/eiN8ZB0aLM0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=N4k6WfMySf0"><img width="140px" src="https://i.ytimg.com/vi/N4k6WfMySf0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=N4k6WfMySf0">Incredible Ingenious Hidden Rooms and Secret Furniture</a><br/>Apr 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=o6Sz4E2fC0M"><img width="140px" src="https://i.ytimg.com/vi/o6Sz4E2fC0M/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o6Sz4E2fC0M">That Was Really Filmed on Camera</a><br/>Apr 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eiN8ZB0aLM0"><img width="140px" src="https://i.ytimg.com/vi/eiN8ZB0aLM0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eiN8ZB0aLM0">Damn Nature You Scary | Rare and Scary Animal Encounters</a><br/>Apr 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8I3_NM-V_w0"><img width="140px" src="https://i.ytimg.com/vi/8I3_NM-V_w0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8I3_NM-V_w0">20 COOL INVENTIONS FOR YOUR PICKUP TRUCK</a><br/>Apr 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=bcmGSBeiJ-0"><img width="140px" src="https://i.ytimg.com/vi/bcmGSBeiJ-0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bcmGSBeiJ-0">Moments Filmed Seconds Before Disasters</a><br/>Apr 23, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XdTCoC3NmLg"><img width="140px" src="https://i.ytimg.com/vi/XdTCoC3NmLg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XdTCoC3NmLg">Volcano Eruptions: The Most Terrifying Power on Earth</a><br/>Apr 22, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
