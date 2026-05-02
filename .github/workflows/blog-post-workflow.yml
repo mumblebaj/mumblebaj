@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '17 2 * * *'
+    - cron: '17 7 * * *'
   workflow_dispatch:
 
 permissions:
