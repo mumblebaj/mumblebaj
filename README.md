@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TLzwQC5xATo"><img width="140px" src="https://i.ytimg.com/vi/TLzwQC5xATo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=PJzy0Lv1Q6Y"><img width="140px" src="https://i.ytimg.com/vi/PJzy0Lv1Q6Y/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PJzy0Lv1Q6Y">That Was Really Filmed on Camera</a><br/>May 3, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=TLzwQC5xATo"><img width="140px" src="https://i.ytimg.com/vi/TLzwQC5xATo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TLzwQC5xATo">10 AMAZING FACTS ABOUT EVOLUTION OF PICKUP TRUCKS</a><br/>May 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0kdcT2ZpqgQ"><img width="140px" src="https://i.ytimg.com/vi/0kdcT2ZpqgQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0kdcT2ZpqgQ">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>May 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=23BcZAfeWeg"><img width="140px" src="https://i.ytimg.com/vi/23BcZAfeWeg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=23BcZAfeWeg">70 Monster Waves Caught on Camera</a><br/>Apr 30, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Eqn7UGvdQ7M"><img width="140px" src="https://i.ytimg.com/vi/Eqn7UGvdQ7M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Eqn7UGvdQ7M">When Road Ragers Get a Brutal Reality Check</a><br/>Apr 29, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
