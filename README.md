@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=F6LU13oncSE"><img width="140px" src="https://i.ytimg.com/vi/F6LU13oncSE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7uL9N5uejTg"><img width="140px" src="https://i.ytimg.com/vi/7uL9N5uejTg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7uL9N5uejTg">SMART CAMPING INVENTIONS THAT ARE ON THE NEXT LEVEL</a><br/>May 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5a5vMeIifZU"><img width="140px" src="https://i.ytimg.com/vi/5a5vMeIifZU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5a5vMeIifZU">Most Unbelievable Nature Moments Ever Caught on Camera</a><br/>May 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=F6LU13oncSE"><img width="140px" src="https://i.ytimg.com/vi/F6LU13oncSE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F6LU13oncSE">Mega Machines Out of Control: Industrial Disasters Filmed on Camera</a><br/>May 7, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JYJoZUrK9S0"><img width="140px" src="https://i.ytimg.com/vi/JYJoZUrK9S0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JYJoZUrK9S0">When Wild Animals Blocked the Road | Dashcam Captures Everything</a><br/>May 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=ryNufzw5gO8"><img width="140px" src="https://i.ytimg.com/vi/ryNufzw5gO8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ryNufzw5gO8">Terrifying Seconds on the Job | Bodycam Captures Everything</a><br/>May 5, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PJzy0Lv1Q6Y"><img width="140px" src="https://i.ytimg.com/vi/PJzy0Lv1Q6Y/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PJzy0Lv1Q6Y">That Was Really Filmed on Camera</a><br/>May 3, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
