@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IRwZsW8ydhk"><img width="140px" src="https://i.ytimg.com/vi/IRwZsW8ydhk/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=mjOmmfcHqhY"><img width="140px" src="https://i.ytimg.com/vi/mjOmmfcHqhY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mjOmmfcHqhY">Ridiculous Road Workers Fails | You&#39;re Fired!</a><br/>May 20, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IRwZsW8ydhk"><img width="140px" src="https://i.ytimg.com/vi/IRwZsW8ydhk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IRwZsW8ydhk">Terrifying Crocodile Encounters Caught on Camera</a><br/>May 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=k1jT518uK1k"><img width="140px" src="https://i.ytimg.com/vi/k1jT518uK1k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=k1jT518uK1k">That Was Really Filmed on Camera</a><br/>May 17, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zOKUR84lOOI"><img width="140px" src="https://i.ytimg.com/vi/zOKUR84lOOI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zOKUR84lOOI">IDIOTS IN TRUCKS CAUGHT ON CAMERA</a><br/>May 16, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dTri3Jkbljw"><img width="140px" src="https://i.ytimg.com/vi/dTri3Jkbljw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dTri3Jkbljw">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>May 16, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
