@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Ze4DUlKV_oQ"><img width="140px" src="https://i.ytimg.com/vi/Ze4DUlKV_oQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ReihGpw5ylM"><img width="140px" src="https://i.ytimg.com/vi/ReihGpw5ylM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ReihGpw5ylM">Most Expensive Fails Ever Caught on Camera</a><br/>May 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Ze4DUlKV_oQ"><img width="140px" src="https://i.ytimg.com/vi/Ze4DUlKV_oQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ze4DUlKV_oQ">That Was Really Filmed on Camera</a><br/>May 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ITInLSCSisE"><img width="140px" src="https://i.ytimg.com/vi/ITInLSCSisE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ITInLSCSisE">HEAVY MACHINERY AND INDUSTRIAL MISTAKES CAUGHT ON CAMERA</a><br/>May 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zub1WCTQsxI"><img width="140px" src="https://i.ytimg.com/vi/zub1WCTQsxI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zub1WCTQsxI">75 Strange Things Happening Right Now Around the World [Caught on Camera Edition]</a><br/>May 23, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=qQkssurSDTo"><img width="140px" src="https://i.ytimg.com/vi/qQkssurSDTo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=qQkssurSDTo">Most Incredible Incidents at Sea Caught on Camera</a><br/>May 21, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
