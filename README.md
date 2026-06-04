@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c3D261pNjJE"><img width="140px" src="https://i.ytimg.com/vi/c3D261pNjJE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vm6OsVJBmS8"><img width="140px" src="https://i.ytimg.com/vi/vm6OsVJBmS8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vm6OsVJBmS8">Roads You Would Never Want to Drive on | Most Dangerous Roads in the World</a><br/>Jun 3, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=c3D261pNjJE"><img width="140px" src="https://i.ytimg.com/vi/c3D261pNjJE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c3D261pNjJE">Terrifying Big Cat Encounters Caught on Camera</a><br/>Jun 2, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ouplv00cMxM"><img width="140px" src="https://i.ytimg.com/vi/ouplv00cMxM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ouplv00cMxM">80 Strange Moments No One Can Explain [Caught on Camera Edition]</a><br/>May 31, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TT1slVvVtVo"><img width="140px" src="https://i.ytimg.com/vi/TT1slVvVtVo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TT1slVvVtVo">110 Luckiest People Ever Caught on Camera</a><br/>May 30, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Zztn2uEo7LM"><img width="140px" src="https://i.ytimg.com/vi/Zztn2uEo7LM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Zztn2uEo7LM">INCREDIBLE HOMEMADE PALLET CRAFTS THAT YOU CAN MAKE YOURSELF</a><br/>May 30, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
