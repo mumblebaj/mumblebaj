@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zYEgW85_wm8"><img width="140px" src="https://i.ytimg.com/vi/zYEgW85_wm8/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=VLCJ0QR0ABA"><img width="140px" src="https://i.ytimg.com/vi/VLCJ0QR0ABA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VLCJ0QR0ABA">That Was Really Filmed on Camera</a><br/>Jun 7, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zYEgW85_wm8"><img width="140px" src="https://i.ytimg.com/vi/zYEgW85_wm8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zYEgW85_wm8">WHY TRUCK DRIVERS PREFER THE CAB OVER A HOTEL ROOM</a><br/>Jun 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TdE_1hQsBDI"><img width="140px" src="https://i.ytimg.com/vi/TdE_1hQsBDI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TdE_1hQsBDI">Pets vs Predators Caught on Camera</a><br/>Jun 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SuQrYJyeAzA"><img width="140px" src="https://i.ytimg.com/vi/SuQrYJyeAzA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SuQrYJyeAzA">Worst Neighbors from Hell Caught on Camera</a><br/>Jun 4, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=vm6OsVJBmS8"><img width="140px" src="https://i.ytimg.com/vi/vm6OsVJBmS8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vm6OsVJBmS8">Roads You Would Never Want to Drive on | Most Dangerous Roads in the World</a><br/>Jun 3, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
