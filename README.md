@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1uB65kPujVo"><img width="140px" src="https://i.ytimg.com/vi/1uB65kPujVo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=H1i6BaZobkc"><img width="140px" src="https://i.ytimg.com/vi/H1i6BaZobkc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=H1i6BaZobkc">That Was Really Filmed on Camera</a><br/>Jun 14, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=1uB65kPujVo"><img width="140px" src="https://i.ytimg.com/vi/1uB65kPujVo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1uB65kPujVo">SMART GADGETS THAT WILL UPGRADE YOUR LIFE!</a><br/>Jun 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5RMmR3FPCVg"><img width="140px" src="https://i.ytimg.com/vi/5RMmR3FPCVg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5RMmR3FPCVg">CCTV Caught What Nobody Expected</a><br/>Jun 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VTLXzLZm40Q"><img width="140px" src="https://i.ytimg.com/vi/VTLXzLZm40Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VTLXzLZm40Q">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jun 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=rKPwJae1wIQ"><img width="140px" src="https://i.ytimg.com/vi/rKPwJae1wIQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rKPwJae1wIQ">World&#39;s Most Dangerous Rivers | Monster Waves and Whirlpools</a><br/>Jun 10, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
