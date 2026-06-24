@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0zCMES1a7Ho"><img width="140px" src="https://i.ytimg.com/vi/0zCMES1a7Ho/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=P8iorEbnYeo"><img width="140px" src="https://i.ytimg.com/vi/P8iorEbnYeo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=P8iorEbnYeo">Incredible Street Performances Caught on Camera</a><br/>Jun 23, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=0zCMES1a7Ho"><img width="140px" src="https://i.ytimg.com/vi/0zCMES1a7Ho/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0zCMES1a7Ho">That Was Really Filmed on Camera</a><br/>Jun 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wkPIO-tQF0o"><img width="140px" src="https://i.ytimg.com/vi/wkPIO-tQF0o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wkPIO-tQF0o">COOL BACKYARD GADGETS WORTH BUYING THIS YEAR</a><br/>Jun 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=96kPrmLk20g"><img width="140px" src="https://i.ytimg.com/vi/96kPrmLk20g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=96kPrmLk20g">70 Times Mother Nature Got Angry on Camera</a><br/>Jun 20, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FoAV-W74Y78"><img width="140px" src="https://i.ytimg.com/vi/FoAV-W74Y78/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FoAV-W74Y78">Wild Animals Invading Cities Caught on Camera</a><br/>Jun 18, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
