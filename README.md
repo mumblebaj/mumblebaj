@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=IZ5lcQmXngI"><img width="140px" src="https://i.ytimg.com/vi/IZ5lcQmXngI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=b2yM7wiL0l0"><img width="140px" src="https://i.ytimg.com/vi/b2yM7wiL0l0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b2yM7wiL0l0">That Was Really Filmed On Camera</a><br/>Jun 28, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=IZ5lcQmXngI"><img width="140px" src="https://i.ytimg.com/vi/IZ5lcQmXngI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IZ5lcQmXngI">THE REAL REASON AIRPLANES KEEP FUEL IN THE WINGS</a><br/>Jun 27, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SncrlIaSgn8"><img width="140px" src="https://i.ytimg.com/vi/SncrlIaSgn8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SncrlIaSgn8">Insane Aviation &amp; Sky Fails Caught on Camera</a><br/>Jun 27, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=79Mm7zjWolo"><img width="140px" src="https://i.ytimg.com/vi/79Mm7zjWolo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=79Mm7zjWolo">Unbelievable City Collapses and Mistakes Caught on Camera</a><br/>Jun 25, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=w5YdnC_f6m8"><img width="140px" src="https://i.ytimg.com/vi/w5YdnC_f6m8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=w5YdnC_f6m8">60 Wild Elephant Encounter Caught on Camera</a><br/>Jun 24, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
