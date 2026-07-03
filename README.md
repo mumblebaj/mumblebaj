@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BO5QcyWzJiI"><img width="140px" src="https://i.ytimg.com/vi/BO5QcyWzJiI/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bFPP9ckGy-Q"><img width="140px" src="https://i.ytimg.com/vi/bFPP9ckGy-Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bFPP9ckGy-Q">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jul 2, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=BO5QcyWzJiI"><img width="140px" src="https://i.ytimg.com/vi/BO5QcyWzJiI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=BO5QcyWzJiI">Most Incredible Forest Moments Caught on Camera | Wildlife Edition</a><br/>Jul 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TdDeumEfDlA"><img width="140px" src="https://i.ytimg.com/vi/TdDeumEfDlA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TdDeumEfDlA">Videos That Broke My Brain</a><br/>Jun 30, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=b2yM7wiL0l0"><img width="140px" src="https://i.ytimg.com/vi/b2yM7wiL0l0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b2yM7wiL0l0">That Was Really Filmed On Camera</a><br/>Jun 28, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=IZ5lcQmXngI"><img width="140px" src="https://i.ytimg.com/vi/IZ5lcQmXngI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IZ5lcQmXngI">THE REAL REASON AIRPLANES KEEP FUEL IN THE WINGS</a><br/>Jun 27, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
