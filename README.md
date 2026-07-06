@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=zvv8Ko82LUg"><img width="140px" src="https://i.ytimg.com/vi/zvv8Ko82LUg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Oz4GJIBUEfg"><img width="140px" src="https://i.ytimg.com/vi/Oz4GJIBUEfg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Oz4GJIBUEfg">That Was Really Filmed On Camera</a><br/>Jul 5, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=zvv8Ko82LUg"><img width="140px" src="https://i.ytimg.com/vi/zvv8Ko82LUg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zvv8Ko82LUg">SMART GADGETS THAT WILL UPGRADE YOUR LIFE</a><br/>Jul 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-FcViG3sEN4"><img width="140px" src="https://i.ytimg.com/vi/-FcViG3sEN4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-FcViG3sEN4">Biggest Sinking Ships | Incredible Survival in Huge Waves</a><br/>Jul 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bFPP9ckGy-Q"><img width="140px" src="https://i.ytimg.com/vi/bFPP9ckGy-Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bFPP9ckGy-Q">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jul 2, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BO5QcyWzJiI"><img width="140px" src="https://i.ytimg.com/vi/BO5QcyWzJiI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BO5QcyWzJiI">Most Incredible Forest Moments Caught on Camera | Wildlife Edition</a><br/>Jul 1, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
