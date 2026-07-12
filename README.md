@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=LfIyMt3VJwQ"><img width="140px" src="https://i.ytimg.com/vi/LfIyMt3VJwQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=twhchZJ4SRI"><img width="140px" src="https://i.ytimg.com/vi/twhchZJ4SRI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=twhchZJ4SRI">THIS IS WHY GAS STATIONS DON’T EXPLODE</a><br/>Jul 11, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=LfIyMt3VJwQ"><img width="140px" src="https://i.ytimg.com/vi/LfIyMt3VJwQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LfIyMt3VJwQ">Tunnel Accidents You Won&#39;t Believe Actually Happened</a><br/>Jul 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TKDN1iPnals"><img width="140px" src="https://i.ytimg.com/vi/TKDN1iPnals/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TKDN1iPnals">Wild Moose Encounter Caught on Camera</a><br/>Jul 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=w77-DpYQSkE"><img width="140px" src="https://i.ytimg.com/vi/w77-DpYQSkE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w77-DpYQSkE">70 Most Realistic Tattoos You&#39;ve Ever Seen</a><br/>Jul 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Oz4GJIBUEfg"><img width="140px" src="https://i.ytimg.com/vi/Oz4GJIBUEfg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Oz4GJIBUEfg">That Was Really Filmed On Camera</a><br/>Jul 5, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
