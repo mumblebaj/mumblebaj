@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=lsc70n-EDVY"><img width="140px" src="https://i.ytimg.com/vi/lsc70n-EDVY/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=0jnyMkIMKPQ"><img width="140px" src="https://i.ytimg.com/vi/0jnyMkIMKPQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0jnyMkIMKPQ">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Jul 16, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lsc70n-EDVY"><img width="140px" src="https://i.ytimg.com/vi/lsc70n-EDVY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lsc70n-EDVY">When Wild Animals Blocked the Road | Dashcam Captures Everything</a><br/>Jul 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=xoCY41rgbYI"><img width="140px" src="https://i.ytimg.com/vi/xoCY41rgbYI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xoCY41rgbYI">When Fans Go Too Far | Craziest Fan Moments</a><br/>Jul 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-7QcEI__eKo"><img width="140px" src="https://i.ytimg.com/vi/-7QcEI__eKo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-7QcEI__eKo">That Was Really Filmed on Camera</a><br/>Jul 12, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=twhchZJ4SRI"><img width="140px" src="https://i.ytimg.com/vi/twhchZJ4SRI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=twhchZJ4SRI">WHY DO GAS STATIONS ALWAYS HAVE CANOPIES?</a><br/>Jul 11, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
