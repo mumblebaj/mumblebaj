@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Lc8FNJhwrDM"><img width="140px" src="https://i.ytimg.com/vi/Lc8FNJhwrDM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XaCT7AzCPNg"><img width="140px" src="https://i.ytimg.com/vi/XaCT7AzCPNg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XaCT7AzCPNg">When Suspect Thinks He&#39;s in GTA 6</a><br/>Jul 23, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Lc8FNJhwrDM"><img width="140px" src="https://i.ytimg.com/vi/Lc8FNJhwrDM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Lc8FNJhwrDM">85 Most Incredible Bird Attacks Caught on Camera</a><br/>Jul 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QopOkzXLZ4Q"><img width="140px" src="https://i.ytimg.com/vi/QopOkzXLZ4Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QopOkzXLZ4Q">What They Filmed Deep Inside the Cave is Insane</a><br/>Jul 21, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=E4C_4rF_S3Y"><img width="140px" src="https://i.ytimg.com/vi/E4C_4rF_S3Y/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=E4C_4rF_S3Y">That Was Really Filmed on Camera</a><br/>Jul 19, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=dCSACePJPpc"><img width="140px" src="https://i.ytimg.com/vi/dCSACePJPpc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dCSACePJPpc">INSANE GADGETS TO BEAT THE HEAT WAVE</a><br/>Jul 18, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
