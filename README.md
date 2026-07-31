@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=F8Vsf9M3yCE"><img width="140px" src="https://i.ytimg.com/vi/F8Vsf9M3yCE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=aDcWdva17PU"><img width="140px" src="https://i.ytimg.com/vi/aDcWdva17PU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aDcWdva17PU">Heavy Equipment Fails That Hit Different</a><br/>Jul 30, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=F8Vsf9M3yCE"><img width="140px" src="https://i.ytimg.com/vi/F8Vsf9M3yCE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F8Vsf9M3yCE">50 Terrifying Bridges You Don&#39;t Want To Cross</a><br/>Jul 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=WfYAGAee7vQ"><img width="140px" src="https://i.ytimg.com/vi/WfYAGAee7vQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WfYAGAee7vQ">Animals with Zero Survival Instincts | Craziest Animal Moments Ever</a><br/>Jul 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=jjCCW5C6azY"><img width="140px" src="https://i.ytimg.com/vi/jjCCW5C6azY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jjCCW5C6azY">That Was Really Filmed on Camera</a><br/>Jul 26, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=coCC-T9nKxI"><img width="140px" src="https://i.ytimg.com/vi/coCC-T9nKxI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=coCC-T9nKxI">Moments Filmed Seconds Before Disasters</a><br/>Jul 25, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
