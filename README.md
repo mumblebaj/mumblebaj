@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=b34XFM3zhF0"><img width="140px" src="https://i.ytimg.com/vi/b34XFM3zhF0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=JE-lDmy05nI"><img width="140px" src="https://i.ytimg.com/vi/JE-lDmy05nI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JE-lDmy05nI">That Was Really Filmed On Camera</a><br/>Aug 9, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RllLDPyyqcE"><img width="140px" src="https://i.ytimg.com/vi/RllLDPyyqcE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RllLDPyyqcE">75 Strange Things Happening Right Now Around the World [Caught on Camera Edition]</a><br/>Aug 8, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=b34XFM3zhF0"><img width="140px" src="https://i.ytimg.com/vi/b34XFM3zhF0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b34XFM3zhF0">Idiots with Chainsaws: Tree Cutting Fails</a><br/>Aug 6, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ctIg9XwAUVA"><img width="140px" src="https://i.ytimg.com/vi/ctIg9XwAUVA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ctIg9XwAUVA">People Who Messed with the Wrong Guard Dogs</a><br/>Aug 5, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=1VPAoCHNYY4"><img width="140px" src="https://i.ytimg.com/vi/1VPAoCHNYY4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1VPAoCHNYY4">Caught in Collapse: Landslides &amp; Avalanches in Action</a><br/>Aug 4, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=2K9BpUag7ZE"><img width="140px" src="https://i.ytimg.com/vi/2K9BpUag7ZE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2K9BpUag7ZE">Incredible Moments Caught On Camera</a><br/>Aug 2, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
