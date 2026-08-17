@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NMvFQwyF640"><img width="140px" src="https://i.ytimg.com/vi/NMvFQwyF640/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xer7P-xRCjs"><img width="140px" src="https://i.ytimg.com/vi/xer7P-xRCjs/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xer7P-xRCjs">That Was Really Filmed On Camera</a><br/>Aug 16, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NMvFQwyF640"><img width="140px" src="https://i.ytimg.com/vi/NMvFQwyF640/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NMvFQwyF640">Incredible Lightning Strikes Caught on Camera</a><br/>Aug 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=5UfhlISx6RQ"><img width="140px" src="https://i.ytimg.com/vi/5UfhlISx6RQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5UfhlISx6RQ">Most Ridiculous Worker Mistakes Caught on Camera</a><br/>Aug 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1FspVBZ38BE"><img width="140px" src="https://i.ytimg.com/vi/1FspVBZ38BE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1FspVBZ38BE">Unbelievable Off-Road Fails and Wins Caught on Camera</a><br/>Aug 12, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=BT0Cz0DboS0"><img width="140px" src="https://i.ytimg.com/vi/BT0Cz0DboS0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BT0Cz0DboS0">Unexpected Bear Encounters Caught on Camera</a><br/>Aug 11, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
