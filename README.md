@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=RiI5rLMaR0M"><img width="140px" src="https://i.ytimg.com/vi/RiI5rLMaR0M/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=WQVRU2IPQAI"><img width="140px" src="https://i.ytimg.com/vi/WQVRU2IPQAI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WQVRU2IPQAI">Ship Launch | Awesome Waves, Fails and Close Calls</a><br/>Aug 25, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=RiI5rLMaR0M"><img width="140px" src="https://i.ytimg.com/vi/RiI5rLMaR0M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RiI5rLMaR0M">Videos that Broke My Brain</a><br/>Aug 23, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KMPXWyZGYt8"><img width="140px" src="https://i.ytimg.com/vi/KMPXWyZGYt8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KMPXWyZGYt8">65 Monster Waves Caught on Camera</a><br/>Aug 22, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=wCezuUm5g1w"><img width="140px" src="https://i.ytimg.com/vi/wCezuUm5g1w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wCezuUm5g1w">CCTV Caught What Nobody Expected</a><br/>Aug 20, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=HuchsZ4L0aU"><img width="140px" src="https://i.ytimg.com/vi/HuchsZ4L0aU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HuchsZ4L0aU">The Most Incredible Shark Encounters Ever Captured on Camera</a><br/>Aug 19, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
