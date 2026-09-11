@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mu2El31aKoE"><img width="140px" src="https://i.ytimg.com/vi/Mu2El31aKoE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dxCHy2e4_as"><img width="140px" src="https://i.ytimg.com/vi/dxCHy2e4_as/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dxCHy2e4_as">Ridiculous Road Workers Fails | You&#39;re Fired!</a><br/>Sep 10, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mu2El31aKoE"><img width="140px" src="https://i.ytimg.com/vi/Mu2El31aKoE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mu2El31aKoE">Craziest Cyclist Moments Ever Caught on Camera</a><br/>Sep 9, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Ou35JR4z2DU"><img width="140px" src="https://i.ytimg.com/vi/Ou35JR4z2DU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ou35JR4z2DU">80 Massive Objects Crashing Down Caught on Camera</a><br/>Sep 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_Lseke_y_bE"><img width="140px" src="https://i.ytimg.com/vi/_Lseke_y_bE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_Lseke_y_bE">Videos That Broke My Brain</a><br/>Sep 6, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=6cSCaZCFb2U"><img width="140px" src="https://i.ytimg.com/vi/6cSCaZCFb2U/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=6cSCaZCFb2U">Moments Filmed Seconds Before Disasters</a><br/>Sep 5, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
