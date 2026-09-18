@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wlSOR-Bgfsw"><img width="140px" src="https://i.ytimg.com/vi/wlSOR-Bgfsw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=B2w0a7I127g"><img width="140px" src="https://i.ytimg.com/vi/B2w0a7I127g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B2w0a7I127g">When Bikers Messed with the Wrong People</a><br/>Sep 17, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wlSOR-Bgfsw"><img width="140px" src="https://i.ytimg.com/vi/wlSOR-Bgfsw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wlSOR-Bgfsw">Terrifying Bison Encounters Caught on Camera</a><br/>Sep 16, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nfA97LIhPOA"><img width="140px" src="https://i.ytimg.com/vi/nfA97LIhPOA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nfA97LIhPOA">When Cargo Delivery Goes Wrong | Transportation Fails Caught on Camera</a><br/>Sep 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=N2y5euhIcwY"><img width="140px" src="https://i.ytimg.com/vi/N2y5euhIcwY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N2y5euhIcwY">That Was Really Filmed On Camera</a><br/>Sep 13, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YHJ6EOCBcFQ"><img width="140px" src="https://i.ytimg.com/vi/YHJ6EOCBcFQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YHJ6EOCBcFQ">Most Incredible Cruise Ship Videos Ever Captured</a><br/>Sep 12, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=N2y5euhIcwY">Videos that Broke My Brain</a><br/>Sep 13, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
