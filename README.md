@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e8IPgA1xB2o"><img width="140px" src="https://i.ytimg.com/vi/e8IPgA1xB2o/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cCPXZ77lqx8"><img width="140px" src="https://i.ytimg.com/vi/cCPXZ77lqx8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cCPXZ77lqx8">Best Roofing Fails | Roofing Work Gone Wrong</a><br/>Sep 22, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=e8IPgA1xB2o"><img width="140px" src="https://i.ytimg.com/vi/e8IPgA1xB2o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e8IPgA1xB2o">Videos That Broke My Brain</a><br/>Sep 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZRn8foIhAwg"><img width="140px" src="https://i.ytimg.com/vi/ZRn8foIhAwg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZRn8foIhAwg">Insane Airport Fails | Unbelievable Moments Ever Captured</a><br/>Sep 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=B2w0a7I127g"><img width="140px" src="https://i.ytimg.com/vi/B2w0a7I127g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B2w0a7I127g">When Bikers Messed with the Wrong People</a><br/>Sep 17, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wlSOR-Bgfsw"><img width="140px" src="https://i.ytimg.com/vi/wlSOR-Bgfsw/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wlSOR-Bgfsw">Terrifying Bison Encounters Caught on Camera</a><br/>Sep 16, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
