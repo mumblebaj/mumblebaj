@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=h9uQtBgjR6A"><img width="140px" src="https://i.ytimg.com/vi/h9uQtBgjR6A/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=E1p9DB8cgAU"><img width="140px" src="https://i.ytimg.com/vi/E1p9DB8cgAU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=E1p9DB8cgAU">Videos That Broke My Brain</a><br/>Sep 27, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eF-wsPQs-6o"><img width="140px" src="https://i.ytimg.com/vi/eF-wsPQs-6o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eF-wsPQs-6o">Natural Disasters but They Get Increasingly More Extreme</a><br/>Sep 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=h9uQtBgjR6A"><img width="140px" src="https://i.ytimg.com/vi/h9uQtBgjR6A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=h9uQtBgjR6A">Safari Trips Went Horribly Wrong</a><br/>Sep 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=c4jQD5u2PP0"><img width="140px" src="https://i.ytimg.com/vi/c4jQD5u2PP0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=c4jQD5u2PP0">Unbelievable City Collapses and Mistakes Caught on Camera</a><br/>Sep 23, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=cCPXZ77lqx8"><img width="140px" src="https://i.ytimg.com/vi/cCPXZ77lqx8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cCPXZ77lqx8">Best Roofing Fails | Roofing Work Gone Wrong</a><br/>Sep 22, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=e8IPgA1xB2o"><img width="140px" src="https://i.ytimg.com/vi/e8IPgA1xB2o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=e8IPgA1xB2o">Videos That Broke My Brain</a><br/>Sep 20, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
