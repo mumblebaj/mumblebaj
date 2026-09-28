@@ -85,7 +85,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=E1p9DB8cgAU"><img width="140px" src="https://i.ytimg.com/vi/E1p9DB8cgAU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=E1p9DB8cgAU">Videos That Broke My Brain</a><br/>Sep 27, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=E1p9DB8cgAU">Videos that Broke My Brain</a><br/>Sep 27, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eF-wsPQs-6o"><img width="140px" src="https://i.ytimg.com/vi/eF-wsPQs-6o/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eF-wsPQs-6o">Natural Disasters but They Get Increasingly More Extreme</a><br/>Sep 26, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=h9uQtBgjR6A"><img width="140px" src="https://i.ytimg.com/vi/h9uQtBgjR6A/mqdefault.jpg"></a></td>
