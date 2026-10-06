@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=7TjABq1h5Bw"><img width="140px" src="https://i.ytimg.com/vi/7TjABq1h5Bw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vG1z6NfFN-U"><img width="140px" src="https://i.ytimg.com/vi/vG1z6NfFN-U/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vG1z6NfFN-U">Police vs Wild Animals | Bodycam Captures Everything</a><br/>Oct 6, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=7TjABq1h5Bw"><img width="140px" src="https://i.ytimg.com/vi/7TjABq1h5Bw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7TjABq1h5Bw">Videos That Broke My Brain</a><br/>Oct 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=hXTcf6rQVuE"><img width="140px" src="https://i.ytimg.com/vi/hXTcf6rQVuE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hXTcf6rQVuE">Factory Fails | When Industrial Machines Go Out of Control</a><br/>Oct 1, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=u30mBreR1xo"><img width="140px" src="https://i.ytimg.com/vi/u30mBreR1xo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=u30mBreR1xo">Extreme Weather Driving | Slides, Spinouts &amp; Close Calls</a><br/>Sep 30, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OLIh8YDXTDI"><img width="140px" src="https://i.ytimg.com/vi/OLIh8YDXTDI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OLIh8YDXTDI">When Ships Meet Bridges | Insane Collisions</a><br/>Sep 29, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
