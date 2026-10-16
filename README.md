@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=6qM2wtEg1eA"><img width="140px" src="https://i.ytimg.com/vi/6qM2wtEg1eA/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I1NFzB_bSm8"><img width="140px" src="https://i.ytimg.com/vi/I1NFzB_bSm8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I1NFzB_bSm8">120 Luckiest People Ever Caught on Camera</a><br/>Oct 15, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=6qM2wtEg1eA"><img width="140px" src="https://i.ytimg.com/vi/6qM2wtEg1eA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6qM2wtEg1eA">75 Incredible Wild Elephant Encounter Caught on Camera</a><br/>Oct 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MUOqwEeQ34M"><img width="140px" src="https://i.ytimg.com/vi/MUOqwEeQ34M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MUOqwEeQ34M">Worst Tractor Drivers | Farm Machinery Fails Caught on Camera</a><br/>Oct 13, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z1qAUF58YbY"><img width="140px" src="https://i.ytimg.com/vi/Z1qAUF58YbY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z1qAUF58YbY">Videos That Broke My Brain</a><br/>Oct 11, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4IV5HrtqohM"><img width="140px" src="https://i.ytimg.com/vi/4IV5HrtqohM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4IV5HrtqohM">90 Strange Things Happening Right Now Around the World [Caught on Camera Edition]</a><br/>Oct 10, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
