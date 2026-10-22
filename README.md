@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Mn0LnT06ECQ"><img width="140px" src="https://i.ytimg.com/vi/Mn0LnT06ECQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EaHUbWfndJo"><img width="140px" src="https://i.ytimg.com/vi/EaHUbWfndJo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EaHUbWfndJo">35 Massive Dam Failures Caught on Camera</a><br/>Oct 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Mn0LnT06ECQ"><img width="140px" src="https://i.ytimg.com/vi/Mn0LnT06ECQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Mn0LnT06ECQ">When City Workers Mess Up | Urban Fails Caught on Camera</a><br/>Oct 20, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dgv3mzvtNjo"><img width="140px" src="https://i.ytimg.com/vi/dgv3mzvtNjo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dgv3mzvtNjo">Videos that Broke My Brain</a><br/>Oct 18, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=1XMYRoWA93g"><img width="140px" src="https://i.ytimg.com/vi/1XMYRoWA93g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1XMYRoWA93g">When Wild Animals Get Way Too Close</a><br/>Oct 17, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=I1NFzB_bSm8"><img width="140px" src="https://i.ytimg.com/vi/I1NFzB_bSm8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=I1NFzB_bSm8">120 Luckiest People Ever Caught on Camera</a><br/>Oct 15, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
