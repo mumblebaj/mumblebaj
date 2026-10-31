@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xb4IQNMA028"><img width="140px" src="https://i.ytimg.com/vi/xb4IQNMA028/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wb2ZLJyMW2o"><img width="140px" src="https://i.ytimg.com/vi/wb2ZLJyMW2o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wb2ZLJyMW2o">70 Monster Waves Caught on Camera</a><br/>Oct 31, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xb4IQNMA028"><img width="140px" src="https://i.ytimg.com/vi/xb4IQNMA028/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xb4IQNMA028">Most Incredible Forest Moments Caught on Camera | Wildlife Edition</a><br/>Oct 29, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=JCjXM2mmD04"><img width="140px" src="https://i.ytimg.com/vi/JCjXM2mmD04/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JCjXM2mmD04">Delivery Drivers vs Animals | When Things Go Wrong</a><br/>Oct 28, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=dg9ND7nSWbg"><img width="140px" src="https://i.ytimg.com/vi/dg9ND7nSWbg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dg9ND7nSWbg">When Truckers Put an End to Road Madness</a><br/>Oct 27, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=lwarM97w2To"><img width="140px" src="https://i.ytimg.com/vi/lwarM97w2To/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lwarM97w2To">Videos that Broke My Brain</a><br/>Oct 25, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
