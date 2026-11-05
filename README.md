@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=wYujvPgZq6A"><img width="140px" src="https://i.ytimg.com/vi/wYujvPgZq6A/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=h_2lhfZhu6E"><img width="140px" src="https://i.ytimg.com/vi/h_2lhfZhu6E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=h_2lhfZhu6E">Terrifying Snake Encounters Caught on Camera</a><br/>Nov 5, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=wYujvPgZq6A"><img width="140px" src="https://i.ytimg.com/vi/wYujvPgZq6A/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wYujvPgZq6A">When Things Crash and Get Destroyed | Caught on Camera</a><br/>Nov 4, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=mKvd2E8K8WY"><img width="140px" src="https://i.ytimg.com/vi/mKvd2E8K8WY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mKvd2E8K8WY">80 Biggest Construction Mistakes in the World</a><br/>Nov 3, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=eWtQH6_qSB8"><img width="140px" src="https://i.ytimg.com/vi/eWtQH6_qSB8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eWtQH6_qSB8">Videos That Broke My Brain</a><br/>Nov 1, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=wb2ZLJyMW2o"><img width="140px" src="https://i.ytimg.com/vi/wb2ZLJyMW2o/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wb2ZLJyMW2o">70 Monster Waves Caught on Camera</a><br/>Oct 31, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
