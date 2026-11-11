@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UiJEbSNTpx4"><img width="140px" src="https://i.ytimg.com/vi/UiJEbSNTpx4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1XoPlZkqxZg"><img width="140px" src="https://i.ytimg.com/vi/1XoPlZkqxZg/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1XoPlZkqxZg">Idiots With Excavators: Total Job Site Chaos</a><br/>Nov 11, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=UiJEbSNTpx4"><img width="140px" src="https://i.ytimg.com/vi/UiJEbSNTpx4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UiJEbSNTpx4">When Nature Invades the Backyard | Caught on Camera</a><br/>Nov 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=vDC52js6hUE"><img width="140px" src="https://i.ytimg.com/vi/vDC52js6hUE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vDC52js6hUE">That Was Really Filmed On Camera</a><br/>Nov 8, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=it-3tVfd39c"><img width="140px" src="https://i.ytimg.com/vi/it-3tVfd39c/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=it-3tVfd39c">When Floods Hit Without Warning | Caught on Camera</a><br/>Nov 7, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=h_2lhfZhu6E"><img width="140px" src="https://i.ytimg.com/vi/h_2lhfZhu6E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=h_2lhfZhu6E">Terrifying Snake Encounters Caught on Camera</a><br/>Nov 5, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
