@@ -85,7 +85,7 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   I like videos on new tools and new constructions, be it home or Solar etc.
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=i96B-Anyjd0"><img width="140px" src="https://i.ytimg.com/vi/i96B-Anyjd0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i96B-Anyjd0">Videos That Broke My Brain</a><br/>Nov 15, 2026</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=i96B-Anyjd0">That Was Really Filmed On Camera</a><br/>Nov 15, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0VZyK3hWK5w"><img width="140px" src="https://i.ytimg.com/vi/0VZyK3hWK5w/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0VZyK3hWK5w">Insane Aviation &amp; Sky Fails Caught on Camera</a><br/>Nov 14, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EyWPVmF9urA"><img width="140px" src="https://i.ytimg.com/vi/EyWPVmF9urA/mqdefault.jpg"></a></td>
