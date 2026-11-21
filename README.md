@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=YcVTSsur10k"><img width="140px" src="https://i.ytimg.com/vi/YcVTSsur10k/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=c4dvneidYtM"><img width="140px" src="https://i.ytimg.com/vi/c4dvneidYtM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c4dvneidYtM">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>Nov 21, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=YcVTSsur10k"><img width="140px" src="https://i.ytimg.com/vi/YcVTSsur10k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YcVTSsur10k">75 Times Wild Animals Invaded Swimming Pools</a><br/>Nov 19, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nKTgmDKJ9to"><img width="140px" src="https://i.ytimg.com/vi/nKTgmDKJ9to/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nKTgmDKJ9to">Idiot Farmers Caught on Camera | Farm Fails</a><br/>Nov 18, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=0dOMXaUwTcQ"><img width="140px" src="https://i.ytimg.com/vi/0dOMXaUwTcQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0dOMXaUwTcQ">Glass Breaking Moments Caught on Camera</a><br/>Nov 17, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=i96B-Anyjd0"><img width="140px" src="https://i.ytimg.com/vi/i96B-Anyjd0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=i96B-Anyjd0">That Was Really Filmed On Camera</a><br/>Nov 15, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
