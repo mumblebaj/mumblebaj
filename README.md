@@ -84,12 +84,12 @@ I enjoy different projects and interesting tech <img src="https://media.giphy.co
   ## A Little More About Me.
   I like videos on new tools and new constructions, be it home or Solar etc.
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=jCti6Al7er0"><img width="140px" src="https://i.ytimg.com/vi/jCti6Al7er0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-ohB1ZGE8kc"><img width="140px" src="https://i.ytimg.com/vi/-ohB1ZGE8kc/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-ohB1ZGE8kc">Terrifying Crocodile Encounters Caught on Camera</a><br/>Nov 26, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=jCti6Al7er0"><img width="140px" src="https://i.ytimg.com/vi/jCti6Al7er0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jCti6Al7er0">Ridiculous Road Worker Fails | You’re Fired!</a><br/>Nov 25, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bVa8oQYdATI"><img width="140px" src="https://i.ytimg.com/vi/bVa8oQYdATI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bVa8oQYdATI">Craziest Repo &amp; Towing Fails | Everything Gone Wrong</a><br/>Nov 24, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Z8HSB1ibtKM"><img width="140px" src="https://i.ytimg.com/vi/Z8HSB1ibtKM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z8HSB1ibtKM">If This Was Not Recorded, No One Would Believe It!</a><br/>Nov 22, 2026</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=c4dvneidYtM"><img width="140px" src="https://i.ytimg.com/vi/c4dvneidYtM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c4dvneidYtM">Biggest Ship Collisions and Mistakes Caught on Camera</a><br/>Nov 21, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
